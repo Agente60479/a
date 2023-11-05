@@ -1,0 +1,2745 @@
+<insertar> Uno dos Ã¡mbar 
+Ãndices cigÃ¼eÃ±a dos camiÃ³n rÃ­o </insertar>
+<buscar> EspaÃ±a
+<buscar> BarÃ§a
+<insertar> DOS tres cuatro </insertar>
+<vaciar>
+<buscar> voilÃ 
+<alocado> c-p-t-la--o-
+<insertar> Nuevo </insertar>
+<partidas> can des sar </partidas>
+<cÃ©sar> Wuymul
+<juanagra> Roma
+<saco> moreno muÃ±eco
+<consomÃ©> camino
+<alarga> Ã¡lg
+<insertar> Lorem Ipsum "Neque porro quisquam est qui dolorem
+ ipsum quia dolor sit amet, consectetur, adipisci velit..."
+ "No hay nadie que ame el dolor mismo,
+ que lo busque, lo encuentre </insertar>
+<vaciar>
+<alocado> y
+<insertar> lo quiera, simplemente porque es el dolor." Â¿QuÃ©
+ </insertar>
+<cÃ©sar> es
+<alocado> Lorem
+<alarga> Ipsum?
+<alocado> Lorem
+<consomÃ©> Ipsum
+<consomÃ©> es
+<alocado> simplemente
+<alocado> el
+<juanagra> texto
+<alocado> de
+<saco> relleno de
+<alarga> las
+<consomÃ©> imprentas
+<insertar> y archivos de texto. Lorem Ipsum ha sido
+ el </insertar>
+<alocado> texto
+<partidas> der est del ind des ela 150 </partidas>
+<saco> cuando un
+<saco> impresor (N.
+<saco> del T.
+<cÃ©sar> persona
+<alarga> que
+<saco> se dedica
+<vaciar>
+<consomÃ©> a
+<alocado> la
+<cÃ©sar> imprenta)
+<saco> desconocido usÃ³
+<alocado> una
+<juanagra> galerÃ­a
+<alocado> de
+<insertar> textos </insertar>
+<insertar> y los mezclÃ³ de tal manera que logrÃ³
+ hacer un libro de textos especimen. No </insertar>
+<consomÃ©> sÃ³lo
+<cÃ©sar> sobreviviÃ³
+<saco> 500 aÃ±os,
+<insertar> sino que tambien ingresÃ³ como texto de relleno
+ en documentos </insertar>
+<juanagra> electrÃ³nicos,
+<consomÃ©> quedando
+<alarga> esencialmente
+<juanagra> igual
+<partidas> alo Fue enl 60s lac del hoj "Le </partidas>
+<alarga> las
+<saco> cuales contenian
+<alocado> pasajes
+<insertar> de Lorem Ipsum, y mÃ¡s recientemente con software
+ de autoediciÃ³n, como por ejemplo Aldus PageMaker, el
+ cual incluye versiones de Lorem Ipsum. Â¿Por quÃ©
+ lo usamos? Es un hecho establecido hace demasiado
+ tiempo que un lector se distraerÃ¡ con el
+ contenido del </insertar>
+<alarga> texto
+<consomÃ©> de
+<juanagra> un
+<partidas> sit mie que sud Elp deu Lor </partidas>
+<alarga> Ipsum
+<insertar> es que tiene una distribuciÃ³n mÃ¡s o menos
+ normal de las letras, al contrario de usar
+ textos como por ejemplo "Contenido </insertar>
+<juanagra> aquÃ­,
+<saco> contenido aquÃ­".
+<saco> Estos textos
+<juanagra> hacen
+<saco> parecerlo un
+<saco> espaÃ±ol que
+<insertar> se puede leer. Muchos paquetes de autoediciÃ³n y
+ editores de pÃ¡ginas </insertar>
+<alocado> web
+<saco> usan el
+<vaciar>
+<juanagra> Lorem
+<cÃ©sar> Ipsum
+<alocado> como
+<saco> su texto
+<partidas> por yal una de" Ips vaa por muc sit web usa est </partidas>
+<alocado> texto
+<cÃ©sar> si
+<saco> se encuentran
+<insertar> en estado de desarrollo. Muchas versiones han evolucionado
+ a travÃ©s de los aÃ±os, algunas veces por
+ accidente, otras veces a propÃ³sito (por ejemplo insertÃ¡ndole
+ humor y cosas por el estilo). Â¿De dÃ³nde
+ viene? Al </insertar>
+<juanagra> contrario
+<alarga> del
+<consomÃ©> pensamiento
+<partidas> pop elt deL Ips noe sim tex ale </partidas>
+<alocado> Tiene
+<cÃ©sar> sus
+<juanagra> raices
+<saco> en una
+<partidas> pie cl del lit del que del 45a deC </partidas>
+<saco> haciendo que
+<alarga> este
+<cÃ©sar> adquiera
+<juanagra> mas
+<alarga> de
+<juanagra> 2000
+<vaciar>
+<insertar> aÃ±os de antiguedad. Richard McClintock, un profesor </insertar>
+<insertar> de Latin de la Universidad de Hampden-Sydney en
+ Virginia, encontrÃ³ una de las palabras mÃ¡s oscuras
+ de la lengua del latÃ­n, "consecteur", en un
+ pasaje de Lorem Ipsum, y al seguir leyendo
+ distintos textos del latÃ­n, descubriÃ³ la fuente </insertar>
+<cÃ©sar> indudable.
+<saco> Lorem Ipsum
+<alarga> viene
+<cÃ©sar> de
+<alocado> las
+<juanagra> secciones
+<alocado> 1.10.32
+<cÃ©sar> y
+<alocado> 1.10.33
+<consomÃ©> de
+<juanagra> "de
+<partidas> Fin Bon etM (Lo Ext del yEl por esc </partidas>
+<alocado> en
+<consomÃ©> el
+<partidas> aÃ±o ant deC </partidas>
+<saco> Este libro
+<juanagra> es
+<saco> un tratado
+<cÃ©sar> de
+<saco> teorÃ­a de
+<alocado> Ã©ticas,
+<partidas> muy dur </partidas>
+<vaciar>
+<juanagra> el
+<consomÃ©> Renacimiento.
+<partidas> Lap lin del Ips "Lo ips dol sit vie deu </partidas>
+<insertar> linea en la secciÃ³n 1.10.32 El trozo de
+ </insertar>
+<cÃ©sar> texto
+<alarga> estÃ¡ndar
+<juanagra> de
+<alarga> Lorem
+<insertar> Ipsum usado desde el aÃ±o 1500 es reproducido
+ debajo para aquellos interesados. Las secciones 1.10.32 y
+ </insertar>
+<juanagra> 1.10.33
+<alocado> de
+<alocado> "de
+<cÃ©sar> Finibus
+<saco> Bonorum et
+<consomÃ©> Malorum"
+<insertar> por Cicero son tambiÃ©n reproducidas en su forma
+ original exacta, acompaÃ±adas por versiones en InglÃ©s de
+ la traducciÃ³n realizada en 1914 por H. Rackham.
+ Â¿DÃ³nde puedo conseguirlo? Hay muchas variaciones de los
+ pasajes de Lorem Ipsum disponibles, pero la mayorÃ­a
+ sufriÃ³ alteraciones en alguna manera, </insertar>
+<cÃ©sar> ya
+<vaciar>
+<juanagra> sea
+<partidas> por sel agr </partidas>
+<partidas> hum opa ale que </partidas>
+<juanagra> parecen
+<saco> ni un
+<partidas> poc cre </partidas>
+<cÃ©sar> Si
+<cÃ©sar> vas
+<alocado> a
+<partidas> uti unp deL Ips nec est seg deq </partidas>
+<juanagra> no
+<alarga> hay
+<saco> nada avergonzante
+<alocado> escondido
+<vaciar>
+<saco> en el
+<saco> medio del
+<insertar> texto. Todos los generadores de Lorem Ipsum que
+ se encuentran en Internet tienden a repetir trozos
+ predefinidos cuando sea necesario, </insertar>
+<partidas> hac aes elÃº gen ver (vÃ¡ enl Int Usa </partidas>
+<vaciar>
+<cÃ©sar> diccionario
+<juanagra> de
+<alarga> mas
+<alarga> de
+<alarga> 200
+<consomÃ©> palabras
+<alocado> provenientes
+<partidas> del com con muy des par </partidas>
+<saco> generar texto
+<alarga> de
+<partidas> Lor Ips que raz </partidas>
+<consomÃ©> Este
+<insertar> Lorem Ipsum generado siempre estarÃ¡ libre de repeticiones,
+ humor agregado o palabras no caracterÃ­sticas del lenguaje,
+ etc. 5 pÃ¡rrafos palabras bytes listas Comenzar con
+ 'Lorem ipsum dolor sit amet...' Generar Lorem Ipsum
+ Time tracking for freelancers Traducciones: Â¿PodÃ©s ayudar a
+ traducir este sitio en otro lenguaje? </insertar>
+<saco> Por favor
+<partidas> env unc ele con det sip ayu </partidas>
+<alocado> Ahora
+<alocado> hay
+<partidas> una </partidas>
+<saco> de banners
+<vaciar>
+<saco> disponibles aquÃ­
+<insertar> en tres colores y en un rango de
+ tamaÃ±os estÃ¡ndar: BannersBannersBanners Donar: Si utilizas este sitio
+ regularmente y te gustarÃ­a que siga online, por
+ favor, considerÃ¡ donar una pequeÃ±a suma para ayudar
+ a pagar el servicio </insertar>
+<consomÃ©> de
+<juanagra> hosting
+<insertar> y ancho de banda. ClickeÃ¡ aqui para donar
+ usando PayPal. Gracias por tu ayuda!. Chrome Firefox
+ Add-on NodeJS TeX Package Python Interface GTK Lipsum
+ Rails .NET Groovy Adobe Plugin El pasaje estÃ¡ndar
+ Lorem Ipsum, usado desde el aÃ±o 1500. "Lorem
+ ipsum dolor sit amet, consectetur adipiscing </insertar>
+<alocado> elit,
+<consomÃ©> sed
+<insertar> do eiusmod tempor incididunt ut labore et dolore
+ magna aliqua. Ut enim ad minim veniam, quis
+ nostrud exercitation ullamco laboris nisi ut aliquip ex
+ ea commodo consequat. Duis aute irure dolor in
+ reprehenderit </insertar>
+<consomÃ©> in
+<cÃ©sar> voluptate
+<insertar> velit esse cillum dolore eu fugiat nulla pariatur.
+ Excepteur sint occaecat cupidatat non proident, sunt in
+ culpa qui officia deserunt mollit anim id est
+ laborum." SecciÃ³n 1.10.32 de "de Finibus Bonorum et
+ Malorum", escrito por </insertar>
+<alocado> Cicero
+<alarga> en
+<insertar> el 45 antes de Cristo "Sed ut perspiciatis
+ unde omnis iste natus error sit voluptatem accusantium
+ doloremque laudantium, totam rem aperiam, eaque ipsa quae
+ ab illo inventore veritatis et quasi architecto beatae
+ vitae dicta sunt explicabo. Nemo enim ipsam </insertar>
+<partidas> vol </partidas>
+<cÃ©sar> quia
+<consomÃ©> voluptas
+<alocado> sit
+<alarga> aspernatur
+<juanagra> aut
+<insertar> odit aut fugit, sed quia consequuntur magni dolores
+ eos qui ratione voluptatem sequi nesciunt. Neque porro
+ quisquam est, qui dolorem ipsum quia dolor sit
+ amet, consectetur, adipisci velit, sed quia non numquam
+ eius </insertar>
+<saco> modi tempora
+<consomÃ©> incidunt
+<consomÃ©> ut
+<juanagra> labore
+<consomÃ©> et
+<cÃ©sar> dolore
+<insertar> magnam aliquam quaerat voluptatem. Ut enim ad minima
+ veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+ nisi ut aliquid ex ea commodi consequatur? Quis
+ autem vel eum iure reprehenderit qui in ea
+ voluptate velit esse quam </insertar>
+<juanagra> nihil
+<consomÃ©> molestiae
+<alarga> consequatur,
+<consomÃ©> vel
+<insertar> illum qui dolorem eum fugiat quo voluptas nulla
+ pariatur?" TraducciÃ³n hecha por H. Rackham en 1914
+ "But I must explain to you how all
+ this mistaken idea of denouncing pleasure and praising
+ pain was born and I will give you
+ a complete account of </insertar>
+<alarga> the
+<juanagra> system,
+<saco> and expound
+<saco> the actual
+<vaciar>
+<insertar> teachings of the great explorer of the truth,
+ the master-builder of human happiness. No one rejects,
+ dislikes, or avoids pleasure itself, because it is
+ pleasure, but because those who do not know
+ how to pursue pleasure rationally encounter consequences that
+ are extremely painful. Nor again is there anyone
+ who </insertar>
+<insertar> loves or pursues or desires to obtain pain
+ of itself, because it is pain, but because
+ occasionally circumstances occur in which toil and pain
+ </insertar>
+<insertar> can procure him some great pleasure. To take
+ a trivial example, which of us ever undertakes
+ laborious physical exercise, except to obtain some advantage
+ from it? But who has any right to
+ find fault with a man who chooses </insertar>
+<juanagra> to
+<alocado> enjoy
+<consomÃ©> a
+<alocado> pleasure
+<cÃ©sar> that
+<cÃ©sar> has
+<partidas> noa con oro who apa tha pro nor </partidas>
+<cÃ©sar> pleasure?"
+<consomÃ©> SecciÃ³n
+<alocado> 1.10.33
+<consomÃ©> de
+<partidas> "de Bon etM esc </partidas>
+<consomÃ©> por
+<partidas> Cic ene 45a deC "At eos </partidas>
+<consomÃ©> accusamus
+<partidas> eti odi dig duc qui </partidas>
+<alarga> praesentium
+<consomÃ©> voluptatum
+<consomÃ©> deleniti
+<insertar> atque corrupti quos dolores et quas molestias excepturi
+ sint occaecati cupiditate non provident, similique sunt in
+ culpa qui officia deserunt mollitia animi, id est
+ laborum et dolorum fuga. </insertar>
+<vaciar>
+<insertar> Et harum quidem rerum facilis est et expedita
+ distinctio. Nam libero tempore, cum soluta nobis est
+ eligendi optio cumque nihil impedit quo minus id
+ quod maxime placeat facere possimus, omnis voluptas assumenda
+ </insertar>
+<juanagra> est,
+<insertar> omnis dolor repellendus. Temporibus autem quibusdam et aut
+ officiis debitis aut rerum necessitatibus saepe eveniet ut
+ et voluptates repudiandae sint </insertar>
+<alocado> et
+<cÃ©sar> molestiae
+<partidas> non </partidas>
+<consomÃ©> Itaque
+<insertar> earum rerum hic tenetur a sapiente delectus, ut
+ aut reiciendis voluptatibus maiores alias consequatur aut perferendis
+ doloribus asperiores repellat." TraducciÃ³n hecha por H. Rackham
+ en 1914 "On </insertar>
+<saco> the other
+<cÃ©sar> hand,
+<juanagra> we
+<partidas> den wit rig ind and men are beg and byt cha </partidas>
+<alarga> of
+<cÃ©sar> pleasure
+<saco> of the
+<alocado> moment,
+<alarga> so
+<juanagra> blinded
+<consomÃ©> by
+<alocado> desire,
+<consomÃ©> that
+<consomÃ©> they
+<juanagra> cannot
+<insertar> foresee the pain and trouble that are bound
+ to ensue; and equal blame belongs to those
+ who fail in their duty through weakness of
+ will, which is the same as saying through
+ shrinking from toil and pain. These cases are
+ </insertar>
+<insertar> perfectly simple and easy to distinguish. </insertar>
+<partidas> Ina hou whe our ofc isu and not pre our abl </partidas>
+<alarga> to
+<juanagra> do
+<partidas> wha wel bes eve ple ist bew and pai avo But </partidas>
+<alarga> certain
+<alocado> circumstances
+<insertar> and owing to the claims of duty or
+ the obligations of business </insertar>
+<insertar> it will frequently occur that pleasures have to
+ be repudiated and annoyances accepted. The wise man
+ therefore always holds in these matters to this
+ principle of selection: he rejects pleasures to secure
+ other greater pleasures, or else he endures pains
+ to avoid worse pains." Lorem Ipsum "Neque porro
+ </insertar>
+<saco> quisquam est
+<saco> qui dolorem
+<vaciar>
+<juanagra> ipsum
+<insertar> quia dolor </insertar>
+<cÃ©sar> sit
+<alocado> amet,
+<alarga> consectetur,
+<partidas> adi vel "No nad que eld mis </partidas>
+<cÃ©sar> que
+<partidas> lob loe ylo sim por ese dol Â¿Q esL Ips </partidas>
+<alocado> Lorem
+<alocado> Ipsum
+<alocado> es
+<alocado> simplemente
+<cÃ©sar> el
+<consomÃ©> texto
+<partidas> der del imp yar det Lor Ips has elt der </partidas>
+<juanagra> estÃ¡ndar
+<saco> de las
+<cÃ©sar> industrias
+<consomÃ©> desde
+<partidas> ela 150 cua uni (N. T.p que ded ala des </partidas>
+<alarga> usÃ³
+<partidas> una det ylo mez det man que hac unl </partidas>
+<insertar> de textos especimen. No sÃ³lo sobreviviÃ³ 500 aÃ±os,
+ sino que tambien </insertar>
+<insertar> ingresÃ³ como texto de relleno en documentos electrÃ³nicos,
+ quedando esencialmente igual al original. Fue popularizado en
+ los 60s con la creaciÃ³n de las hojas
+ "Letraset", las cuales contenian pasajes de Lorem Ipsum,
+ y mÃ¡s recientemente con software de autoediciÃ³n, como
+ por ejemplo Aldus </insertar>
+<alarga> PageMaker,
+<insertar> el cual incluye versiones de Lorem Ipsum. Â¿Por
+ quÃ© lo usamos? Es un hecho establecido hace
+ demasiado tiempo que un lector se distraerÃ¡ con
+ el </insertar>
+<juanagra> contenido
+<consomÃ©> del
+<consomÃ©> texto
+<consomÃ©> de
+<consomÃ©> un
+<partidas> sit </partidas>
+<partidas> mie que sud Elp deu Lor Ips esq tie una mÃ¡s </partidas>
+<alocado> menos
+<insertar> normal de las letras, al contrario de usar
+ textos como por ejemplo "Contenido aquÃ­, contenido aquÃ­".
+ Estos textos hacen parecerlo un espaÃ±ol que se
+ puede leer. </insertar>
+<alocado> Muchos
+<partidas> paq dea yed dep web </partidas>
+<vaciar>
+<vaciar>
+<insertar> el Lorem Ipsum como su texto por defecto,
+ y al hacer una bÃºsqueda de "Lorem Ipsum"
+ </insertar>
+<cÃ©sar> va
+<juanagra> a
+<alocado> dar
+<insertar> por resultado muchos sitios web que usan este
+ texto si se encuentran en estado de desarrollo.
+ Muchas versiones han evolucionado a travÃ©s de los
+ </insertar>
+<cÃ©sar> aÃ±os,
+<consomÃ©> algunas
+<alocado> veces
+<partidas> por otr vec apr (po eje ins </partidas>
+<alocado> humor
+<saco> y cosas
+<consomÃ©> por
+<saco> el estilo).
+<saco> Â¿De dÃ³nde
+<alocado> viene?
+<juanagra> Al
+<consomÃ©> contrario
+<alocado> del
+<alarga> pensamiento
+<alarga> popular,
+<insertar> el texto de Lorem Ipsum no es simplemente
+ texto aleatorio. Tiene </insertar>
+<cÃ©sar> sus
+<cÃ©sar> raices
+<cÃ©sar> en
+<insertar> una pieza clÂ´sica de la literatura del Latin,
+ que data del aÃ±o 45 antes de Cristo,
+ haciendo que este adquiera mas de 2000 aÃ±os
+ de antiguedad. Richard McClintock, un profesor de Latin
+ de la Universidad de Hampden-Sydney en Virginia, encontrÃ³
+ una de las palabras mÃ¡s oscuras de la
+ lengua </insertar>
+<insertar> del </insertar>
+<consomÃ©> latÃ­n,
+<juanagra> "consecteur",
+<juanagra> en
+<juanagra> un
+<juanagra> pasaje
+<consomÃ©> de
+<partidas> Lor </partidas>
+<juanagra> Ipsum,
+<saco> y al
+<alocado> seguir
+<vaciar>
+<juanagra> leyendo
+<juanagra> distintos
+<alarga> textos
+<cÃ©sar> del
+<vaciar>
+<consomÃ©> latÃ­n,
+<saco> descubriÃ³ la
+<saco> fuente indudable.
+<alarga> Lorem
+<insertar> Ipsum viene de las secciones 1.10.32 y 1.10.33
+ de "de Finnibus Bonorum et Malorum" (Los Extremos
+ del Bien y El Mal) por Cicero, escrito
+ en el aÃ±o 45 antes de Cristo. Este
+ libro es un tratado de teorÃ­a de Ã©ticas,
+ muy popular durante el Renacimiento. La primera linea
+ del Lorem </insertar>
+<partidas> Ips "Lo ips dol sit vie deu lin enl </partidas>
+<cÃ©sar> secciÃ³n
+<insertar> 1.10.32 El trozo de texto estÃ¡ndar de Lorem
+ Ipsum usado desde el aÃ±o 1500 es reproducido
+ debajo para aquellos interesados. Las secciones 1.10.32 y
+ 1.10.33 de "de Finibus Bonorum et Malorum" por
+ Cicero son tambiÃ©n reproducidas </insertar>
+<cÃ©sar> en
+<insertar> su forma original exacta, acompaÃ±adas por versiones en
+ InglÃ©s de la traducciÃ³n realizada en 1914 por
+ H. Rackham. Â¿DÃ³nde puedo conseguirlo? Hay muchas variaciones
+ de los pasajes de Lorem Ipsum disponibles, pero
+ la mayorÃ­a sufriÃ³ alteraciones en </insertar>
+<saco> alguna manera,
+<juanagra> ya
+<alocado> sea
+<cÃ©sar> porque
+<cÃ©sar> se
+<juanagra> le
+<insertar> agregÃ³ humor, o palabras aleatorias que no parecen
+ ni un poco creÃ­bles. Si vas a utilizar
+ un pasaje de Lorem Ipsum, necesitÃ¡s estar seguro
+ de que no hay nada avergonzante escondido en
+ el medio </insertar>
+<alocado> del
+<saco> texto. Todos
+<consomÃ©> los
+<saco> generadores de
+<cÃ©sar> Lorem
+<insertar> Ipsum que se </insertar>
+<consomÃ©> encuentran
+<partidas> enI </partidas>
+<alarga> tienden
+<consomÃ©> a
+<alarga> repetir
+<alarga> trozos
+<consomÃ©> predefinidos
+<cÃ©sar> cuando
+<saco> sea necesario,
+<saco> haciendo a
+<juanagra> este
+<cÃ©sar> el
+<alocado> Ãºnico
+<juanagra> generador
+<vaciar>
+<partidas> ver (vÃ¡ enl Int Usa dic dem de2 </partidas>
+<saco> palabras provenientes
+<alarga> del
+<alarga> latÃ­n,
+<cÃ©sar> combinadas
+<alarga> con
+<saco> estructuras muy
+<alarga> Ãºtiles
+<alarga> de
+<alarga> sentencias,
+<insertar> para generar texto de Lorem Ipsum que parezca
+ razonable. Este Lorem Ipsum generado siempre estarÃ¡ libre
+ de repeticiones, humor agregado o palabras no caracterÃ­sticas
+ del lenguaje, etc. 5 pÃ¡rrafos palabras bytes listas
+ Comenzar con 'Lorem ipsum dolor sit amet...' Generar
+ </insertar>
+<alarga> Lorem
+<insertar> Ipsum Time tracking for freelancers </insertar>
+<alocado> Traducciones:
+<insertar> Â¿PodÃ©s ayudar a traducir este sitio en otro
+ lenguaje? Por favor envÃ­anos un </insertar>
+<saco> correo electrÃ³nico
+<vaciar>
+<partidas> con det </partidas>
+<saco> si podÃ©s
+<partidas> ayu </partidas>
+<cÃ©sar> Ahora
+<consomÃ©> hay
+<cÃ©sar> una
+<partidas> ser deb dis aqu </partidas>
+<insertar> en tres colores y </insertar>
+<alarga> en
+<alarga> un
+<vaciar>
+<juanagra> rango
+<partidas> det est Ban </partidas>
+<saco> Donar: Si
+<alocado> utilizas
+<vaciar>
+<consomÃ©> este
+<vaciar>
+<alocado> sitio
+<insertar> regularmente y te gustarÃ­a que siga online, por
+ favor, considerÃ¡ donar una pequeÃ±a suma para ayudar
+ a pagar el servicio de </insertar>
+<alarga> hosting
+<insertar> y ancho de banda. ClickeÃ¡ aqui para donar
+ usando PayPal. Gracias por tu ayuda!. Chrome Firefox
+ Add-on NodeJS TeX Package Python Interface GTK Lipsum
+ Rails .NET Groovy Adobe Plugin El pasaje estÃ¡ndar
+ Lorem Ipsum, </insertar>
+<consomÃ©> usado
+<partidas> des ela </partidas>
+<insertar> 1500. "Lorem ipsum dolor sit amet, consectetur adipiscing
+ elit, sed do eiusmod tempor incididunt ut labore
+ et </insertar>
+<alocado> dolore
+<alarga> magna
+<consomÃ©> aliqua.
+<partidas> Ute adm ven qui nos exe ull lab nis uta </partidas>
+<partidas> exe com con Dui aut iru dol inr inv vel </partidas>
+<saco> esse cillum
+<partidas> dol euf nul par Exc sin occ cup non sun inc qui </partidas>
+<insertar> deserunt mollit anim id est laborum." SecciÃ³n 1.10.32
+ de "de Finibus Bonorum et Malorum", escrito por
+ Cicero en el 45 antes de Cristo "Sed
+ ut perspiciatis unde omnis iste natus error sit
+ voluptatem accusantium doloremque laudantium, totam rem aperiam, </insertar>
+<juanagra> eaque
+<partidas> ips qua abi inv ver etq arc bea vit dic sun exp </partidas>
+<cÃ©sar> Nemo
+<consomÃ©> enim
+<vaciar>
+<cÃ©sar> ipsam
+<vaciar>
+<saco> voluptatem quia
+<cÃ©sar> voluptas
+<juanagra> sit
+<consomÃ©> aspernatur
+<juanagra> aut
+<partidas> odi aut sed con mag dol eos rat vol seq nes Neq </partidas>
+<alarga> porro
+<alocado> quisquam
+<insertar> est, qui dolorem ipsum quia dolor sit amet,
+ consectetur, adipisci velit, sed quia non numquam eius
+ modi tempora incidunt ut labore et dolore magnam
+ </insertar>
+<insertar> aliquam quaerat voluptatem. Ut enim ad minima veniam,
+ quis nostrum exercitationem ullam corporis </insertar>
+<partidas> sus lab nis uta exe com </partidas>
+<insertar> consequatur? Quis autem vel eum iure reprehenderit qui
+ in ea voluptate velit esse quam nihil molestiae
+ consequatur, vel illum qui dolorem eum fugiat quo
+ voluptas nulla pariatur?" TraducciÃ³n hecha por H. Rackham
+ en 1914 "But I must explain to you
+ how </insertar>
+<consomÃ©> all
+<saco> this mistaken
+<consomÃ©> idea
+<alarga> of
+<saco> denouncing pleasure
+<insertar> and praising pain was born and I will
+ give you a complete account of the system,
+ and expound the actual teachings of the great
+ explorer of the truth, the master-builder of human
+ happiness. No one rejects, dislikes, or avoids pleasure
+ itself, because it is pleasure, but because those
+ who </insertar>
+<vaciar>
+<insertar> do not know how to pursue pleasure rationally
+ encounter consequences that are extremely painful. Nor again
+ is there anyone who loves or pursues or
+ desires to obtain pain of itself, because it
+ is pain, </insertar>
+<consomÃ©> but
+<vaciar>
+<vaciar>
+<cÃ©sar> because
+<alarga> occasionally
+<consomÃ©> circumstances
+<vaciar>
+<alarga> occur
+<juanagra> in
+<juanagra> which
+<alarga> toil
+<saco> and pain
+<consomÃ©> can
+<consomÃ©> procure
+<vaciar>
+<consomÃ©> him
+<alocado> some
+<juanagra> great
+<juanagra> pleasure.
+<alocado> To
+<alocado> take
+<consomÃ©> a
+<partidas> tri exa whi ofu eve und lab phy exe exc too </partidas>
+<alarga> some
+<consomÃ©> advantage
+<saco> from it?
+<alarga> But
+<alocado> who
+<saco> has any
+<saco> right to
+<saco> find fault
+<consomÃ©> with
+<alarga> a
+<partidas> man cho toe apl tha has </partidas>
+<alarga> annoying
+<juanagra> consequences,
+<cÃ©sar> or
+<saco> one who
+<alocado> avoids
+<saco> a pain
+<juanagra> that
+<juanagra> produces
+<alarga> no
+<insertar> resultant pleasure?" SecciÃ³n 1.10.33 </insertar>
+<cÃ©sar> de
+<saco> "de Finibus
+<juanagra> Bonorum
+<alarga> et
+<partidas> Mal esc por ene 45a deC "At eos acc eti </partidas>
+<alocado> odio
+<consomÃ©> dignissimos
+<insertar> ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+ quos dolores et quas molestias excepturi sint occaecati
+ cupiditate non provident, similique sunt in culpa qui
+ officia deserunt mollitia animi, id est laborum et
+ dolorum fuga. Et harum quidem rerum facilis est
+ et </insertar>
+<alarga> expedita
+<alarga> distinctio.
+<partidas> Nam </partidas>
+<insertar> tempore, cum soluta nobis est eligendi optio cumque
+ nihil impedit quo </insertar>
+<vaciar>
+<consomÃ©> minus
+<cÃ©sar> id
+<saco> quod maxime
+<partidas> pla fac pos omn vol </partidas>
+<alocado> assumenda
+<vaciar>
+<saco> est, omnis
+<partidas> dol </partidas>
+<juanagra> repellendus.
+<alocado> Temporibus
+<alarga> autem
+<juanagra> quibusdam
+<alarga> et
+<insertar> aut officiis debitis aut rerum necessitatibus saepe eveniet
+ ut et voluptates repudiandae sint et molestiae non
+ recusandae. Itaque earum rerum hic tenetur a sapiente
+ delectus, ut aut reiciendis voluptatibus maiores </insertar>
+<consomÃ©> alias
+<alocado> consequatur
+<partidas> aut dol asp rep Tra hec por Rac en1 "On oth </partidas>
+<juanagra> hand,
+<partidas> wed wit rig ind and men are beg </partidas>
+<saco> and demoralized
+<cÃ©sar> by
+<insertar> the </insertar>
+<juanagra> charms
+<alarga> of
+<vaciar>
+<insertar> pleasure of the moment, so blinded by desire,
+ that they cannot foresee the pain and trouble
+ that are bound to ensue; and equal blame
+ belongs to those who fail in their duty
+ through weakness of will, which is the same
+ as saying through shrinking </insertar>
+<alarga> from
+<alocado> toil
+<consomÃ©> and
+<cÃ©sar> pain.
+<juanagra> These
+<alarga> cases
+<insertar> are perfectly simple and easy to distinguish. In
+ a free hour, when our power of choice
+ is untrammelled and when nothing prevents our being
+ able to do what we like best, every
+ pleasure is to be welcomed and every pain
+ avoided. But in certain circumstances and </insertar>
+<saco> owing to
+<alocado> the
+<insertar> claims of duty or the obligations of business
+ it will frequently occur that pleasures have to
+ be repudiated and annoyances accepted. The wise man
+ therefore always holds in these matters to this
+ principle of selection: </insertar>
+<cÃ©sar> he
+<alarga> rejects
+<consomÃ©> pleasures
+<consomÃ©> to
+<cÃ©sar> secure
+<cÃ©sar> other
+<saco> greater pleasures,
+<partidas> ore hee </partidas>
+<alocado> pains
+<consomÃ©> to
+<juanagra> avoid
+<alocado> worse
+<consomÃ©> pains."
+<alocado> Lorem
+<juanagra> Ipsum
+<cÃ©sar> "Neque
+<cÃ©sar> porro
+<cÃ©sar> quisquam
+<juanagra> est
+<alarga> qui
+<saco> dolorem ipsum
+<alocado> quia
+<consomÃ©> dolor
+<insertar> sit amet, consectetur, adipisci velit..." "No hay nadie
+ que ame el dolor mismo, que lo busque,
+ lo encuentre y lo quiera, simplemente porque es
+ el dolor." Â¿QuÃ© es Lorem Ipsum? </insertar>
+<saco> Lorem Ipsum
+<consomÃ©> es
+<alarga> simplemente
+<saco> el texto
+<cÃ©sar> de
+<saco> relleno de
+<insertar> las imprentas y archivos de texto. Lorem Ipsum
+ ha sido el texto de relleno estÃ¡ndar de
+ las industrias desde el aÃ±o 1500, cuando un
+ impresor (N. del T. persona que se dedica
+ a la imprenta) desconocido usÃ³ una galerÃ­a de
+ textos y los mezclÃ³ de tal manera que
+ logrÃ³ </insertar>
+<juanagra> hacer
+<cÃ©sar> un
+<cÃ©sar> libro
+<cÃ©sar> de
+<insertar> textos especimen. No sÃ³lo sobreviviÃ³ 500 aÃ±os, sino
+ que tambien ingresÃ³ como texto de relleno en
+ documentos electrÃ³nicos, quedando esencialmente igual al original. Fue
+ popularizado en los 60s con la creaciÃ³n de
+ las hojas "Letraset", las cuales contenian pasajes de
+ Lorem Ipsum, </insertar>
+<alarga> y
+<consomÃ©> mÃ¡s
+<cÃ©sar> recientemente
+<cÃ©sar> con
+<alocado> software
+<consomÃ©> de
+<partidas> aut com por </partidas>
+<saco> Aldus PageMaker,
+<insertar> el cual </insertar>
+<consomÃ©> incluye
+<consomÃ©> versiones
+<alocado> de
+<consomÃ©> Lorem
+<insertar> Ipsum. Â¿Por quÃ© lo usamos? Es un </insertar>
+<juanagra> hecho
+<insertar> establecido hace demasiado tiempo que un lector se
+ distraerÃ¡ con el contenido del texto </insertar>
+<juanagra> de
+<juanagra> un
+<insertar> sitio mientras que mira su diseÃ±o. El punto
+ de usar Lorem Ipsum es que tiene una
+ distribuciÃ³n mÃ¡s o menos normal de las letras,
+ al contrario de usar textos como por ejemplo
+ "Contenido aquÃ­, contenido aquÃ­". Estos textos hacen parecerlo
+ </insertar>
+<juanagra> un
+<saco> espaÃ±ol que
+<partidas> sep lee Muc paq dea </partidas>
+<cÃ©sar> y
+<alocado> editores
+<alarga> de
+<juanagra> pÃ¡ginas
+<juanagra> web
+<saco> usan el
+<partidas> Lor Ips com sut por </partidas>
+<alarga> y
+<saco> al hacer
+<alocado> una
+<consomÃ©> bÃºsqueda
+<saco> de "Lorem
+<alocado> Ipsum"
+<consomÃ©> va
+<saco> a dar
+<alarga> por
+<saco> resultado muchos
+<saco> sitios web
+<consomÃ©> que
+<juanagra> usan
+<saco> este texto
+<alocado> si
+<alocado> se
+<cÃ©sar> encuentran
+<cÃ©sar> en
+<consomÃ©> estado
+<partidas> ded Muc ver han atr del aÃ±o </partidas>
+<juanagra> algunas
+<juanagra> veces
+<alarga> por
+<alarga> accidente,
+<consomÃ©> otras
+<saco> veces a
+<consomÃ©> propÃ³sito
+<saco> (por ejemplo
+<vaciar>
+<vaciar>
+<insertar> insertÃ¡ndole humor y cosas por el estilo). Â¿De
+ dÃ³nde </insertar>
+<saco> viene? Al
+<insertar> contrario del pensamiento popular, </insertar>
+<partidas> elt deL Ips noe sim tex ale Tie sus enu pie cl </partidas>
+<saco> de la
+<cÃ©sar> literatura
+<saco> del Latin,
+<juanagra> que
+<saco> data del
+<cÃ©sar> aÃ±o
+<juanagra> 45
+<partidas> ant deC </partidas>
+<partidas> hac que adq mas 200 aÃ±o dea Ric McC unp deL del </partidas>
+<partidas> Uni deH enV enc una las mÃ¡s del len del </partidas>
+<alocado> "consecteur",
+<alarga> en
+<alocado> un
+<juanagra> pasaje
+<partidas> deL Ips yal ley dis tex del </partidas>
+<cÃ©sar> descubriÃ³
+<vaciar>
+<partidas> laf ind Lor Ips vie del sec 1.1 y1. de" Fin Bon </partidas>
+<cÃ©sar> et
+<partidas> Mal (Lo </partidas>
+<alocado> Extremos
+<partidas> del yEl por </partidas>
+<insertar> escrito en el aÃ±o 45 antes de Cristo.
+ Este libro es un tratado de teorÃ­a de
+ Ã©ticas, muy popular durante el Renacimiento. La </insertar>
+<alarga> primera
+<cÃ©sar> linea
+<partidas> del Ips "Lo ips dol sit vie deu lin enl sec 1.1 </partidas>
+<partidas> Elt </partidas>
+<cÃ©sar> de
+<juanagra> texto
+<alarga> estÃ¡ndar
+<insertar> de Lorem Ipsum usado desde el aÃ±o 1500
+ es reproducido debajo para aquellos interesados. Las secciones
+ 1.10.32 y 1.10.33 de "de Finibus Bonorum et
+ Malorum" por Cicero son tambiÃ©n reproducidas en su
+ forma original exacta, acompaÃ±adas por versiones en InglÃ©s
+ </insertar>
+<cÃ©sar> de
+<saco> la traducciÃ³n
+<partidas> rea en1 por Rac Â¿D pue con Hay var del </partidas>
+<partidas> pas deL </partidas>
+<alarga> Ipsum
+<insertar> disponibles, pero la mayorÃ­a sufriÃ³ alteraciones en alguna
+ manera, ya sea porque se le agregÃ³ humor,
+ o palabras aleatorias que no parecen ni un
+ poco creÃ­bles. Si vas a utilizar un pasaje
+ de Lorem Ipsum, necesitÃ¡s </insertar>
+<alocado> estar
+<partidas> seg deq noh nad ave esc ene med </partidas>
+<alarga> del
+<saco> texto. Todos
+<juanagra> los
+<juanagra> generadores
+<vaciar>
+<consomÃ©> de
+<juanagra> Lorem
+<juanagra> Ipsum
+<insertar> que se encuentran en Internet tienden a repetir
+ trozos predefinidos cuando sea necesario, haciendo a este
+ el Ãºnico </insertar>
+<alarga> generador
+<insertar> verdadero (vÃ¡lido) en la Internet. Usa un diccionario
+ de mas de 200 palabras provenientes del latÃ­n,
+ combinadas con estructuras muy Ãºtiles de sentencias, para
+ generar texto de Lorem Ipsum que parezca razonable.
+ Este Lorem Ipsum generado siempre estarÃ¡ libre de
+ </insertar>
+<alarga> repeticiones,
+<juanagra> humor
+<cÃ©sar> agregado
+<partidas> opa noc del etc 5pÃ¡ pal byt lis Com con </partidas>
+<partidas> ips </partidas>
+<juanagra> dolor
+<juanagra> sit
+<saco> amet...' Generar
+<alarga> Lorem
+<saco> Ipsum Time
+<consomÃ©> tracking
+<alarga> for
+<alocado> freelancers
+<partidas> Tra Â¿P ayu atr est sit eno len </partidas>
+<alarga> Por
+<cÃ©sar> favor
+<alocado> envÃ­anos
+<consomÃ©> un
+<vaciar>
+<juanagra> correo
+<saco> electrÃ³nico con
+<insertar> los detalles si podÃ©s ayudar. Ahora hay una
+ serie de banners disponibles aquÃ­ en tres colores
+ y en un rango de tamaÃ±os estÃ¡ndar: BannersBannersBanners
+ Donar: Si utilizas este sitio regularmente </insertar>
+<insertar> y te gustarÃ­a que siga online, por favor,
+ considerÃ¡ donar una pequeÃ±a suma para ayudar a
+ pagar el servicio de hosting </insertar>
+<juanagra> y
+<insertar> ancho de banda. ClickeÃ¡ aqui para donar usando
+ PayPal. Gracias por </insertar>
+<consomÃ©> tu
+<juanagra> ayuda!.
+<juanagra> Chrome
+<partidas> Fir Add Nod TeX Pyt Int GTK </partidas>
+<alarga> Rails
+<alocado> .NET
+<consomÃ©> Groovy
+<saco> Adobe Plugin
+<vaciar>
+<partidas> Elp est Lor Ips usa des ela 150 "Lo ips </partidas>
+<vaciar>
+<cÃ©sar> dolor
+<vaciar>
+<juanagra> sit
+<alarga> amet,
+<alocado> consectetur
+<partidas> adi eli sed eiu tem inc utl etd mag </partidas>
+<alocado> aliqua.
+<juanagra> Ut
+<alocado> enim
+<partidas> adm ven qui nos exe ull lab nis uta exe </partidas>
+<insertar> commodo consequat. Duis aute irure dolor in reprehenderit
+ in voluptate velit esse cillum dolore eu fugiat
+ nulla pariatur. Excepteur sint occaecat cupidatat non </insertar>
+<alarga> proident,
+<saco> sunt in
+<alocado> culpa
+<partidas> qui des mol ani ide lab Sec de Fin Bon </partidas>
+<consomÃ©> et
+<alarga> Malorum",
+<consomÃ©> escrito
+<juanagra> por
+<partidas> Cic ene 45a deC "Se utp und omn ist </partidas>
+<insertar> natus error sit voluptatem accusantium doloremque laudantium, totam
+ rem aperiam, eaque ipsa quae ab illo inventore
+ </insertar>
+<insertar> veritatis et quasi architecto beatae vitae dicta sunt
+ explicabo. Nemo enim ipsam voluptatem quia voluptas sit
+ aspernatur aut odit aut fugit, sed quia consequuntur
+ magni dolores eos </insertar>
+<insertar> qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+ est, qui dolorem ipsum quia dolor sit amet,
+ consectetur, adipisci velit, </insertar>
+<alarga> sed
+<partidas> qui non </partidas>
+<vaciar>
+<saco> eius modi
+<alocado> tempora
+<insertar> incidunt ut labore et dolore magnam aliquam quaerat
+ voluptatem. Ut enim ad minima veniam, quis nostrum
+ exercitationem ullam corporis </insertar>
+<consomÃ©> suscipit
+<alocado> laboriosam,
+<juanagra> nisi
+<insertar> ut aliquid ex ea commodi consequatur? Quis autem
+ vel eum iure reprehenderit qui in ea voluptate
+ velit esse quam nihil molestiae consequatur, vel illum
+ qui dolorem eum fugiat quo voluptas nulla pariatur?"
+ TraducciÃ³n hecha por </insertar>
+<alarga> H.
+<consomÃ©> Rackham
+<alocado> en
+<juanagra> 1914
+<cÃ©sar> "But
+<partidas> Imu exp toy how thi mis ide ofd ple and pai was </partidas>
+<saco> and I
+<cÃ©sar> will
+<juanagra> give
+<consomÃ©> you
+<partidas> aco acc oft sys and the tea oft gre exp oft </partidas>
+<cÃ©sar> truth,
+<alocado> the
+<partidas> mas ofh hap Noo rej dis ora ple its </partidas>
+<saco> because it
+<alocado> is
+<insertar> pleasure, but because those who do not know
+ how to pursue pleasure rationally encounter consequences that
+ are extremely painful. Nor again is there anyone
+ who loves or pursues or desires to obtain
+ pain of itself, because it is pain, but
+ because occasionally circumstances occur in which toil and
+ pain can </insertar>
+<saco> procure him
+<saco> some great
+<alocado> pleasure.
+<saco> To take
+<vaciar>
+<juanagra> a
+<alocado> trivial
+<insertar> example, which of us ever undertakes laborious physical
+ exercise, except to obtain some advantage from it?
+ But who has any right to find fault
+ with a man who chooses to enjoy a
+ pleasure that has no annoying consequences, or one
+ who avoids </insertar>
+<alarga> a
+<vaciar>
+<insertar> pain that produces no resultant pleasure?" SecciÃ³n 1.10.33
+ de "de Finibus Bonorum et Malorum", escrito por
+ Cicero en el 45 antes de Cristo "At
+ vero eos et accusamus et iusto odio dignissimos
+ ducimus qui blanditiis praesentium voluptatum </insertar>
+<insertar> deleniti atque corrupti quos dolores et quas molestias
+ excepturi sint occaecati cupiditate non provident, similique sunt
+ in culpa qui officia deserunt mollitia animi, id
+ est laborum et dolorum fuga. Et harum quidem
+ rerum facilis est et expedita distinctio. Nam </insertar>
+<alarga> libero
+<insertar> tempore, cum soluta nobis est eligendi optio cumque
+ nihil impedit quo minus id quod maxime placeat
+ facere possimus, omnis voluptas assumenda est, omnis dolor
+ repellendus. Temporibus autem quibusdam et aut officiis debitis
+ aut rerum </insertar>
+<saco> necessitatibus saepe
+<juanagra> eveniet
+<consomÃ©> ut
+<consomÃ©> et
+<cÃ©sar> voluptates
+<alocado> repudiandae
+<juanagra> sint
+<insertar> et molestiae non recusandae. Itaque earum rerum hic
+ tenetur a sapiente </insertar>
+<cÃ©sar> delectus,
+<alocado> ut
+<consomÃ©> aut
+<cÃ©sar> reiciendis
+<partidas> vol mai ali </partidas>
+<alarga> consequatur
+<partidas> aut dol asp rep Tra hec por </partidas>
+<saco> Rackham en
+<saco> 1914 "On
+<cÃ©sar> the
+<juanagra> other
+<insertar> hand, we denounce with righteous indignation and dislike
+ men who are so beguiled and demoralized by
+ the charms of pleasure of the moment, so
+ blinded by desire, that they cannot foresee the
+ pain and trouble that are bound to ensue;
+ and equal blame belongs to those who fail
+ </insertar>
+<saco> in their
+<juanagra> duty
+<consomÃ©> through
+<cÃ©sar> weakness
+<saco> of will,
+<insertar> which is the same as saying through shrinking
+ from toil and pain. These cases are perfectly
+ </insertar>
+<juanagra> simple
+<juanagra> and
+<consomÃ©> easy
+<insertar> to distinguish. In a free hour, when our
+ power of choice is untrammelled and when nothing
+ prevents our being able to do what </insertar>
+<juanagra> we
+<saco> like best,
+<alocado> every
+<consomÃ©> pleasure
+<alocado> is
+<insertar> to be welcomed and every pain avoided. But
+ in certain circumstances and </insertar>
+<alarga> owing
+<alocado> to
+<partidas> the ofd ort obl ofb </partidas>
+<saco> it will
+<saco> frequently occur
+<consomÃ©> that
+<juanagra> pleasures
+<alocado> have
+<insertar> to be repudiated and annoyances accepted. The wise
+ man therefore always holds in these matters to
+ this principle of selection: he rejects pleasures to
+ secure other greater pleasures, or else he endures
+ pains to avoid worse pains." Lorem </insertar>
+<alocado> Ipsum
+<saco> "Neque porro
+<alocado> quisquam
+<alocado> est
+<alocado> qui
+<partidas> dol ips qui dol sit con </partidas>
+<saco> adipisci velit..."
+<alarga> "No
+<vaciar>
+<insertar> hay nadie que ame el dolor mismo, que
+ lo busque, lo encuentre </insertar>
+<juanagra> y
+<saco> lo quiera,
+<insertar> simplemente porque es el dolor." Â¿QuÃ© es Lorem
+ Ipsum? Lorem Ipsum es simplemente el </insertar>
+<saco> texto de
+<alocado> relleno
+<vaciar>
+<insertar> de las imprentas y archivos de texto. Lorem
+ Ipsum ha sido el texto de relleno estÃ¡ndar
+ de las industrias desde el aÃ±o 1500, cuando
+ un impresor (N. del T. persona que se
+ dedica a la imprenta) desconocido usÃ³ </insertar>
+<saco> una galerÃ­a
+<alocado> de
+<insertar> textos y los mezclÃ³ de tal manera que
+ logrÃ³ hacer un libro de textos especimen. No
+ sÃ³lo sobreviviÃ³ 500 aÃ±os, sino que tambien ingresÃ³
+ como texto de relleno en documentos electrÃ³nicos, quedando
+ esencialmente igual al </insertar>
+<partidas> ori Fue enl 60s lac </partidas>
+<partidas> del hoj "Le las con pas deL Ips ymÃ¡ rec con dea </partidas>
+<partidas> com por </partidas>
+<alocado> Aldus
+<consomÃ©> PageMaker,
+<cÃ©sar> el
+<consomÃ©> cual
+<saco> incluye versiones
+<insertar> de Lorem Ipsum. Â¿Por quÃ© lo usamos? Es
+ un hecho establecido hace demasiado tiempo que un
+ lector se distraerÃ¡ con el contenido del </insertar>
+<cÃ©sar> texto
+<consomÃ©> de
+<juanagra> un
+<juanagra> sitio
+<partidas> mie que sud Elp deu Lor Ips </partidas>
+<cÃ©sar> es
+<alocado> que
+<juanagra> tiene
+<partidas> una mÃ¡s </partidas>
+<alarga> menos
+<alocado> normal
+<saco> de las
+<consomÃ©> letras,
+<insertar> al contrario de usar textos como por ejemplo
+ "Contenido aquÃ­, contenido aquÃ­". Estos textos hacen parecerlo
+ un espaÃ±ol que se puede leer. Muchos paquetes
+ de autoediciÃ³n y editores de pÃ¡ginas web usan
+ el Lorem Ipsum como su texto por defecto,
+ y al hacer una bÃºsqueda de "Lorem Ipsum"
+ va </insertar>
+<cÃ©sar> a
+<alocado> dar
+<vaciar>
+<insertar> por resultado muchos sitios web que usan este
+ texto si se encuentran en estado de desarrollo.
+ Muchas versiones han evolucionado a travÃ©s de los
+ aÃ±os, algunas </insertar>
+<juanagra> veces
+<alarga> por
+<consomÃ©> accidente,
+<insertar> otras veces a propÃ³sito (por ejemplo insertÃ¡ndole humor
+ y cosas por el estilo). Â¿De dÃ³nde viene?
+ Al contrario del pensamiento popular, el texto de
+ Lorem Ipsum no es simplemente texto aleatorio. Tiene
+ sus raices en una pieza clÂ´sica de la
+ literatura del Latin, </insertar>
+<consomÃ©> que
+<saco> data del
+<saco> aÃ±o 45
+<partidas> ant deC hac que adq mas 200 </partidas>
+<alarga> aÃ±os
+<alarga> de
+<consomÃ©> antiguedad.
+<cÃ©sar> Richard
+<juanagra> McClintock,
+<saco> un profesor
+<alarga> de
+<alocado> Latin
+<vaciar>
+<vaciar>
+<cÃ©sar> de
+<saco> la Universidad
+<alarga> de
+<cÃ©sar> Hampden-Sydney
+<consomÃ©> en
+<alarga> Virginia,
+<consomÃ©> encontrÃ³
+<alocado> una
+<alocado> de
+<vaciar>
+<insertar> las palabras mÃ¡s oscuras de la lengua del
+ latÃ­n, "consecteur", en </insertar>
+<alocado> un
+<insertar> pasaje de Lorem Ipsum, y al seguir leyendo
+ distintos textos del latÃ­n, </insertar>
+<partidas> des laf ind Lor Ips vie del sec 1.1 y1. de" Fin </partidas>
+<insertar> Bonorum et Malorum" (Los Extremos del Bien y
+ El Mal) por Cicero, escrito en el </insertar>
+<partidas> aÃ±o ant deC Est lib esu tra det </partidas>
+<partidas> deÃ© muy dur elR Lap lin del </partidas>
+<saco> Ipsum, "Lorem
+<insertar> ipsum dolor sit amet..", viene de una linea
+ en la secciÃ³n 1.10.32 El trozo </insertar>
+<juanagra> de
+<consomÃ©> texto
+<juanagra> estÃ¡ndar
+<insertar> de Lorem Ipsum usado desde el aÃ±o 1500
+ es reproducido debajo para aquellos interesados. Las secciones
+ 1.10.32 y 1.10.33 de "de Finibus Bonorum et
+ Malorum" por Cicero son </insertar>
+<partidas> tam rep ens for ori exa aco por enI del tra rea </partidas>
+<juanagra> en
+<insertar> 1914 por H. Rackham. Â¿DÃ³nde puedo conseguirlo? Hay
+ muchas variaciones de los pasajes de Lorem Ipsum
+ disponibles, pero la mayorÃ­a sufriÃ³ alteraciones en alguna
+ manera, ya sea porque se le agregÃ³ humor,
+ o palabras aleatorias que no parecen ni un
+ poco creÃ­bles. Si vas a utilizar un pasaje
+ </insertar>
+<saco> de Lorem
+<consomÃ©> Ipsum,
+<partidas> nec est seg deq noh </partidas>
+<alocado> nada
+<partidas> ave esc ene med del Tod los deL </partidas>
+<insertar> Ipsum que se encuentran en Internet tienden a
+ repetir trozos predefinidos cuando sea necesario, haciendo a
+ este el Ãºnico generador verdadero (vÃ¡lido) en </insertar>
+<juanagra> la
+<partidas> Int Usa dic dem de2 </partidas>
+<saco> palabras provenientes
+<juanagra> del
+<juanagra> latÃ­n,
+<alocado> combinadas
+<alarga> con
+<vaciar>
+<partidas> est muy des </partidas>
+<cÃ©sar> para
+<insertar> generar texto de Lorem Ipsum que parezca razonable.
+ Este Lorem Ipsum generado siempre estarÃ¡ libre de
+ repeticiones, humor agregado o palabras no caracterÃ­sticas del
+ lenguaje, </insertar>
+<partidas> etc 5pÃ¡ pal </partidas>
+<insertar> bytes listas Comenzar con 'Lorem ipsum dolor sit
+ amet...' Generar Lorem Ipsum Time tracking for freelancers
+ Traducciones: Â¿PodÃ©s ayudar a traducir este sitio en
+ otro lenguaje? Por favor envÃ­anos un correo electrÃ³nico
+ con los detalles si podÃ©s ayudar. Ahora hay
+ una </insertar>
+<alarga> serie
+<juanagra> de
+<juanagra> banners
+<insertar> disponibles aquÃ­ en tres colores y en un
+ rango de tamaÃ±os estÃ¡ndar: BannersBannersBanners Donar: Si utilizas
+ este sitio regularmente y te gustarÃ­a que siga
+ online, por favor, considerÃ¡ donar una pequeÃ±a suma
+ para </insertar>
+<insertar> ayudar a pagar el servicio de hosting y
+ ancho de banda. ClickeÃ¡ aqui para donar usando
+ PayPal. Gracias por tu ayuda!. Chrome Firefox Add-on
+ NodeJS TeX Package </insertar>
+<insertar> Python Interface GTK Lipsum Rails .NET Groovy Adobe
+ Plugin El pasaje estÃ¡ndar Lorem Ipsum, usado desde
+ el aÃ±o 1500. "Lorem ipsum dolor sit amet,
+ consectetur adipiscing elit, sed do eiusmod tempor incididunt
+ </insertar>
+<consomÃ©> ut
+<cÃ©sar> labore
+<cÃ©sar> et
+<partidas> dol mag ali Ute adm ven </partidas>
+<alarga> quis
+<juanagra> nostrud
+<vaciar>
+<saco> exercitation ullamco
+<alocado> laboris
+<saco> nisi ut
+<insertar> aliquip ex ea commodo consequat. Duis aute irure
+ dolor in reprehenderit in voluptate velit esse cillum
+ dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+ cupidatat non proident, sunt in culpa qui officia
+ deserunt mollit anim id est laborum." SecciÃ³n 1.10.32
+ de "de Finibus Bonorum et Malorum", </insertar>
+<alarga> escrito
+<consomÃ©> por
+<alocado> Cicero
+<consomÃ©> en
+<juanagra> el
+<saco> 45 antes
+<partidas> deC "Se utp und omn ist nat err sit acc </partidas>
+<cÃ©sar> doloremque
+<cÃ©sar> laudantium,
+<alocado> totam
+<alocado> rem
+<cÃ©sar> aperiam,
+<alarga> eaque
+<cÃ©sar> ipsa
+<alarga> quae
+<alarga> ab
+<alarga> illo
+<alarga> inventore
+<juanagra> veritatis
+<saco> et quasi
+<cÃ©sar> architecto
+<consomÃ©> beatae
+<insertar> vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
+ quia voluptas sit aspernatur aut odit aut fugit,
+ sed quia consequuntur magni dolores </insertar>
+<alocado> eos
+<saco> qui ratione
+<consomÃ©> voluptatem
+<partidas> seq nes Neq por qui est qui ips qui dol sit </partidas>
+<saco> consectetur, adipisci
+<cÃ©sar> velit,
+<alarga> sed
+<partidas> qui non eiu mod tem inc utl etd mag ali qua </partidas>
+<saco> voluptatem. Ut
+<consomÃ©> enim
+<vaciar>
+<cÃ©sar> ad
+<consomÃ©> minima
+<saco> veniam, quis
+<alarga> nostrum
+<alocado> exercitationem
+<cÃ©sar> ullam
+<vaciar>
+<insertar> corporis suscipit laboriosam, nisi ut aliquid ex ea
+ commodi consequatur? Quis autem vel eum iure reprehenderit
+ qui in ea voluptate velit esse quam nihil
+ molestiae consequatur, vel illum qui dolorem eum fugiat
+ quo voluptas nulla pariatur?" TraducciÃ³n hecha por H.
+ Rackham en 1914 </insertar>
+<alocado> "But
+<vaciar>
+<insertar> I must explain to you how all this
+ mistaken idea of denouncing pleasure and praising pain
+ </insertar>
+<consomÃ©> was
+<cÃ©sar> born
+<alocado> and
+<consomÃ©> I
+<insertar> will give you a complete account of </insertar>
+<alarga> the
+<insertar> system, and expound the actual teachings of the
+ great explorer of the truth, the master-builder of
+ human happiness. No one rejects, dislikes, or avoids
+ pleasure itself, because </insertar>
+<insertar> it is pleasure, but because those who do
+ not know how to pursue pleasure rationally encounter
+ consequences that are extremely painful. Nor again is
+ there anyone who loves or pursues or desires
+ to obtain pain of itself, because it is
+ pain, but because occasionally circumstances occur </insertar>
+<alarga> in
+<alarga> which
+<vaciar>
+<insertar> toil and pain can procure </insertar>
+<cÃ©sar> him
+<vaciar>
+<cÃ©sar> some
+<alocado> great
+<consomÃ©> pleasure.
+<saco> To take
+<insertar> a trivial example, which of us ever undertakes
+ laborious physical exercise, except to obtain some advantage
+ from it? But who has any right to
+ find fault with a man who chooses to
+ enjoy a pleasure that has no annoying consequences,
+ or one who avoids a pain </insertar>
+<alarga> that
+<alarga> produces
+<juanagra> no
+<cÃ©sar> resultant
+<partidas> ple Sec 1.1 de" Fin Bon etM esc por ene </partidas>
+<consomÃ©> 45
+<cÃ©sar> antes
+<partidas> deC "At eos acc eti odi dig </partidas>
+<consomÃ©> ducimus
+<alocado> qui
+<cÃ©sar> blanditiis
+<alarga> praesentium
+<alocado> voluptatum
+<alarga> deleniti
+<alarga> atque
+<partidas> cor quo dol etq </partidas>
+<partidas> mol exc sin occ cup non sim sun inc </partidas>
+<vaciar>
+<alocado> qui
+<vaciar>
+<cÃ©sar> officia
+<alarga> deserunt
+<saco> mollitia animi,
+<saco> id est
+<insertar> laborum et dolorum fuga. Et harum quidem rerum
+ facilis est et expedita distinctio. Nam libero tempore,
+ cum soluta nobis est eligendi optio cumque nihil
+ impedit quo minus id quod maxime placeat facere
+ possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+ Temporibus autem quibusdam et aut officiis debitis aut
+ </insertar>
+<saco> rerum necessitatibus
+<alarga> saepe
+<insertar> eveniet ut et voluptates repudiandae sint et molestiae
+ non recusandae. Itaque earum rerum hic tenetur a
+ sapiente delectus, ut aut reiciendis voluptatibus maiores alias
+ consequatur aut perferendis doloribus asperiores repellat." TraducciÃ³n </insertar>
+<saco> hecha por
+<alocado> H.
+<partidas> Rac en1 "On oth han wed wit rig ind and men </partidas>
+<alarga> are
+<saco> so beguiled
+<partidas> and byt </partidas>
+<partidas> cha ofp oft mom sob byd tha the can for the and </partidas>
+<vaciar>
+<saco> that are
+<alarga> bound
+<alocado> to
+<vaciar>
+<alocado> ensue;
+<consomÃ©> and
+<insertar> equal blame belongs to those who fail in
+ their duty through weakness of will, which is
+ the same as saying through shrinking from toil
+ and pain. These cases are perfectly simple and
+ easy to distinguish. In a free hour, when
+ </insertar>
+<alocado> our
+<partidas> pow ofc isu and not pre </partidas>
+<juanagra> our
+<vaciar>
+<partidas> bei abl tod wha wel bes eve ple ist bew </partidas>
+<consomÃ©> and
+<alarga> every
+<insertar> pain avoided. But in certain circumstances and owing
+ to the claims of duty or the obligations
+ of business it </insertar>
+<saco> will frequently
+<saco> occur that
+<saco> pleasures have
+<consomÃ©> to
+<juanagra> be
+<insertar> repudiated and annoyances accepted. The wise man therefore
+ always </insertar>
+<insertar> holds in these matters to this principle of
+ selection: he rejects </insertar>
+<alocado> pleasures
+<insertar> to secure other greater pleasures, or else he
+ endures pains to avoid worse pains." Lorem Ipsum
+ "Neque porro quisquam est qui dolorem ipsum quia
+ dolor sit </insertar>
+<partidas> ame con adi vel </partidas>
+<insertar> "No hay nadie que ame el dolor mismo,
+ que lo busque, lo encuentre y lo quiera,
+ simplemente porque es el dolor." Â¿QuÃ© es Lorem
+ Ipsum? Lorem Ipsum es simplemente el texto de
+ relleno de las imprentas y archivos de texto.
+ Lorem </insertar>
+<juanagra> Ipsum
+<insertar> ha sido el texto de relleno estÃ¡ndar de
+ las industrias desde el aÃ±o 1500, cuando un
+ impresor (N. del T. persona que se dedica
+ a la imprenta) desconocido usÃ³ una galerÃ­a de
+ textos y los mezclÃ³ de tal manera que
+ logrÃ³ hacer un libro de textos </insertar>
+<alocado> especimen.
+<alocado> No
+<partidas> sÃ³l </partidas>
+<consomÃ©> sobreviviÃ³
+<cÃ©sar> 500
+<partidas> aÃ±o sin </partidas>
+<consomÃ©> que
+<cÃ©sar> tambien
+<alarga> ingresÃ³
+<vaciar>
+<partidas> com </partidas>
+<alarga> texto
+<juanagra> de
+<juanagra> relleno
+<consomÃ©> en
+<saco> documentos electrÃ³nicos,
+<saco> quedando esencialmente
+<alocado> igual
+<alocado> al
+<insertar> original. Fue popularizado en los 60s con la
+ creaciÃ³n de las hojas "Letraset", las cuales contenian
+ pasajes de Lorem Ipsum, y mÃ¡s recientemente con
+ software de autoediciÃ³n, como por ejemplo Aldus PageMaker,
+ el cual incluye versiones de Lorem Ipsum. Â¿Por
+ quÃ© lo usamos? Es un hecho establecido hace
+ demasiado </insertar>
+<saco> tiempo que
+<vaciar>
+<insertar> un lector se distraerÃ¡ con el contenido del
+ texto de un sitio mientras que mira su
+ diseÃ±o. El punto de usar Lorem Ipsum es
+ que tiene una distribuciÃ³n mÃ¡s o menos normal
+ de las letras, al contrario de </insertar>
+<insertar> usar textos </insertar>
+<cÃ©sar> como
+<cÃ©sar> por
+<alocado> ejemplo
+<insertar> "Contenido aquÃ­, contenido aquÃ­". Estos textos hacen parecerlo
+ un espaÃ±ol que se puede leer. Muchos paquetes
+ de autoediciÃ³n y editores de pÃ¡ginas web usan
+ el Lorem Ipsum como su texto por </insertar>
+<saco> defecto, y
+<juanagra> al
+<consomÃ©> hacer
+<saco> una bÃºsqueda
+<cÃ©sar> de
+<cÃ©sar> "Lorem
+<insertar> Ipsum" va a </insertar>
+<insertar> dar por resultado muchos </insertar>
+<consomÃ©> sitios
+<saco> web que
+<saco> usan este
+<alocado> texto
+<juanagra> si
+<juanagra> se
+<consomÃ©> encuentran
+<alarga> en
+<juanagra> estado
+<consomÃ©> de
+<alarga> desarrollo.
+<insertar> Muchas versiones han evolucionado a travÃ©s de los
+ aÃ±os, algunas veces por accidente, otras veces a
+ propÃ³sito (por ejemplo insertÃ¡ndole humor y cosas por
+ el estilo). Â¿De dÃ³nde viene? Al contrario del
+ pensamiento popular, el texto de Lorem Ipsum no
+ es simplemente texto aleatorio. Tiene sus raices en
+ una pieza </insertar>
+<saco> clÂ´sica de
+<alarga> la
+<insertar> literatura del Latin, que data del aÃ±o 45
+ antes de Cristo, haciendo que este adquiera mas
+ de 2000 aÃ±os de antiguedad. Richard McClintock, un
+ profesor de Latin de la Universidad </insertar>
+<juanagra> de
+<alocado> Hampden-Sydney
+<cÃ©sar> en
+<partidas> Vir enc una las mÃ¡s </partidas>
+<vaciar>
+<partidas> del len del "co </partidas>
+<insertar> en un pasaje de Lorem Ipsum, y al
+ seguir leyendo distintos textos del latÃ­n, descubriÃ³ la
+ fuente indudable. Lorem Ipsum viene de las secciones
+ 1.10.32 y 1.10.33 de "de Finnibus Bonorum et
+ Malorum" (Los Extremos del Bien y El Mal)
+ por Cicero, escrito en el aÃ±o 45 antes
+ de Cristo. </insertar>
+<partidas> Est lib </partidas>
+<insertar> es un tratado de teorÃ­a de Ã©ticas, muy
+ popular durante el Renacimiento. La primera linea del
+ Lorem Ipsum, "Lorem ipsum dolor sit </insertar>
+<partidas> ame vie deu lin enl sec 1.1 Elt det est deL </partidas>
+<vaciar>
+<saco> Ipsum usado
+<cÃ©sar> desde
+<insertar> el aÃ±o 1500 es reproducido debajo para aquellos
+ interesados. Las secciones 1.10.32 y 1.10.33 de "de
+ Finibus Bonorum et Malorum" por Cicero son tambiÃ©n
+ reproducidas en su forma original exacta, acompaÃ±adas por
+ versiones en InglÃ©s de la traducciÃ³n realizada en
+ 1914 por H. Rackham. </insertar>
+<saco> Â¿DÃ³nde puedo
+<saco> conseguirlo? Hay
+<saco> muchas variaciones
+<insertar> de los pasajes de Lorem Ipsum disponibles, pero
+ la mayorÃ­a sufriÃ³ alteraciones en alguna manera, ya
+ sea porque se le agregÃ³ humor, o palabras
+ aleatorias que no parecen ni un poco creÃ­bles.
+ Si vas a utilizar un pasaje de Lorem
+ Ipsum, necesitÃ¡s estar seguro de que no hay
+ </insertar>
+<saco> nada avergonzante
+<consomÃ©> escondido
+<insertar> en el medio del texto. Todos los generadores
+ de Lorem Ipsum que se encuentran en Internet
+ tienden a repetir trozos predefinidos cuando sea necesario,
+ haciendo a este el Ãºnico generador verdadero (vÃ¡lido)
+ en la Internet. Usa un diccionario de mas
+ de 200 palabras </insertar>
+<alocado> provenientes
+<saco> del latÃ­n,
+<partidas> com con </partidas>
+<consomÃ©> muy
+<saco> Ãºtiles de
+<alocado> sentencias,
+<cÃ©sar> para
+<alarga> generar
+<alocado> texto
+<cÃ©sar> de
+<alocado> Lorem
+<cÃ©sar> Ipsum
+<cÃ©sar> que
+<consomÃ©> parezca
+<insertar> razonable. Este Lorem Ipsum generado siempre estarÃ¡ libre
+ de repeticiones, humor agregado o palabras no caracterÃ­sticas
+ del lenguaje, etc. 5 pÃ¡rrafos palabras bytes listas
+ Comenzar con 'Lorem ipsum dolor sit </insertar>
+<consomÃ©> amet...'
+<saco> Generar Lorem
+<alarga> Ipsum
+<vaciar>
+<juanagra> Time
+<insertar> tracking for freelancers Traducciones: Â¿PodÃ©s ayudar a traducir
+ este sitio en </insertar>
+<cÃ©sar> otro
+<alarga> lenguaje?
+<alarga> Por
+<partidas> fav env </partidas>
+<consomÃ©> un
+<vaciar>
+<cÃ©sar> correo
+<alarga> electrÃ³nico
+<juanagra> con
+<juanagra> los
+<partidas> det sip ayu Aho hay ser deb </partidas>
+<vaciar>
+<consomÃ©> disponibles
+<juanagra> aquÃ­
+<saco> en tres
+<cÃ©sar> colores
+<consomÃ©> y
+<alocado> en
+<consomÃ©> un
+<alarga> rango
+<alocado> de
+<saco> tamaÃ±os estÃ¡ndar:
+<alocado> BannersBannersBanners
+<partidas> Don Siu </partidas>
+<juanagra> este
+<alarga> sitio
+<alarga> regularmente
+<insertar> y te gustarÃ­a que siga online, por favor,
+ considerÃ¡ donar una pequeÃ±a suma para ayudar a
+ pagar el servicio de hosting y ancho de
+ banda. ClickeÃ¡ aqui para donar usando PayPal. Gracias
+ por tu ayuda!. Chrome Firefox Add-on NodeJS TeX
+ Package Python Interface </insertar>
+<vaciar>
+<alarga> GTK
+<vaciar>
+<partidas> Lip Rai .NE Gro Ado Plu </partidas>
+<cÃ©sar> El
+<insertar> pasaje estÃ¡ndar Lorem Ipsum, usado desde el aÃ±o
+ 1500. "Lorem ipsum dolor sit amet, consectetur adipiscing
+ elit, sed do eiusmod tempor incididunt ut labore
+ et dolore magna aliqua. </insertar>
+<partidas> Ute adm ven qui nos exe ull lab nis uta exe </partidas>
+<saco> commodo consequat.
+<consomÃ©> Duis
+<alarga> aute
+<saco> irure dolor
+<cÃ©sar> in
+<insertar> reprehenderit in voluptate velit esse cillum dolore eu
+ fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+ proident, sunt in culpa qui officia deserunt mollit
+ anim id </insertar>
+<saco> est laborum."
+<alocado> SecciÃ³n
+<juanagra> 1.10.32
+<alarga> de
+<insertar> "de Finibus Bonorum et Malorum", escrito por Cicero
+ en el 45 antes de Cristo "Sed ut
+ perspiciatis unde omnis iste natus error sit voluptatem
+ accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
+ quae </insertar>
+<cÃ©sar> ab
+<alocado> illo
+<juanagra> inventore
+<partidas> ver etq arc bea vit dic sun exp Nem eni </partidas>
+<consomÃ©> ipsam
+<partidas> vol qui vol sit aut aut sed con </partidas>
+<consomÃ©> magni
+<cÃ©sar> dolores
+<consomÃ©> eos
+<juanagra> qui
+<insertar> ratione voluptatem sequi nesciunt. Neque porro quisquam est,
+ qui dolorem ipsum quia dolor sit amet, consectetur,
+ adipisci velit, sed quia non numquam eius modi
+ tempora incidunt ut labore et dolore magnam </insertar>
+<juanagra> aliquam
+<cÃ©sar> quaerat
+<consomÃ©> voluptatem.
+<cÃ©sar> Ut
+<alocado> enim
+<saco> ad minima
+<juanagra> veniam,
+<partidas> qui nos exe ull cor sus lab nis </partidas>
+<juanagra> ut
+<saco> aliquid ex
+<alocado> ea
+<partidas> com con Qui aut vel iur rep qui eav </partidas>
+<cÃ©sar> velit
+<alocado> esse
+<partidas> qua nih mol con </partidas>
+<insertar> vel illum qui dolorem eum fugiat quo </insertar>
+<cÃ©sar> voluptas
+<saco> nulla pariatur?"
+<insertar> TraducciÃ³n hecha por H. Rackham en 1914 </insertar>
+<alocado> "But
+<partidas> Imu exp toy how thi mis ide ofd ple </partidas>
+<alocado> and
+<insertar> praising pain was born and I will give
+ you a complete account of the system, and
+ expound the actual teachings of the great explorer
+ of the truth, the master-builder of human happiness.
+ No one rejects, dislikes, or avoids pleasure itself,
+ </insertar>
+<insertar> because it is pleasure, but because those who
+ do not know how to pursue pleasure rationally
+ encounter consequences that are extremely painful. Nor again
+ is there anyone who loves or pursues or
+ desires to obtain pain of itself, because it
+ is pain, but </insertar>
+<partidas> bec occ </partidas>
+<partidas> cir occ inw toi and can him gre ple Tot atr </partidas>
+<insertar> example, which of us ever undertakes laborious physical
+ exercise, except to obtain </insertar>
+<vaciar>
+<cÃ©sar> some
+<insertar> advantage from it? But who has any right
+ to find fault with a man who </insertar>
+<alarga> chooses
+<partidas> toe </partidas>
+<saco> a pleasure
+<saco> that has
+<partidas> noa con </partidas>
+<consomÃ©> or
+<alocado> one
+<juanagra> who
+<saco> avoids a
+<cÃ©sar> pain
+<consomÃ©> that
+<vaciar>
+<consomÃ©> produces
+<cÃ©sar> no
+<saco> resultant pleasure?"
+<insertar> SecciÃ³n 1.10.33 de "de Finibus Bonorum et Malorum",
+ escrito por Cicero en el 45 antes de
+ Cristo "At vero eos et accusamus et iusto
+ odio </insertar>
+<consomÃ©> dignissimos
+<saco> ducimus qui
+<saco> blanditiis praesentium
+<insertar> voluptatum deleniti atque corrupti quos dolores et quas
+ molestias excepturi sint occaecati cupiditate non provident, similique
+ sunt in culpa </insertar>
+<juanagra> qui
+<insertar> officia deserunt mollitia animi, id est laborum et
+ dolorum fuga. Et harum quidem rerum facilis est
+ et expedita distinctio. Nam libero tempore, cum soluta
+ nobis est eligendi optio cumque nihil impedit </insertar>
+<alarga> quo
+<cÃ©sar> minus
+<cÃ©sar> id
+<partidas> quo max pla fac pos omn vol ass est omn dol </partidas>
+<insertar> repellendus. Temporibus autem quibusdam et aut officiis debitis
+ aut rerum necessitatibus saepe eveniet ut et voluptates
+ repudiandae sint et molestiae non recusandae. </insertar>
+<juanagra> Itaque
+<consomÃ©> earum
+<saco> rerum hic
+<saco> tenetur a
+<consomÃ©> sapiente
+<vaciar>
+<cÃ©sar> delectus,
+<juanagra> ut
+<consomÃ©> aut
+<cÃ©sar> reiciendis
+<alarga> voluptatibus
+<saco> maiores alias
+<vaciar>
+<consomÃ©> consequatur
+<consomÃ©> aut
+<juanagra> perferendis
+<saco> doloribus asperiores
+<saco> repellat." TraducciÃ³n
+<cÃ©sar> hecha
+<consomÃ©> por
+<consomÃ©> H.
+<alocado> Rackham
+<insertar> en 1914 "On the other hand, we denounce
+ with righteous indignation and dislike men who are
+ so beguiled and demoralized by the charms of
+ pleasure of the moment, so blinded by desire,
+ that they cannot foresee the pain and trouble
+ that are bound </insertar>
+<cÃ©sar> to
+<juanagra> ensue;
+<alocado> and
+<insertar> equal blame belongs to those who fail in
+ their duty through weakness of will, which is
+ the same as saying through shrinking from toil
+ and pain. These cases are perfectly simple </insertar>
+<alocado> and
+<alocado> easy
+<vaciar>
+<alocado> to
+<vaciar>
+<alarga> distinguish.
+<alocado> In
+<cÃ©sar> a
+<juanagra> free
+<vaciar>
+<cÃ©sar> hour,
+<partidas> whe our ofc isu and not </partidas>
+<alocado> prevents
+<juanagra> our
+<partidas> bei abl tod wha wel bes eve </partidas>
+<alocado> pleasure
+<partidas> ist bew and pai avo But </partidas>
+<alarga> certain
+<vaciar>
+<cÃ©sar> circumstances
+<juanagra> and
+<vaciar>
+<alocado> owing
+<partidas> tot </partidas>
+<insertar> claims of duty or the obligations of business
+ it will frequently occur that pleasures have to
+ be repudiated and annoyances accepted. The </insertar>
+<cÃ©sar> wise
+<alocado> man
+<consomÃ©> therefore
+<consomÃ©> always
+<alarga> holds
+<consomÃ©> in
+<alarga> these
+<cÃ©sar> matters
+<consomÃ©> to
+<consomÃ©> this
+<consomÃ©> principle
+<cÃ©sar> of
+<partidas> sel her ple tos oth gre </partidas>
+<alarga> pleasures,
+<alarga> or
+<saco> else he
+<juanagra> endures
+<cÃ©sar> pains
+<alarga> to
+<alarga> avoid
+<saco> worse pains."
+<alocado> Lorem
+<juanagra> Ipsum
+<cÃ©sar> "Neque
+<saco> porro quisquam
+<vaciar>
+<consomÃ©> est
+<consomÃ©> qui
+<vaciar>
+<partidas> dol ips qui dol sit con adi vel </partidas>
+<saco> "No hay
+<partidas> nad que eld mis que bus loe ylo </partidas>
+<insertar> simplemente porque es el dolor." Â¿QuÃ© es Lorem
+ Ipsum? Lorem Ipsum es simplemente el texto de
+ relleno de las imprentas y archivos de texto.
+ Lorem Ipsum ha sido el texto de relleno
+ estÃ¡ndar </insertar>
+<juanagra> de
+<juanagra> las
+<cÃ©sar> industrias
+<juanagra> desde
+<cÃ©sar> el
+<consomÃ©> aÃ±o
+<alarga> 1500,
+<alarga> cuando
+<partidas> uni (N. T.p que </partidas>
+<consomÃ©> dedica
+<alarga> a
+<saco> la imprenta)
+<alarga> desconocido
+<consomÃ©> usÃ³
+<juanagra> una
+<juanagra> galerÃ­a
+<insertar> de textos y los mezclÃ³ de tal manera
+ que logrÃ³ hacer un libro de textos especimen.
+ No sÃ³lo sobreviviÃ³ 500 aÃ±os, sino </insertar>
+<cÃ©sar> que
+<partidas> tam ing com tex der end </partidas>
+<cÃ©sar> electrÃ³nicos,
+<cÃ©sar> quedando
+<saco> esencialmente igual
+<consomÃ©> al
+<alocado> original.
+<alarga> Fue
+<saco> popularizado en
+<cÃ©sar> los
+<saco> 60s con
+<juanagra> la
+<vaciar>
+<alocado> creaciÃ³n
+<alocado> de
+<insertar> las hojas "Letraset", las cuales contenian pasajes de
+ Lorem Ipsum, y mÃ¡s recientemente con software de
+ autoediciÃ³n, como por ejemplo Aldus PageMaker, el cual
+ incluye versiones de Lorem Ipsum. Â¿Por quÃ© lo
+ usamos? Es un hecho establecido </insertar>
+<cÃ©sar> hace
+<alarga> demasiado
+<alarga> tiempo
+<saco> que un
+<alarga> lector
+<vaciar>
+<saco> se distraerÃ¡
+<partidas> con con del deu sit mie que </partidas>
+<cÃ©sar> su
+<alarga> diseÃ±o.
+<cÃ©sar> El
+<insertar> punto de usar Lorem Ipsum es que tiene
+ una distribuciÃ³n mÃ¡s o menos normal de las
+ letras, al contrario de usar textos como por
+ ejemplo "Contenido aquÃ­, contenido aquÃ­". Estos textos hacen
+ parecerlo un espaÃ±ol que se puede leer. Muchos
+ paquetes </insertar>
+<insertar> de autoediciÃ³n y editores de pÃ¡ginas web usan
+ el Lorem Ipsum como su texto por defecto,
+ y al hacer una bÃºsqueda de "Lorem Ipsum"
+ va a </insertar>
+<partidas> dar res muc sit web usa est tex sis </partidas>
+<vaciar>
+<juanagra> encuentran
+<vaciar>
+<alocado> en
+<cÃ©sar> estado
+<saco> de desarrollo.
+<partidas> Muc ver han atr del </partidas>
+<consomÃ©> aÃ±os,
+<saco> algunas veces
+<saco> por accidente,
+<vaciar>
+<cÃ©sar> otras
+<partidas> vec apr (po eje ins hum </partidas>
+<juanagra> y
+<partidas> cos por est Â¿D dÃ³n vie Alc del </partidas>
+<insertar> popular, el texto de Lorem Ipsum no es
+ simplemente texto aleatorio. </insertar>
+<consomÃ©> Tiene
+<cÃ©sar> sus
+<saco> raices en
+<alarga> una
+<vaciar>
+<consomÃ©> pieza
+<consomÃ©> clÂ´sica
+<vaciar>
+<partidas> del lit del que del </partidas>
+<insertar> 45 antes de Cristo, haciendo que este adquiera
+ mas de 2000 aÃ±os de antiguedad. Richard McClintock,
+ un profesor de Latin de la Universidad de
+ Hampden-Sydney en Virginia, encontrÃ³ una de las palabras
+ mÃ¡s oscuras de la lengua del latÃ­n, "consecteur",
+ en </insertar>
+<alarga> un
+<partidas> pas deL Ips yal ley </partidas>
+<juanagra> distintos
+<vaciar>
+<juanagra> textos
+<alarga> del
+<alocado> latÃ­n,
+<cÃ©sar> descubriÃ³
+<insertar> la fuente indudable. Lorem Ipsum viene de las
+ secciones 1.10.32 y 1.10.33 de "de Finnibus Bonorum
+ et Malorum" (Los Extremos del Bien y El
+ Mal) por Cicero, escrito en el aÃ±o 45
+ antes de Cristo. Este libro es un tratado
+ de teorÃ­a de Ã©ticas, </insertar>
+<vaciar>
+<partidas> muy dur elR Lap </partidas>
+<insertar> linea del Lorem Ipsum, "Lorem ipsum dolor sit
+ amet..", viene de una linea en la secciÃ³n
+ 1.10.32 El trozo de texto estÃ¡ndar de Lorem
+ Ipsum usado desde el aÃ±o 1500 es reproducido
+ debajo para aquellos interesados. Las secciones 1.10.32 y
+ 1.10.33 de </insertar>
+<saco> "de Finibus
+<alarga> Bonorum
+<insertar> et Malorum" por Cicero son tambiÃ©n reproducidas en
+ su forma original exacta, acompaÃ±adas por versiones en
+ InglÃ©s de la traducciÃ³n realizada en 1914 por
+ H. Rackham. Â¿DÃ³nde puedo conseguirlo? Hay muchas variaciones
+ de los pasajes de Lorem Ipsum disponibles, pero
+ la mayorÃ­a sufriÃ³ alteraciones en alguna </insertar>
+<saco> manera, ya
+<saco> sea porque
+<insertar> se le agregÃ³ humor, o palabras aleatorias que
+ </insertar>
+<saco> no parecen
+<consomÃ©> ni
+<alocado> un
+<vaciar>
+<partidas> poc cre Siv aut unp deL Ips </partidas>
+<alarga> necesitÃ¡s
+<alocado> estar
+<saco> seguro de
+<alocado> que
+<vaciar>
+<alarga> no
+<consomÃ©> hay
+<partidas> nad ave esc ene med del Tod los deL Ips </partidas>
+<consomÃ©> que
+<partidas> see enI tie are tro pre cua sea hac </partidas>
+<consomÃ©> a
+<saco> este el
+<insertar> Ãºnico generador verdadero (vÃ¡lido) en la Internet. Usa
+ un diccionario de mas de 200 palabras provenientes
+ del </insertar>
+<juanagra> latÃ­n,
+<saco> combinadas con
+<alocado> estructuras
+<juanagra> muy
+<saco> Ãºtiles de
+<vaciar>
+<cÃ©sar> sentencias,
+<saco> para generar
+<alocado> texto
+<alocado> de
+<saco> Lorem Ipsum
+<consomÃ©> que
+<saco> parezca razonable.
+<consomÃ©> Este
+<alocado> Lorem
+<consomÃ©> Ipsum
+<juanagra> generado
+<alocado> siempre
+<alocado> estarÃ¡
+<insertar> libre de repeticiones, humor agregado o palabras no
+ caracterÃ­sticas del lenguaje, etc. 5 pÃ¡rrafos palabras bytes
+ listas Comenzar con 'Lorem ipsum dolor sit amet...'
+ Generar Lorem Ipsum Time tracking for freelancers Traducciones:
+ Â¿PodÃ©s ayudar a traducir </insertar>
+<juanagra> este
+<alocado> sitio
+<alocado> en
+<cÃ©sar> otro
+<consomÃ©> lenguaje?
+<alarga> Por
+<saco> favor envÃ­anos
+<saco> un correo
+<alarga> electrÃ³nico
+<consomÃ©> con
+<cÃ©sar> los
+<alarga> detalles
+<juanagra> si
+<alocado> podÃ©s
+<consomÃ©> ayudar.
+<insertar> Ahora hay una serie de banners disponibles aquÃ­
+ en tres </insertar>
+<saco> colores y
+<alocado> en
+<juanagra> un
+<juanagra> rango
+<alocado> de
+<cÃ©sar> tamaÃ±os
+<consomÃ©> estÃ¡ndar:
+<alarga> BannersBannersBanners
+<alocado> Donar:
+<juanagra> Si
+<cÃ©sar> utilizas
+<insertar> este sitio regularmente y te gustarÃ­a que siga
+ online, por favor, considerÃ¡ donar una pequeÃ±a suma
+ para ayudar a pagar el servicio de hosting
+ y ancho de banda. ClickeÃ¡ aqui para donar
+ usando PayPal. Gracias por tu ayuda!. Chrome Firefox
+ Add-on </insertar>
+<vaciar>
+<juanagra> NodeJS
+<vaciar>
+<saco> TeX Package
+<alocado> Python
+<vaciar>
+<insertar> Interface GTK Lipsum Rails .NET Groovy Adobe Plugin
+ El pasaje estÃ¡ndar Lorem Ipsum, usado desde el
+ aÃ±o 1500. "Lorem ipsum dolor sit </insertar>
+<alarga> amet,
+<alarga> consectetur
+<cÃ©sar> adipiscing
+<saco> elit, sed
+<vaciar>
+<partidas> doe tem inc utl etd </partidas>
+<consomÃ©> magna
+<alocado> aliqua.
+<alocado> Ut
+<alarga> enim
+<alarga> ad
+<vaciar>
+<saco> minim veniam,
+<juanagra> quis
+<saco> nostrud exercitation
+<saco> ullamco laboris
+<saco> nisi ut
+<alocado> aliquip
+<cÃ©sar> ex
+<partidas> eac con Dui aut iru dol inr </partidas>
+<partidas> inv vel ess cil dol euf nul par Exc sin </partidas>
+<vaciar>
+<juanagra> occaecat
+<cÃ©sar> cupidatat
+<saco> non proident,
+<insertar> sunt in culpa qui officia deserunt mollit anim
+ id est laborum." SecciÃ³n 1.10.32 de "de Finibus
+ Bonorum et Malorum", escrito por Cicero en el
+ 45 antes de Cristo "Sed ut perspiciatis </insertar>
+<consomÃ©> unde
+<vaciar>
+<juanagra> omnis
+<consomÃ©> iste
+<alarga> natus
+<insertar> error sit voluptatem accusantium doloremque laudantium, totam rem
+ aperiam, eaque ipsa quae ab illo inventore veritatis
+ et quasi architecto beatae </insertar>
+<cÃ©sar> vitae
+<partidas> dic sun exp Nem eni ips vol qui vol sit aut aut </partidas>
+<alarga> sed
+<alocado> quia
+<insertar> consequuntur magni dolores eos qui ratione voluptatem sequi
+ nesciunt. Neque porro quisquam est, qui dolorem ipsum
+ quia dolor sit amet, consectetur, adipisci velit, sed
+ quia </insertar>
+<partidas> non eiu mod tem inc utl etd mag ali qua </partidas>
+<partidas> vol Ute adm </partidas>
+<cÃ©sar> veniam,
+<saco> quis nostrum
+<saco> exercitationem ullam
+<insertar> corporis suscipit laboriosam, nisi ut aliquid ex ea
+ commodi consequatur? Quis autem vel eum iure reprehenderit
+ qui in ea voluptate </insertar>
+<consomÃ©> velit
+<saco> esse quam
+<juanagra> nihil
+<insertar> molestiae consequatur, vel illum qui dolorem eum fugiat
+ quo voluptas nulla pariatur?" TraducciÃ³n hecha por H.
+ Rackham en 1914 "But I must explain to
+ </insertar>
+<alocado> you
+<alarga> how
+<insertar> all this mistaken idea of denouncing pleasure and
+ praising pain was born and I will give
+ you a complete account of the system, and
+ expound the actual teachings of the great explorer
+ of the truth, the master-builder of human happiness.
+ No </insertar>
+<partidas> one dis ora ple its bec iti ple but tho who </partidas>
+<juanagra> not
+<cÃ©sar> know
+<consomÃ©> how
+<alarga> to
+<consomÃ©> pursue
+<vaciar>
+<insertar> pleasure rationally encounter consequences that are extremely painful.
+ Nor again is there anyone who loves or
+ pursues or desires to obtain pain of </insertar>
+<saco> itself, because
+<alarga> it
+<saco> is pain,
+<alarga> but
+<saco> because occasionally
+<vaciar>
+<partidas> cir occ inw toi and can him </partidas>
+<alarga> great
+<consomÃ©> pleasure.
+<cÃ©sar> To
+<alocado> take
+<alocado> a
+<alocado> trivial
+<consomÃ©> example,
+<cÃ©sar> which
+<consomÃ©> of
+<saco> us ever
+<juanagra> undertakes
+<insertar> laborious physical exercise, except to obtain some advantage
+ from it? But who has any right to
+ find fault with a man who chooses to
+ enjoy a pleasure that has no annoying consequences,
+ </insertar>
+<alarga> or
+<consomÃ©> one
+<partidas> who apa tha pro nor ple Sec 1.1 de" Fin Bon </partidas>
+<saco> et Malorum",
+<alocado> escrito
+<alarga> por
+<consomÃ©> Cicero
+<cÃ©sar> en
+<cÃ©sar> el
+<insertar> 45 antes de Cristo "At vero eos et
+ accusamus et iusto odio dignissimos ducimus qui blanditiis
+ praesentium voluptatum deleniti atque corrupti quos dolores et
+ quas molestias excepturi sint occaecati cupiditate non provident,
+ similique sunt in culpa qui officia deserunt </insertar>
+<alocado> mollitia
+<vaciar>
+<cÃ©sar> animi,
+<saco> id est
+<juanagra> laborum
+<consomÃ©> et
+<insertar> dolorum </insertar>
+<saco> fuga. Et
+<cÃ©sar> harum
+<cÃ©sar> quidem
+<partidas> rer fac est exp dis Nam tem cum nob est opt cum </partidas>
+<alarga> nihil
+<partidas> imp quo idq max pla fac pos omn vol ass </partidas>
+<consomÃ©> est,
+<alocado> omnis
+<partidas> dol rep Tem </partidas>
+<alocado> autem
+<juanagra> quibusdam
+<insertar> et aut officiis debitis aut rerum necessitatibus saepe
+ eveniet ut et voluptates repudiandae sint et molestiae
+ non recusandae. Itaque earum rerum </insertar>
+<vaciar>
+<consomÃ©> hic
+<cÃ©sar> tenetur
+<saco> a sapiente
+<saco> delectus, ut
+<juanagra> aut
+<cÃ©sar> reiciendis
+<alocado> voluptatibus
+<insertar> maiores alias consequatur aut perferendis doloribus asperiores repellat."
+ TraducciÃ³n hecha por H. Rackham en 1914 "On
+ the other hand, </insertar>
+<partidas> wed wit rig ind and men are beg and byt </partidas>
+<cÃ©sar> charms
+<alocado> of
+<juanagra> pleasure
+<alocado> of
+<insertar> the moment, so blinded by desire, that they
+ cannot foresee the pain and trouble that are
+ bound to ensue; and equal </insertar>
+<consomÃ©> blame
+<insertar> belongs to those who fail in their duty
+ through weakness of will, which is the same
+ as saying through shrinking from toil and pain.
+ These cases are perfectly simple and easy </insertar>
+<partidas> tod Ina hou whe our ofc isu and not pre </partidas>
+<cÃ©sar> our
+<saco> being able
+<alarga> to
+<juanagra> do
+<partidas> wha wel bes eve ple ist bew and pai avo But cer </partidas>
+<saco> circumstances and
+<juanagra> owing
+<consomÃ©> to
+<alarga> the
+<alocado> claims
+<alarga> of
+<insertar> duty or the obligations of business it will
+ frequently occur that pleasures have </insertar>
+<saco> to be
+<alocado> repudiated
+<vaciar>
+<alarga> and
+<consomÃ©> annoyances
+<insertar> accepted. The wise man therefore always holds in
+ these matters to this principle of selection: he
+ rejects pleasures to secure other greater pleasures, or
+ else he endures pains to avoid worse pains."
+ Lorem Ipsum "Neque porro quisquam est qui dolorem
+ ipsum quia dolor </insertar>
+<partidas> sit con adi vel "No nad que eld mis que bus </partidas>
+<partidas> loe ylo sim por ese dol Â¿Q </partidas>
+<vaciar>
+<partidas> esL Ips Lor Ips ess elt der del </partidas>
+<saco> imprentas y
+<juanagra> archivos
+<partidas> det Lor Ips has elt der est </partidas>
+<juanagra> de
+<cÃ©sar> las
+<vaciar>
+<alarga> industrias
+<alocado> desde
+<alarga> el
+<consomÃ©> aÃ±o
+<saco> 1500, cuando
+<partidas> uni (N. T.p que ded ala </partidas>
+<insertar> desconocido usÃ³ una galerÃ­a de textos y los
+ mezclÃ³ de tal manera que logrÃ³ hacer un
+ libro de textos especimen. No sÃ³lo sobreviviÃ³ 500
+ </insertar>
+<juanagra> aÃ±os,
+<saco> sino que
+<insertar> tambien ingresÃ³ </insertar>
+<insertar> como texto </insertar>
+<alarga> de
+<consomÃ©> relleno
+<alocado> en
+<insertar> documentos electrÃ³nicos, quedando esencialmente igual al original. Fue
+ popularizado en los 60s con la creaciÃ³n de
+ las hojas </insertar>
+<insertar> "Letraset", las cuales contenian pasajes de Lorem Ipsum,
+ y mÃ¡s recientemente con software de autoediciÃ³n, como
+ por ejemplo </insertar>
+<juanagra> Aldus
+<cÃ©sar> PageMaker,
+<consomÃ©> el
+<alocado> cual
+<insertar> incluye versiones de Lorem Ipsum. Â¿Por quÃ© lo
+ usamos? Es un hecho establecido hace demasiado tiempo
+ que un lector se distraerÃ¡ con el contenido
+ del texto de un sitio mientras que mira
+ su diseÃ±o. El punto de usar Lorem Ipsum
+ </insertar>
+<vaciar>
+<cÃ©sar> es
+<insertar> que tiene una distribuciÃ³n mÃ¡s o menos normal
+ de las letras, al contrario de usar textos
+ como por ejemplo "Contenido aquÃ­, contenido aquÃ­". Estos
+ textos hacen </insertar>
+<alarga> parecerlo
+<vaciar>
+<alocado> un
+<insertar> espaÃ±ol que se puede leer. Muchos paquetes de
+ autoediciÃ³n y editores de pÃ¡ginas web usan el
+ Lorem Ipsum como su texto por defecto, y
+ al hacer una bÃºsqueda de "Lorem Ipsum" va
+ a dar </insertar>
+<consomÃ©> por
+<insertar> resultado muchos sitios web que usan este texto
+ </insertar>
+<cÃ©sar> si
+<consomÃ©> se
+<alarga> encuentran
+<cÃ©sar> en
+<insertar> estado de desarrollo. Muchas versiones han evolucionado a
+ travÃ©s de los aÃ±os, </insertar>
+<juanagra> algunas
+<consomÃ©> veces
+<cÃ©sar> por
+<saco> accidente, otras
+<partidas> vec apr (po eje ins hum yco por est </partidas>
+<alarga> Â¿De
+<insertar> dÃ³nde viene? Al contrario del pensamiento popular, el
+ texto de Lorem Ipsum no es simplemente texto
+ aleatorio. Tiene sus raices </insertar>
+<alocado> en
+<cÃ©sar> una
+<partidas> pie cl del lit </partidas>
+<insertar> del Latin, que data del aÃ±o </insertar>
+<partidas> 45a deC hac que adq mas 200 </partidas>
+<vaciar>
+<cÃ©sar> aÃ±os
+<insertar> de antiguedad. Richard McClintock, un profesor de Latin
+ de la Universidad de Hampden-Sydney en Virginia, encontrÃ³
+ una de las palabras mÃ¡s </insertar>
+<vaciar>
+<insertar> oscuras de la lengua del latÃ­n, "consecteur", en
+ un pasaje de Lorem Ipsum, y al seguir
+ leyendo distintos textos del latÃ­n, descubriÃ³ la fuente
+ indudable. </insertar>
+<alocado> Lorem
+<cÃ©sar> Ipsum
+<partidas> vie del sec 1.1 y1. de" Fin Bon etM </partidas>
+<partidas> (Lo Ext del yEl por esc </partidas>
+<saco> en el
+<alarga> aÃ±o
+<alocado> 45
+<cÃ©sar> antes
+<insertar> de Cristo. Este libro es un tratado de
+ teorÃ­a de Ã©ticas, muy popular durante el Renacimiento.
+ La primera linea del Lorem Ipsum, "Lorem ipsum
+ dolor sit amet..", viene de una linea en
+ la secciÃ³n 1.10.32 El trozo de texto estÃ¡ndar
+ de Lorem Ipsum </insertar>
+<partidas> usa des ela </partidas>
+<consomÃ©> 1500
+<juanagra> es
+<juanagra> reproducido
+<cÃ©sar> debajo
+<alarga> para
+<consomÃ©> aquellos
+<cÃ©sar> interesados.
+<vaciar>
+<vaciar>
+<consomÃ©> Las
+<cÃ©sar> secciones
+<consomÃ©> 1.10.32
+<consomÃ©> y
+<insertar> 1.10.33 de "de Finibus Bonorum et Malorum" por
+ Cicero son tambiÃ©n reproducidas en su forma original
+ exacta, </insertar>
+<consomÃ©> acompaÃ±adas
+<alocado> por
+<juanagra> versiones
+<consomÃ©> en
+<insertar> InglÃ©s de la traducciÃ³n realizada en 1914 por
+ H. Rackham. Â¿DÃ³nde puedo conseguirlo? Hay muchas variaciones
+ de los pasajes de Lorem Ipsum disponibles, pero
+ la </insertar>
+<vaciar>
+<alocado> mayorÃ­a
+<partidas> suf alt ena man yas por sel </partidas>
+<consomÃ©> agregÃ³
+<insertar> humor, o palabras aleatorias que no parecen ni
+ un poco creÃ­bles. Si vas a utilizar un
+ pasaje de Lorem Ipsum, necesitÃ¡s estar seguro de
+ que no hay nada </insertar>
+<saco> avergonzante escondido
+<partidas> ene med del Tod los deL Ips que enc enI </partidas>
+<juanagra> tienden
+<alarga> a
+<alocado> repetir
+<partidas> tro pre cua sea hac </partidas>
+<partidas> aes elÃº </partidas>
+<cÃ©sar> generador
+<juanagra> verdadero
+<partidas> (vÃ¡ enl Int Usa </partidas>
+<juanagra> diccionario
+<cÃ©sar> de
+<partidas> mas 200 </partidas>
+<saco> provenientes del
+<saco> latÃ­n, combinadas
+<saco> con estructuras
+<saco> muy Ãºtiles
+<saco> de sentencias,
+<partidas> par gen tex </partidas>
+<partidas> deL Ips que raz Est Lor Ips gen sie est </partidas>
+<juanagra> libre
+<partidas> der hum agr opa noc del etc 5pÃ¡ pal byt </partidas>
+<consomÃ©> listas
+<consomÃ©> Comenzar
+<alarga> con
+<insertar> 'Lorem ipsum dolor </insertar>
+<vaciar>
+<alocado> sit
+<alocado> amet...'
+<cÃ©sar> Generar
+<insertar> Lorem Ipsum Time tracking for freelancers Traducciones: Â¿PodÃ©s
+ ayudar a traducir este sitio en otro lenguaje?
+ Por favor envÃ­anos un correo electrÃ³nico con los
+ detalles si podÃ©s ayudar. Ahora hay una serie
+ </insertar>
+<vaciar>
+<juanagra> de
+<insertar> banners disponibles aquÃ­ en tres colores y en
+ un rango de tamaÃ±os estÃ¡ndar: BannersBannersBanners Donar: Si
+ utilizas este sitio regularmente y te gustarÃ­a que
+ siga online, por favor, considerÃ¡ donar una pequeÃ±a
+ suma </insertar>
+<alocado> para
+<cÃ©sar> ayudar
+<insertar> a pagar el servicio de hosting y ancho
+ de banda. ClickeÃ¡ aqui para donar usando PayPal.
+ Gracias por tu ayuda!. Chrome Firefox Add-on NodeJS
+ TeX Package Python Interface GTK Lipsum Rails .NET
+ Groovy Adobe Plugin </insertar>
+<cÃ©sar> El
+<saco> pasaje estÃ¡ndar
+<cÃ©sar> Lorem
+<alocado> Ipsum,
+<saco> usado desde
+<insertar> el aÃ±o 1500. "Lorem ipsum dolor sit amet,
+ consectetur adipiscing elit, sed do eiusmod tempor incididunt
+ ut labore et dolore magna aliqua. Ut enim
+ ad minim veniam, quis nostrud exercitation ullamco laboris
+ nisi ut aliquip ex </insertar>
+<consomÃ©> ea
+<juanagra> commodo
+<partidas> con Dui aut iru dol inr inv vel ess </partidas>
+<cÃ©sar> cillum
+<juanagra> dolore
+<saco> eu fugiat
+<saco> nulla pariatur.
+<juanagra> Excepteur
+<consomÃ©> sint
+<alarga> occaecat
+<partidas> cup non sun inc qui des </partidas>
+<saco> mollit anim
+<partidas> ide lab </partidas>
+<consomÃ©> SecciÃ³n
+<alarga> 1.10.32
+<insertar> de "de Finibus Bonorum et Malorum", escrito por
+ Cicero en el 45 antes de Cristo "Sed
+ ut perspiciatis unde omnis iste natus error sit
+ voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque
+ ipsa quae ab illo inventore veritatis et quasi
+ architecto beatae vitae dicta sunt explicabo. </insertar>
+<juanagra> Nemo
+<juanagra> enim
+<saco> ipsam voluptatem
+<alocado> quia
+<vaciar>
+<saco> voluptas sit
+<insertar> aspernatur aut odit aut fugit, sed quia consequuntur
+ magni dolores eos qui ratione voluptatem sequi nesciunt.
+ Neque porro quisquam est, qui dolorem ipsum quia
+ dolor sit amet, consectetur, adipisci velit, sed quia
+ non numquam eius modi tempora incidunt ut labore
+ et dolore </insertar>
+<juanagra> magnam
+<insertar> aliquam quaerat voluptatem. Ut enim ad minima veniam,
+ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi
+ ut aliquid ex ea commodi consequatur? Quis autem
+ vel eum iure reprehenderit </insertar>
+<insertar> qui in ea voluptate velit esse quam nihil
+ molestiae consequatur, vel illum qui dolorem eum fugiat
+ quo voluptas nulla pariatur?" TraducciÃ³n hecha por H.
+ Rackham en 1914 "But I must explain to
+ you how all this mistaken idea of denouncing
+ pleasure and praising pain was </insertar>
+<consomÃ©> born
+<cÃ©sar> and
+<alocado> I
+<juanagra> will
+<cÃ©sar> give
+<partidas> you com acc oft sys and the </partidas>
+<cÃ©sar> teachings
+<cÃ©sar> of
+<saco> the great
+<insertar> explorer of the truth, the master-builder of human
+ happiness. No one rejects, dislikes, or avoids pleasure
+ itself, because it is pleasure, but because those
+ who do </insertar>
+<vaciar>
+<alarga> not
+<juanagra> know
+<alocado> how
+<consomÃ©> to
+<cÃ©sar> pursue
+<vaciar>
+<consomÃ©> pleasure
+<cÃ©sar> rationally
+<juanagra> encounter
+<vaciar>
+<alocado> consequences
+<saco> that are
+<alarga> extremely
+<alarga> painful.
+<consomÃ©> Nor
+<cÃ©sar> again
+<alarga> is
+<saco> there anyone
+<cÃ©sar> who
+<saco> loves or
+<partidas> pur ord too pai ofi </partidas>
+<alocado> because
+<juanagra> it
+<consomÃ©> is
+<alarga> pain,
+<partidas> but occ cir occ inw toi and can him gre ple </partidas>
+<alarga> To
+<saco> take a
+<alarga> trivial
+<partidas> exa whi ofu eve und lab phy exe </partidas>
+<juanagra> except
+<cÃ©sar> to
+<vaciar>
+<insertar> obtain some advantage from it? But who has
+ any right to find fault with a man
+ who chooses to enjoy a pleasure that has
+ no annoying consequences, or one who </insertar>
+<saco> avoids a
+<saco> pain that
+<saco> produces no
+<partidas> res ple Sec 1.1 de" Fin Bon etM esc por </partidas>
+<insertar> en el 45 antes de Cristo "At vero
+ eos et accusamus et iusto odio dignissimos ducimus
+ qui blanditiis praesentium voluptatum deleniti atque corrupti quos
+ dolores et quas molestias excepturi sint occaecati cupiditate
+ </insertar>
+<cÃ©sar> non
+<juanagra> provident,
+<saco> similique sunt
+<alocado> in
+<partidas> cul qui des mol ani ide lab etd fug Eth </partidas>
+<saco> quidem rerum
+<juanagra> facilis
+<vaciar>
+<cÃ©sar> est
+<juanagra> et
+<alocado> expedita
+<insertar> distinctio. Nam libero tempore, cum soluta nobis est
+ eligendi optio cumque nihil impedit quo minus id
+ quod maxime placeat facere possimus, omnis voluptas assumenda
+ est, omnis dolor repellendus. Temporibus autem quibusdam et
+ aut </insertar>
+<cÃ©sar> officiis
+<saco> debitis aut
+<saco> rerum necessitatibus
+<insertar> saepe eveniet ut et voluptates repudiandae sint et
+ molestiae non recusandae. Itaque earum rerum hic tenetur
+ a sapiente delectus, ut aut reiciendis voluptatibus maiores
+ alias consequatur aut perferendis doloribus asperiores </insertar>
+<cÃ©sar> repellat."
+<cÃ©sar> TraducciÃ³n
+<saco> hecha por
+<juanagra> H.
+<consomÃ©> Rackham
+<saco> en 1914
+<cÃ©sar> "On
+<alarga> the
+<consomÃ©> other
+<vaciar>
+<alarga> hand,
+<saco> we denounce
+<insertar> with righteous indignation and dislike men who are
+ so beguiled and demoralized by the charms of
+ pleasure of the moment, so blinded by desire,
+ that they cannot foresee the pain and trouble
+ that are bound to ensue; and equal blame
+ belongs to those who fail in </insertar>
+<juanagra> their
+<alocado> duty
+<vaciar>
+<alocado> through
+<alocado> weakness
+<alarga> of
+<saco> will, which
+<alarga> is
+<saco> the same
+<vaciar>
+<alarga> as
+<alocado> saying
+<insertar> through shrinking from toil and pain. These </insertar>
+<partidas> cas are </partidas>
+<juanagra> simple
+<insertar> and easy to distinguish. In a free hour,
+ when our power of choice is untrammelled and
+ when nothing prevents our being able to do
+ what we like best, every pleasure is to
+ be welcomed and every pain avoided. </insertar>
+<cÃ©sar> But
+<juanagra> in
+<consomÃ©> certain
+<alocado> circumstances
+<vaciar>
+<alarga> and
+<juanagra> owing
+<cÃ©sar> to
+<vaciar>
+<cÃ©sar> the
+<juanagra> claims
+<consomÃ©> of
+<partidas> dut ort obl ofb </partidas>
+<alocado> it
+<saco> will frequently
+<juanagra> occur
+<cÃ©sar> that
+<juanagra> pleasures
+<saco> have to
+<cÃ©sar> be
+<insertar> repudiated and annoyances accepted. The wise </insertar>
+<alarga> man
+<alarga> therefore
+<consomÃ©> always
+<alocado> holds
+<alarga> in
+<consomÃ©> these
+<cÃ©sar> matters
+<consomÃ©> to
+<alocado> this
+<partidas> pri ofs her ple tos oth gre ple ore hee pai toa </partidas>
+<insertar> worse pains." Lorem Ipsum "Neque porro quisquam est
+ qui dolorem ipsum quia dolor sit amet, consectetur,
+ adipisci velit..." "No hay nadie que ame el
+ dolor mismo, que lo busque, lo encuentre y
+ lo quiera, simplemente porque </insertar>
+<alarga> es

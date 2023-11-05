@@ -1,0 +1,4025 @@
+Insertando: 8 palabras
+Total diccionario: 8 palabras
+Buscando: ESPAÃ‘A -> No encontrada
+Buscando: BARÃ§A -> No encontrada
+Insertando: 3 palabras
+Total diccionario: 11 palabras
+Vaciando
+Total diccionario: 0 palabras
+Buscando: VOILÃ  -> No encontrada
+Alocado: C-P-T-LA--O-
+No implementado
+Insertando: 1 palabras
+Total diccionario: 1 palabras
+Partidas: CAN DES SAR
+No implementado
+CÃ©sar: WUYMUL
+No implementado
+Juanagrama: ROMA
+No implementado
+Saco: MORENO MUÃ‘ECO
+No implementado
+ConsomÃ©: CAMINO
+No implementado
+Alarga: ALG
+No implementado
+Insertando: 29 palabras
+Total diccionario: 30 palabras
+Vaciando
+Total diccionario: 0 palabras
+Alocado: Y
+No implementado
+Insertando: 8 palabras
+Total diccionario: 8 palabras
+CÃ©sar: ES
+No implementado
+Alocado: LOREM
+No implementado
+Alarga: IPSUM?
+No implementado
+Alocado: LOREM
+No implementado
+ConsomÃ©: IPSUM
+No implementado
+ConsomÃ©: ES
+No implementado
+Alocado: SIMPLEMENTE
+No implementado
+Alocado: EL
+No implementado
+Juanagrama: TEXTO
+No implementado
+Alocado: DE
+No implementado
+Saco: RELLENO DE
+No implementado
+Alarga: LAS
+No implementado
+ConsomÃ©: IMPRENTAS
+No implementado
+Insertando: 9 palabras
+Total diccionario: 17 palabras
+Alocado: TEXTO
+No implementado
+Partidas: DER EST DEL IND DES ELA 150
+No implementado
+Saco: CUANDO UN
+No implementado
+Saco: IMPRESOR (N.
+No implementado
+Saco: DEL T.
+No implementado
+CÃ©sar: PERSONA
+No implementado
+Alarga: QUE
+No implementado
+Saco: SE DEDICA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: A
+No implementado
+Alocado: LA
+No implementado
+CÃ©sar: IMPRENTA)
+No implementado
+Saco: DESCONOCIDO USO
+No implementado
+Alocado: UNA
+No implementado
+Juanagrama: GALERIA
+No implementado
+Alocado: DE
+No implementado
+Insertando: 1 palabras
+Total diccionario: 1 palabras
+Insertando: 15 palabras
+Total diccionario: 16 palabras
+ConsomÃ©: SOLO
+No implementado
+CÃ©sar: SOBREVIVIO
+No implementado
+Saco: 500 AÃ‘OS,
+No implementado
+Insertando: 10 palabras
+Total diccionario: 26 palabras
+Juanagrama: ELECTRONICOS,
+No implementado
+ConsomÃ©: QUEDANDO
+No implementado
+Alarga: ESENCIALMENTE
+No implementado
+Juanagrama: IGUAL
+No implementado
+Partidas: ALO FUE ENL 60S LAC DEL HOJ "LE
+No implementado
+Alarga: LAS
+No implementado
+Saco: CUALES CONTENIAN
+No implementado
+Alocado: PASAJES
+No implementado
+Insertando: 42 palabras
+Total diccionario: 68 palabras
+Alarga: TEXTO
+No implementado
+ConsomÃ©: DE
+No implementado
+Juanagrama: UN
+No implementado
+Partidas: SIT MIE QUE SUD ELP DEU LOR
+No implementado
+Alarga: IPSUM
+No implementado
+Insertando: 21 palabras
+Total diccionario: 89 palabras
+Juanagrama: AQUI,
+No implementado
+Saco: CONTENIDO AQUI".
+No implementado
+Saco: ESTOS TEXTOS
+No implementado
+Juanagrama: HACEN
+No implementado
+Saco: PARECERLO UN
+No implementado
+Saco: ESPAÃ‘OL QUE
+No implementado
+Insertando: 11 palabras
+Total diccionario: 100 palabras
+Alocado: WEB
+No implementado
+Saco: USAN EL
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: LOREM
+No implementado
+CÃ©sar: IPSUM
+No implementado
+Alocado: COMO
+No implementado
+Saco: SU TEXTO
+No implementado
+Partidas: POR YAL UNA DE" IPS VAA POR MUC SIT WEB USA EST
+No implementado
+Alocado: TEXTO
+No implementado
+CÃ©sar: SI
+No implementado
+Saco: SE ENCUENTRAN
+No implementado
+Insertando: 34 palabras
+Total diccionario: 34 palabras
+Juanagrama: CONTRARIO
+No implementado
+Alarga: DEL
+No implementado
+ConsomÃ©: PENSAMIENTO
+No implementado
+Partidas: POP ELT DEL IPS NOE SIM TEX ALE
+No implementado
+Alocado: TIENE
+No implementado
+CÃ©sar: SUS
+No implementado
+Juanagrama: RAICES
+No implementado
+Saco: EN UNA
+No implementado
+Partidas: PIE CL DEL LIT DEL QUE DEL 45A DEC
+No implementado
+Saco: HACIENDO QUE
+No implementado
+Alarga: ESTE
+No implementado
+CÃ©sar: ADQUIERA
+No implementado
+Juanagrama: MAS
+No implementado
+Alarga: DE
+No implementado
+Juanagrama: 2000
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 7 palabras
+Total diccionario: 7 palabras
+Insertando: 39 palabras
+Total diccionario: 46 palabras
+CÃ©sar: INDUDABLE.
+No implementado
+Saco: LOREM IPSUM
+No implementado
+Alarga: VIENE
+No implementado
+CÃ©sar: DE
+No implementado
+Alocado: LAS
+No implementado
+Juanagrama: SECCIONES
+No implementado
+Alocado: 1.10.32
+No implementado
+CÃ©sar: Y
+No implementado
+Alocado: 1.10.33
+No implementado
+ConsomÃ©: DE
+No implementado
+Juanagrama: "DE
+No implementado
+Partidas: FIN BON ETM (LO EXT DEL YEL POR ESC
+No implementado
+Alocado: EN
+No implementado
+ConsomÃ©: EL
+No implementado
+Partidas: AÃ‘O ANT DEC
+No implementado
+Saco: ESTE LIBRO
+No implementado
+Juanagrama: ES
+No implementado
+Saco: UN TRATADO
+No implementado
+CÃ©sar: DE
+No implementado
+Saco: TEORIA DE
+No implementado
+Alocado: ETICAS,
+No implementado
+Partidas: MUY DUR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: EL
+No implementado
+ConsomÃ©: RENACIMIENTO.
+No implementado
+Partidas: LAP LIN DEL IPS "LO IPS DOL SIT VIE DEU
+No implementado
+Insertando: 8 palabras
+Total diccionario: 8 palabras
+CÃ©sar: TEXTO
+No implementado
+Alarga: ESTANDAR
+No implementado
+Juanagrama: DE
+No implementado
+Alarga: LOREM
+No implementado
+Insertando: 16 palabras
+Total diccionario: 24 palabras
+Juanagrama: 1.10.33
+No implementado
+Alocado: DE
+No implementado
+Alocado: "DE
+No implementado
+CÃ©sar: FINIBUS
+No implementado
+Saco: BONORUM ET
+No implementado
+ConsomÃ©: MALORUM"
+No implementado
+Insertando: 45 palabras
+Total diccionario: 69 palabras
+CÃ©sar: YA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: SEA
+No implementado
+Partidas: POR SEL AGR
+No implementado
+Partidas: HUM OPA ALE QUE
+No implementado
+Juanagrama: PARECEN
+No implementado
+Saco: NI UN
+No implementado
+Partidas: POC CRE
+No implementado
+CÃ©sar: SI
+No implementado
+CÃ©sar: VAS
+No implementado
+Alocado: A
+No implementado
+Partidas: UTI UNP DEL IPS NEC EST SEG DEQ
+No implementado
+Juanagrama: NO
+No implementado
+Alarga: HAY
+No implementado
+Saco: NADA AVERGONZANTE
+No implementado
+Alocado: ESCONDIDO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: EN EL
+No implementado
+Saco: MEDIO DEL
+No implementado
+Insertando: 20 palabras
+Total diccionario: 20 palabras
+Partidas: HAC AES ELU GEN VER (VA ENL INT USA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: DICCIONARIO
+No implementado
+Juanagrama: DE
+No implementado
+Alarga: MAS
+No implementado
+Alarga: DE
+No implementado
+Alarga: 200
+No implementado
+ConsomÃ©: PALABRAS
+No implementado
+Alocado: PROVENIENTES
+No implementado
+Partidas: DEL COM CON MUY DES PAR
+No implementado
+Saco: GENERAR TEXTO
+No implementado
+Alarga: DE
+No implementado
+Partidas: LOR IPS QUE RAZ
+No implementado
+ConsomÃ©: ESTE
+No implementado
+Insertando: 46 palabras
+Total diccionario: 46 palabras
+Saco: POR FAVOR
+No implementado
+Partidas: ENV UNC ELE CON DET SIP AYU
+No implementado
+Alocado: AHORA
+No implementado
+Alocado: HAY
+No implementado
+Partidas: UNA
+No implementado
+Saco: DE BANNERS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: DISPONIBLES AQUI
+No implementado
+Insertando: 36 palabras
+Total diccionario: 36 palabras
+ConsomÃ©: DE
+No implementado
+Juanagrama: HOSTING
+No implementado
+Insertando: 46 palabras
+Total diccionario: 82 palabras
+Alocado: ELIT,
+No implementado
+ConsomÃ©: SED
+No implementado
+Insertando: 33 palabras
+Total diccionario: 115 palabras
+ConsomÃ©: IN
+No implementado
+CÃ©sar: VOLUPTATE
+No implementado
+Insertando: 35 palabras
+Total diccionario: 150 palabras
+Alocado: CICERO
+No implementado
+Alarga: EN
+No implementado
+Insertando: 39 palabras
+Total diccionario: 189 palabras
+Partidas: VOL
+No implementado
+CÃ©sar: QUIA
+No implementado
+ConsomÃ©: VOLUPTAS
+No implementado
+Alocado: SIT
+No implementado
+Alarga: ASPERNATUR
+No implementado
+Juanagrama: AUT
+No implementado
+Insertando: 33 palabras
+Total diccionario: 222 palabras
+Saco: MODI TEMPORA
+No implementado
+ConsomÃ©: INCIDUNT
+No implementado
+ConsomÃ©: UT
+No implementado
+Juanagrama: LABORE
+No implementado
+ConsomÃ©: ET
+No implementado
+CÃ©sar: DOLORE
+No implementado
+Insertando: 36 palabras
+Total diccionario: 258 palabras
+Juanagrama: NIHIL
+No implementado
+ConsomÃ©: MOLESTIAE
+No implementado
+Alarga: CONSEQUATUR,
+No implementado
+ConsomÃ©: VEL
+No implementado
+Insertando: 44 palabras
+Total diccionario: 302 palabras
+Alarga: THE
+No implementado
+Juanagrama: SYSTEM,
+No implementado
+Saco: AND EXPOUND
+No implementado
+Saco: THE ACTUAL
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 49 palabras
+Total diccionario: 49 palabras
+Insertando: 24 palabras
+Total diccionario: 73 palabras
+Insertando: 39 palabras
+Total diccionario: 112 palabras
+Juanagrama: TO
+No implementado
+Alocado: ENJOY
+No implementado
+ConsomÃ©: A
+No implementado
+Alocado: PLEASURE
+No implementado
+CÃ©sar: THAT
+No implementado
+CÃ©sar: HAS
+No implementado
+Partidas: NOA CON ORO WHO APA THA PRO NOR
+No implementado
+CÃ©sar: PLEASURE?"
+No implementado
+ConsomÃ©: SECCION
+No implementado
+Alocado: 1.10.33
+No implementado
+ConsomÃ©: DE
+No implementado
+Partidas: "DE BON ETM ESC
+No implementado
+ConsomÃ©: POR
+No implementado
+Partidas: CIC ENE 45A DEC "AT EOS
+No implementado
+ConsomÃ©: ACCUSAMUS
+No implementado
+Partidas: ETI ODI DIG DUC QUI
+No implementado
+Alarga: PRAESENTIUM
+No implementado
+ConsomÃ©: VOLUPTATUM
+No implementado
+ConsomÃ©: DELENITI
+No implementado
+Insertando: 28 palabras
+Total diccionario: 140 palabras
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 32 palabras
+Total diccionario: 32 palabras
+Juanagrama: EST,
+No implementado
+Insertando: 20 palabras
+Total diccionario: 52 palabras
+Alocado: ET
+No implementado
+CÃ©sar: MOLESTIAE
+No implementado
+Partidas: NON
+No implementado
+ConsomÃ©: ITAQUE
+No implementado
+Insertando: 27 palabras
+Total diccionario: 79 palabras
+Saco: THE OTHER
+No implementado
+CÃ©sar: HAND,
+No implementado
+Juanagrama: WE
+No implementado
+Partidas: DEN WIT RIG IND AND MEN ARE BEG AND BYT CHA
+No implementado
+Alarga: OF
+No implementado
+CÃ©sar: PLEASURE
+No implementado
+Saco: OF THE
+No implementado
+Alocado: MOMENT,
+No implementado
+Alarga: SO
+No implementado
+Juanagrama: BLINDED
+No implementado
+ConsomÃ©: BY
+No implementado
+Alocado: DESIRE,
+No implementado
+ConsomÃ©: THAT
+No implementado
+ConsomÃ©: THEY
+No implementado
+Juanagrama: CANNOT
+No implementado
+Insertando: 40 palabras
+Total diccionario: 119 palabras
+Insertando: 6 palabras
+Total diccionario: 125 palabras
+Partidas: INA HOU WHE OUR OFC ISU AND NOT PRE OUR ABL
+No implementado
+Alarga: TO
+No implementado
+Juanagrama: DO
+No implementado
+Partidas: WHA WEL BES EVE PLE IST BEW AND PAI AVO BUT
+No implementado
+Alarga: CERTAIN
+No implementado
+Alocado: CIRCUMSTANCES
+No implementado
+Insertando: 12 palabras
+Total diccionario: 137 palabras
+Insertando: 48 palabras
+Total diccionario: 185 palabras
+Saco: QUISQUAM EST
+No implementado
+Saco: QUI DOLOREM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: IPSUM
+No implementado
+Insertando: 2 palabras
+Total diccionario: 2 palabras
+CÃ©sar: SIT
+No implementado
+Alocado: AMET,
+No implementado
+Alarga: CONSECTETUR,
+No implementado
+Partidas: ADI VEL "NO NAD QUE ELD MIS
+No implementado
+CÃ©sar: QUE
+No implementado
+Partidas: LOB LOE YLO SIM POR ESE DOL Â¿Q ESL IPS
+No implementado
+Alocado: LOREM
+No implementado
+Alocado: IPSUM
+No implementado
+Alocado: ES
+No implementado
+Alocado: SIMPLEMENTE
+No implementado
+CÃ©sar: EL
+No implementado
+ConsomÃ©: TEXTO
+No implementado
+Partidas: DER DEL IMP YAR DET LOR IPS HAS ELT DER
+No implementado
+Juanagrama: ESTANDAR
+No implementado
+Saco: DE LAS
+No implementado
+CÃ©sar: INDUSTRIAS
+No implementado
+ConsomÃ©: DESDE
+No implementado
+Partidas: ELA 150 CUA UNI (N. T.P QUE DED ALA DES
+No implementado
+Alarga: USO
+No implementado
+Partidas: UNA DET YLO MEZ DET MAN QUE HAC UNL
+No implementado
+Insertando: 11 palabras
+Total diccionario: 13 palabras
+Insertando: 43 palabras
+Total diccionario: 56 palabras
+Alarga: PAGEMAKER,
+No implementado
+Insertando: 25 palabras
+Total diccionario: 81 palabras
+Juanagrama: CONTENIDO
+No implementado
+ConsomÃ©: DEL
+No implementado
+ConsomÃ©: TEXTO
+No implementado
+ConsomÃ©: DE
+No implementado
+ConsomÃ©: UN
+No implementado
+Partidas: SIT
+No implementado
+Partidas: MIE QUE SUD ELP DEU LOR IPS ESQ TIE UNA MAS
+No implementado
+Alocado: MENOS
+No implementado
+Insertando: 26 palabras
+Total diccionario: 107 palabras
+Alocado: MUCHOS
+No implementado
+Partidas: PAQ DEA YED DEP WEB
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 16 palabras
+Total diccionario: 16 palabras
+CÃ©sar: VA
+No implementado
+Juanagrama: A
+No implementado
+Alocado: DAR
+No implementado
+Insertando: 24 palabras
+Total diccionario: 40 palabras
+CÃ©sar: AÃ‘OS,
+No implementado
+ConsomÃ©: ALGUNAS
+No implementado
+Alocado: VECES
+No implementado
+Partidas: POR OTR VEC APR (PO EJE INS
+No implementado
+Alocado: HUMOR
+No implementado
+Saco: Y COSAS
+No implementado
+ConsomÃ©: POR
+No implementado
+Saco: EL ESTILO).
+No implementado
+Saco: Â¿DE DONDE
+No implementado
+Alocado: VIENE?
+No implementado
+Juanagrama: AL
+No implementado
+ConsomÃ©: CONTRARIO
+No implementado
+Alocado: DEL
+No implementado
+Alarga: PENSAMIENTO
+No implementado
+Alarga: POPULAR,
+No implementado
+Insertando: 11 palabras
+Total diccionario: 51 palabras
+CÃ©sar: SUS
+No implementado
+CÃ©sar: RAICES
+No implementado
+CÃ©sar: EN
+No implementado
+Insertando: 49 palabras
+Total diccionario: 100 palabras
+Insertando: 1 palabras
+Total diccionario: 101 palabras
+ConsomÃ©: LATIN,
+No implementado
+Juanagrama: "CONSECTEUR",
+No implementado
+Juanagrama: EN
+No implementado
+Juanagrama: UN
+No implementado
+Juanagrama: PASAJE
+No implementado
+ConsomÃ©: DE
+No implementado
+Partidas: LOR
+No implementado
+Juanagrama: IPSUM,
+No implementado
+Saco: Y AL
+No implementado
+Alocado: SEGUIR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: LEYENDO
+No implementado
+Juanagrama: DISTINTOS
+No implementado
+Alarga: TEXTOS
+No implementado
+CÃ©sar: DEL
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: LATIN,
+No implementado
+Saco: DESCUBRIO LA
+No implementado
+Saco: FUENTE INDUDABLE.
+No implementado
+Alarga: LOREM
+No implementado
+Insertando: 50 palabras
+Total diccionario: 50 palabras
+Partidas: IPS "LO IPS DOL SIT VIE DEU LIN ENL
+No implementado
+CÃ©sar: SECCION
+No implementado
+Insertando: 36 palabras
+Total diccionario: 86 palabras
+CÃ©sar: EN
+No implementado
+Insertando: 37 palabras
+Total diccionario: 123 palabras
+Saco: ALGUNA MANERA,
+No implementado
+Juanagrama: YA
+No implementado
+Alocado: SEA
+No implementado
+CÃ©sar: PORQUE
+No implementado
+CÃ©sar: SE
+No implementado
+Juanagrama: LE
+No implementado
+Insertando: 34 palabras
+Total diccionario: 157 palabras
+Alocado: DEL
+No implementado
+Saco: TEXTO. TODOS
+No implementado
+ConsomÃ©: LOS
+No implementado
+Saco: GENERADORES DE
+No implementado
+CÃ©sar: LOREM
+No implementado
+Insertando: 3 palabras
+Total diccionario: 160 palabras
+ConsomÃ©: ENCUENTRAN
+No implementado
+Partidas: ENI
+No implementado
+Alarga: TIENDEN
+No implementado
+ConsomÃ©: A
+No implementado
+Alarga: REPETIR
+No implementado
+Alarga: TROZOS
+No implementado
+ConsomÃ©: PREDEFINIDOS
+No implementado
+CÃ©sar: CUANDO
+No implementado
+Saco: SEA NECESARIO,
+No implementado
+Saco: HACIENDO A
+No implementado
+Juanagrama: ESTE
+No implementado
+CÃ©sar: EL
+No implementado
+Alocado: UNICO
+No implementado
+Juanagrama: GENERADOR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: VER (VA ENL INT USA DIC DEM DE2
+No implementado
+Saco: PALABRAS PROVENIENTES
+No implementado
+Alarga: DEL
+No implementado
+Alarga: LATIN,
+No implementado
+CÃ©sar: COMBINADAS
+No implementado
+Alarga: CON
+No implementado
+Saco: ESTRUCTURAS MUY
+No implementado
+Alarga: UTILES
+No implementado
+Alarga: DE
+No implementado
+Alarga: SENTENCIAS,
+No implementado
+Insertando: 40 palabras
+Total diccionario: 40 palabras
+Alarga: LOREM
+No implementado
+Insertando: 5 palabras
+Total diccionario: 45 palabras
+Alocado: TRADUCCIONES:
+No implementado
+Insertando: 13 palabras
+Total diccionario: 58 palabras
+Saco: CORREO ELECTRONICO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: CON DET
+No implementado
+Saco: SI PODES
+No implementado
+Partidas: AYU
+No implementado
+CÃ©sar: AHORA
+No implementado
+ConsomÃ©: HAY
+No implementado
+CÃ©sar: UNA
+No implementado
+Partidas: SER DEB DIS AQU
+No implementado
+Insertando: 4 palabras
+Total diccionario: 4 palabras
+Alarga: EN
+No implementado
+Alarga: UN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: RANGO
+No implementado
+Partidas: DET EST BAN
+No implementado
+Saco: DONAR: SI
+No implementado
+Alocado: UTILIZAS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: ESTE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: SITIO
+No implementado
+Insertando: 21 palabras
+Total diccionario: 21 palabras
+Alarga: HOSTING
+No implementado
+Insertando: 34 palabras
+Total diccionario: 55 palabras
+ConsomÃ©: USADO
+No implementado
+Partidas: DES ELA
+No implementado
+Insertando: 17 palabras
+Total diccionario: 72 palabras
+Alocado: DOLORE
+No implementado
+Alarga: MAGNA
+No implementado
+ConsomÃ©: ALIQUA.
+No implementado
+Partidas: UTE ADM VEN QUI NOS EXE ULL LAB NIS UTA
+No implementado
+Partidas: EXE COM CON DUI AUT IRU DOL INR INV VEL
+No implementado
+Saco: ESSE CILLUM
+No implementado
+Partidas: DOL EUF NUL PAR EXC SIN OCC CUP NON SUN INC QUI
+No implementado
+Insertando: 39 palabras
+Total diccionario: 111 palabras
+Juanagrama: EAQUE
+No implementado
+Partidas: IPS QUA ABI INV VER ETQ ARC BEA VIT DIC SUN EXP
+No implementado
+CÃ©sar: NEMO
+No implementado
+ConsomÃ©: ENIM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: IPSAM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: VOLUPTATEM QUIA
+No implementado
+CÃ©sar: VOLUPTAS
+No implementado
+Juanagrama: SIT
+No implementado
+ConsomÃ©: ASPERNATUR
+No implementado
+Juanagrama: AUT
+No implementado
+Partidas: ODI AUT SED CON MAG DOL EOS RAT VOL SEQ NES NEQ
+No implementado
+Alarga: PORRO
+No implementado
+Alocado: QUISQUAM
+No implementado
+Insertando: 24 palabras
+Total diccionario: 24 palabras
+Insertando: 13 palabras
+Total diccionario: 37 palabras
+Partidas: SUS LAB NIS UTA EXE COM
+No implementado
+Insertando: 41 palabras
+Total diccionario: 78 palabras
+ConsomÃ©: ALL
+No implementado
+Saco: THIS MISTAKEN
+No implementado
+ConsomÃ©: IDEA
+No implementado
+Alarga: OF
+No implementado
+Saco: DENOUNCING PLEASURE
+No implementado
+Insertando: 49 palabras
+Total diccionario: 127 palabras
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 34 palabras
+Total diccionario: 34 palabras
+ConsomÃ©: BUT
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: BECAUSE
+No implementado
+Alarga: OCCASIONALLY
+No implementado
+ConsomÃ©: CIRCUMSTANCES
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: OCCUR
+No implementado
+Juanagrama: IN
+No implementado
+Juanagrama: WHICH
+No implementado
+Alarga: TOIL
+No implementado
+Saco: AND PAIN
+No implementado
+ConsomÃ©: CAN
+No implementado
+ConsomÃ©: PROCURE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: HIM
+No implementado
+Alocado: SOME
+No implementado
+Juanagrama: GREAT
+No implementado
+Juanagrama: PLEASURE.
+No implementado
+Alocado: TO
+No implementado
+Alocado: TAKE
+No implementado
+ConsomÃ©: A
+No implementado
+Partidas: TRI EXA WHI OFU EVE UND LAB PHY EXE EXC TOO
+No implementado
+Alarga: SOME
+No implementado
+ConsomÃ©: ADVANTAGE
+No implementado
+Saco: FROM IT?
+No implementado
+Alarga: BUT
+No implementado
+Alocado: WHO
+No implementado
+Saco: HAS ANY
+No implementado
+Saco: RIGHT TO
+No implementado
+Saco: FIND FAULT
+No implementado
+ConsomÃ©: WITH
+No implementado
+Alarga: A
+No implementado
+Partidas: MAN CHO TOE APL THA HAS
+No implementado
+Alarga: ANNOYING
+No implementado
+Juanagrama: CONSEQUENCES,
+No implementado
+CÃ©sar: OR
+No implementado
+Saco: ONE WHO
+No implementado
+Alocado: AVOIDS
+No implementado
+Saco: A PAIN
+No implementado
+Juanagrama: THAT
+No implementado
+Juanagrama: PRODUCES
+No implementado
+Alarga: NO
+No implementado
+Insertando: 4 palabras
+Total diccionario: 4 palabras
+CÃ©sar: DE
+No implementado
+Saco: "DE FINIBUS
+No implementado
+Juanagrama: BONORUM
+No implementado
+Alarga: ET
+No implementado
+Partidas: MAL ESC POR ENE 45A DEC "AT EOS ACC ETI
+No implementado
+Alocado: ODIO
+No implementado
+ConsomÃ©: DIGNISSIMOS
+No implementado
+Insertando: 41 palabras
+Total diccionario: 45 palabras
+Alarga: EXPEDITA
+No implementado
+Alarga: DISTINCTIO.
+No implementado
+Partidas: NAM
+No implementado
+Insertando: 11 palabras
+Total diccionario: 56 palabras
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: MINUS
+No implementado
+CÃ©sar: ID
+No implementado
+Saco: QUOD MAXIME
+No implementado
+Partidas: PLA FAC POS OMN VOL
+No implementado
+Alocado: ASSUMENDA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: EST, OMNIS
+No implementado
+Partidas: DOL
+No implementado
+Juanagrama: REPELLENDUS.
+No implementado
+Alocado: TEMPORIBUS
+No implementado
+Alarga: AUTEM
+No implementado
+Juanagrama: QUIBUSDAM
+No implementado
+Alarga: ET
+No implementado
+Insertando: 30 palabras
+Total diccionario: 30 palabras
+ConsomÃ©: ALIAS
+No implementado
+Alocado: CONSEQUATUR
+No implementado
+Partidas: AUT DOL ASP REP TRA HEC POR RAC EN1 "ON OTH
+No implementado
+Juanagrama: HAND,
+No implementado
+Partidas: WED WIT RIG IND AND MEN ARE BEG
+No implementado
+Saco: AND DEMORALIZED
+No implementado
+CÃ©sar: BY
+No implementado
+Insertando: 1 palabras
+Total diccionario: 31 palabras
+Juanagrama: CHARMS
+No implementado
+Alarga: OF
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 44 palabras
+Total diccionario: 44 palabras
+Alarga: FROM
+No implementado
+Alocado: TOIL
+No implementado
+ConsomÃ©: AND
+No implementado
+CÃ©sar: PAIN.
+No implementado
+Juanagrama: THESE
+No implementado
+Alarga: CASES
+No implementado
+Insertando: 46 palabras
+Total diccionario: 90 palabras
+Saco: OWING TO
+No implementado
+Alocado: THE
+No implementado
+Insertando: 35 palabras
+Total diccionario: 125 palabras
+CÃ©sar: HE
+No implementado
+Alarga: REJECTS
+No implementado
+ConsomÃ©: PLEASURES
+No implementado
+ConsomÃ©: TO
+No implementado
+CÃ©sar: SECURE
+No implementado
+CÃ©sar: OTHER
+No implementado
+Saco: GREATER PLEASURES,
+No implementado
+Partidas: ORE HEE
+No implementado
+Alocado: PAINS
+No implementado
+ConsomÃ©: TO
+No implementado
+Juanagrama: AVOID
+No implementado
+Alocado: WORSE
+No implementado
+ConsomÃ©: PAINS."
+No implementado
+Alocado: LOREM
+No implementado
+Juanagrama: IPSUM
+No implementado
+CÃ©sar: "NEQUE
+No implementado
+CÃ©sar: PORRO
+No implementado
+CÃ©sar: QUISQUAM
+No implementado
+Juanagrama: EST
+No implementado
+Alarga: QUI
+No implementado
+Saco: DOLOREM IPSUM
+No implementado
+Alocado: QUIA
+No implementado
+ConsomÃ©: DOLOR
+No implementado
+Insertando: 30 palabras
+Total diccionario: 155 palabras
+Saco: LOREM IPSUM
+No implementado
+ConsomÃ©: ES
+No implementado
+Alarga: SIMPLEMENTE
+No implementado
+Saco: EL TEXTO
+No implementado
+CÃ©sar: DE
+No implementado
+Saco: RELLENO DE
+No implementado
+Insertando: 49 palabras
+Total diccionario: 204 palabras
+Juanagrama: HACER
+No implementado
+CÃ©sar: UN
+No implementado
+CÃ©sar: LIBRO
+No implementado
+CÃ©sar: DE
+No implementado
+Insertando: 42 palabras
+Total diccionario: 246 palabras
+Alarga: Y
+No implementado
+ConsomÃ©: MAS
+No implementado
+CÃ©sar: RECIENTEMENTE
+No implementado
+CÃ©sar: CON
+No implementado
+Alocado: SOFTWARE
+No implementado
+ConsomÃ©: DE
+No implementado
+Partidas: AUT COM POR
+No implementado
+Saco: ALDUS PAGEMAKER,
+No implementado
+Insertando: 2 palabras
+Total diccionario: 248 palabras
+ConsomÃ©: INCLUYE
+No implementado
+ConsomÃ©: VERSIONES
+No implementado
+Alocado: DE
+No implementado
+ConsomÃ©: LOREM
+No implementado
+Insertando: 7 palabras
+Total diccionario: 255 palabras
+Juanagrama: HECHO
+No implementado
+Insertando: 14 palabras
+Total diccionario: 269 palabras
+Juanagrama: DE
+No implementado
+Juanagrama: UN
+No implementado
+Insertando: 40 palabras
+Total diccionario: 309 palabras
+Juanagrama: UN
+No implementado
+Saco: ESPAÃ‘OL QUE
+No implementado
+Partidas: SEP LEE MUC PAQ DEA
+No implementado
+CÃ©sar: Y
+No implementado
+Alocado: EDITORES
+No implementado
+Alarga: DE
+No implementado
+Juanagrama: PAGINAS
+No implementado
+Juanagrama: WEB
+No implementado
+Saco: USAN EL
+No implementado
+Partidas: LOR IPS COM SUT POR
+No implementado
+Alarga: Y
+No implementado
+Saco: AL HACER
+No implementado
+Alocado: UNA
+No implementado
+ConsomÃ©: BUSQUEDA
+No implementado
+Saco: DE "LOREM
+No implementado
+Alocado: IPSUM"
+No implementado
+ConsomÃ©: VA
+No implementado
+Saco: A DAR
+No implementado
+Alarga: POR
+No implementado
+Saco: RESULTADO MUCHOS
+No implementado
+Saco: SITIOS WEB
+No implementado
+ConsomÃ©: QUE
+No implementado
+Juanagrama: USAN
+No implementado
+Saco: ESTE TEXTO
+No implementado
+Alocado: SI
+No implementado
+Alocado: SE
+No implementado
+CÃ©sar: ENCUENTRAN
+No implementado
+CÃ©sar: EN
+No implementado
+ConsomÃ©: ESTADO
+No implementado
+Partidas: DED MUC VER HAN ATR DEL AÃ‘O
+No implementado
+Juanagrama: ALGUNAS
+No implementado
+Juanagrama: VECES
+No implementado
+Alarga: POR
+No implementado
+Alarga: ACCIDENTE,
+No implementado
+ConsomÃ©: OTRAS
+No implementado
+Saco: VECES A
+No implementado
+ConsomÃ©: PROPOSITO
+No implementado
+Saco: (POR EJEMPLO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 9 palabras
+Total diccionario: 9 palabras
+Saco: VIENE? AL
+No implementado
+Insertando: 4 palabras
+Total diccionario: 13 palabras
+Partidas: ELT DEL IPS NOE SIM TEX ALE TIE SUS ENU PIE CL
+No implementado
+Saco: DE LA
+No implementado
+CÃ©sar: LITERATURA
+No implementado
+Saco: DEL LATIN,
+No implementado
+Juanagrama: QUE
+No implementado
+Saco: DATA DEL
+No implementado
+CÃ©sar: AÃ‘O
+No implementado
+Juanagrama: 45
+No implementado
+Partidas: ANT DEC
+No implementado
+Partidas: HAC QUE ADQ MAS 200 AÃ‘O DEA RIC MCC UNP DEL DEL
+No implementado
+Partidas: UNI DEH ENV ENC UNA LAS MAS DEL LEN DEL
+No implementado
+Alocado: "CONSECTEUR",
+No implementado
+Alarga: EN
+No implementado
+Alocado: UN
+No implementado
+Juanagrama: PASAJE
+No implementado
+Partidas: DEL IPS YAL LEY DIS TEX DEL
+No implementado
+CÃ©sar: DESCUBRIO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: LAF IND LOR IPS VIE DEL SEC 1.1 Y1. DE" FIN BON
+No implementado
+CÃ©sar: ET
+No implementado
+Partidas: MAL (LO
+No implementado
+Alocado: EXTREMOS
+No implementado
+Partidas: DEL YEL POR
+No implementado
+Insertando: 23 palabras
+Total diccionario: 23 palabras
+Alarga: PRIMERA
+No implementado
+CÃ©sar: LINEA
+No implementado
+Partidas: DEL IPS "LO IPS DOL SIT VIE DEU LIN ENL SEC 1.1
+No implementado
+Partidas: ELT
+No implementado
+CÃ©sar: DE
+No implementado
+Juanagrama: TEXTO
+No implementado
+Alarga: ESTANDAR
+No implementado
+Insertando: 40 palabras
+Total diccionario: 63 palabras
+CÃ©sar: DE
+No implementado
+Saco: LA TRADUCCION
+No implementado
+Partidas: REA EN1 POR RAC Â¿D PUE CON HAY VAR DEL
+No implementado
+Partidas: PAS DEL
+No implementado
+Alarga: IPSUM
+No implementado
+Insertando: 36 palabras
+Total diccionario: 99 palabras
+Alocado: ESTAR
+No implementado
+Partidas: SEG DEQ NOH NAD AVE ESC ENE MED
+No implementado
+Alarga: DEL
+No implementado
+Saco: TEXTO. TODOS
+No implementado
+Juanagrama: LOS
+No implementado
+Juanagrama: GENERADORES
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: DE
+No implementado
+Juanagrama: LOREM
+No implementado
+Juanagrama: IPSUM
+No implementado
+Insertando: 18 palabras
+Total diccionario: 18 palabras
+Alarga: GENERADOR
+No implementado
+Insertando: 40 palabras
+Total diccionario: 58 palabras
+Alarga: REPETICIONES,
+No implementado
+Juanagrama: HUMOR
+No implementado
+CÃ©sar: AGREGADO
+No implementado
+Partidas: OPA NOC DEL ETC 5PA PAL BYT LIS COM CON
+No implementado
+Partidas: IPS
+No implementado
+Juanagrama: DOLOR
+No implementado
+Juanagrama: SIT
+No implementado
+Saco: AMET...' GENERAR
+No implementado
+Alarga: LOREM
+No implementado
+Saco: IPSUM TIME
+No implementado
+ConsomÃ©: TRACKING
+No implementado
+Alarga: FOR
+No implementado
+Alocado: FREELANCERS
+No implementado
+Partidas: TRA Â¿P AYU ATR EST SIT ENO LEN
+No implementado
+Alarga: POR
+No implementado
+CÃ©sar: FAVOR
+No implementado
+Alocado: ENVIANOS
+No implementado
+ConsomÃ©: UN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: CORREO
+No implementado
+Saco: ELECTRONICO CON
+No implementado
+Insertando: 30 palabras
+Total diccionario: 30 palabras
+Insertando: 21 palabras
+Total diccionario: 51 palabras
+Juanagrama: Y
+No implementado
+Insertando: 11 palabras
+Total diccionario: 62 palabras
+ConsomÃ©: TU
+No implementado
+Juanagrama: AYUDA!.
+No implementado
+Juanagrama: CHROME
+No implementado
+Partidas: FIR ADD NOD TEX PYT INT GTK
+No implementado
+Alarga: RAILS
+No implementado
+Alocado: .NET
+No implementado
+ConsomÃ©: GROOVY
+No implementado
+Saco: ADOBE PLUGIN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: ELP EST LOR IPS USA DES ELA 150 "LO IPS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: DOLOR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: SIT
+No implementado
+Alarga: AMET,
+No implementado
+Alocado: CONSECTETUR
+No implementado
+Partidas: ADI ELI SED EIU TEM INC UTL ETD MAG
+No implementado
+Alocado: ALIQUA.
+No implementado
+Juanagrama: UT
+No implementado
+Alocado: ENIM
+No implementado
+Partidas: ADM VEN QUI NOS EXE ULL LAB NIS UTA EXE
+No implementado
+Insertando: 23 palabras
+Total diccionario: 23 palabras
+Alarga: PROIDENT,
+No implementado
+Saco: SUNT IN
+No implementado
+Alocado: CULPA
+No implementado
+Partidas: QUI DES MOL ANI IDE LAB SEC DE FIN BON
+No implementado
+ConsomÃ©: ET
+No implementado
+Alarga: MALORUM",
+No implementado
+ConsomÃ©: ESCRITO
+No implementado
+Juanagrama: POR
+No implementado
+Partidas: CIC ENE 45A DEC "SE UTP UND OMN IST
+No implementado
+Insertando: 16 palabras
+Total diccionario: 39 palabras
+Insertando: 27 palabras
+Total diccionario: 66 palabras
+Insertando: 19 palabras
+Total diccionario: 85 palabras
+Alarga: SED
+No implementado
+Partidas: QUI NON
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: EIUS MODI
+No implementado
+Alocado: TEMPORA
+No implementado
+Insertando: 19 palabras
+Total diccionario: 19 palabras
+ConsomÃ©: SUSCIPIT
+No implementado
+Alocado: LABORIOSAM,
+No implementado
+Juanagrama: NISI
+No implementado
+Insertando: 35 palabras
+Total diccionario: 54 palabras
+Alarga: H.
+No implementado
+ConsomÃ©: RACKHAM
+No implementado
+Alocado: EN
+No implementado
+Juanagrama: 1914
+No implementado
+CÃ©sar: "BUT
+No implementado
+Partidas: IMU EXP TOY HOW THI MIS IDE OFD PLE AND PAI WAS
+No implementado
+Saco: AND I
+No implementado
+CÃ©sar: WILL
+No implementado
+Juanagrama: GIVE
+No implementado
+ConsomÃ©: YOU
+No implementado
+Partidas: ACO ACC OFT SYS AND THE TEA OFT GRE EXP OFT
+No implementado
+CÃ©sar: TRUTH,
+No implementado
+Alocado: THE
+No implementado
+Partidas: MAS OFH HAP NOO REJ DIS ORA PLE ITS
+No implementado
+Saco: BECAUSE IT
+No implementado
+Alocado: IS
+No implementado
+Insertando: 50 palabras
+Total diccionario: 104 palabras
+Saco: PROCURE HIM
+No implementado
+Saco: SOME GREAT
+No implementado
+Alocado: PLEASURE.
+No implementado
+Saco: TO TAKE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: A
+No implementado
+Alocado: TRIVIAL
+No implementado
+Insertando: 42 palabras
+Total diccionario: 42 palabras
+Alarga: A
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 37 palabras
+Total diccionario: 37 palabras
+Insertando: 39 palabras
+Total diccionario: 76 palabras
+Alarga: LIBERO
+No implementado
+Insertando: 34 palabras
+Total diccionario: 110 palabras
+Saco: NECESSITATIBUS SAEPE
+No implementado
+Juanagrama: EVENIET
+No implementado
+ConsomÃ©: UT
+No implementado
+ConsomÃ©: ET
+No implementado
+CÃ©sar: VOLUPTATES
+No implementado
+Alocado: REPUDIANDAE
+No implementado
+Juanagrama: SINT
+No implementado
+Insertando: 11 palabras
+Total diccionario: 121 palabras
+CÃ©sar: DELECTUS,
+No implementado
+Alocado: UT
+No implementado
+ConsomÃ©: AUT
+No implementado
+CÃ©sar: REICIENDIS
+No implementado
+Partidas: VOL MAI ALI
+No implementado
+Alarga: CONSEQUATUR
+No implementado
+Partidas: AUT DOL ASP REP TRA HEC POR
+No implementado
+Saco: RACKHAM EN
+No implementado
+Saco: 1914 "ON
+No implementado
+CÃ©sar: THE
+No implementado
+Juanagrama: OTHER
+No implementado
+Insertando: 48 palabras
+Total diccionario: 169 palabras
+Saco: IN THEIR
+No implementado
+Juanagrama: DUTY
+No implementado
+ConsomÃ©: THROUGH
+No implementado
+CÃ©sar: WEAKNESS
+No implementado
+Saco: OF WILL,
+No implementado
+Insertando: 16 palabras
+Total diccionario: 185 palabras
+Juanagrama: SIMPLE
+No implementado
+Juanagrama: AND
+No implementado
+ConsomÃ©: EASY
+No implementado
+Insertando: 23 palabras
+Total diccionario: 208 palabras
+Juanagrama: WE
+No implementado
+Saco: LIKE BEST,
+No implementado
+Alocado: EVERY
+No implementado
+ConsomÃ©: PLEASURE
+No implementado
+Alocado: IS
+No implementado
+Insertando: 12 palabras
+Total diccionario: 220 palabras
+Alarga: OWING
+No implementado
+Alocado: TO
+No implementado
+Partidas: THE OFD ORT OBL OFB
+No implementado
+Saco: IT WILL
+No implementado
+Saco: FREQUENTLY OCCUR
+No implementado
+ConsomÃ©: THAT
+No implementado
+Juanagrama: PLEASURES
+No implementado
+Alocado: HAVE
+No implementado
+Insertando: 38 palabras
+Total diccionario: 258 palabras
+Alocado: IPSUM
+No implementado
+Saco: "NEQUE PORRO
+No implementado
+Alocado: QUISQUAM
+No implementado
+Alocado: EST
+No implementado
+Alocado: QUI
+No implementado
+Partidas: DOL IPS QUI DOL SIT CON
+No implementado
+Saco: ADIPISCI VELIT..."
+No implementado
+Alarga: "NO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 12 palabras
+Total diccionario: 12 palabras
+Juanagrama: Y
+No implementado
+Saco: LO QUIERA,
+No implementado
+Insertando: 14 palabras
+Total diccionario: 26 palabras
+Saco: TEXTO DE
+No implementado
+Alocado: RELLENO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 38 palabras
+Total diccionario: 38 palabras
+Saco: UNA GALERIA
+No implementado
+Alocado: DE
+No implementado
+Insertando: 35 palabras
+Total diccionario: 73 palabras
+Partidas: ORI FUE ENL 60S LAC
+No implementado
+Partidas: DEL HOJ "LE LAS CON PAS DEL IPS YMA REC CON DEA
+No implementado
+Partidas: COM POR
+No implementado
+Alocado: ALDUS
+No implementado
+ConsomÃ©: PAGEMAKER,
+No implementado
+CÃ©sar: EL
+No implementado
+ConsomÃ©: CUAL
+No implementado
+Saco: INCLUYE VERSIONES
+No implementado
+Insertando: 23 palabras
+Total diccionario: 96 palabras
+CÃ©sar: TEXTO
+No implementado
+ConsomÃ©: DE
+No implementado
+Juanagrama: UN
+No implementado
+Juanagrama: SITIO
+No implementado
+Partidas: MIE QUE SUD ELP DEU LOR IPS
+No implementado
+CÃ©sar: ES
+No implementado
+Alocado: QUE
+No implementado
+Juanagrama: TIENE
+No implementado
+Partidas: UNA MAS
+No implementado
+Alarga: MENOS
+No implementado
+Alocado: NORMAL
+No implementado
+Saco: DE LAS
+No implementado
+ConsomÃ©: LETRAS,
+No implementado
+Insertando: 49 palabras
+Total diccionario: 145 palabras
+CÃ©sar: A
+No implementado
+Alocado: DAR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 26 palabras
+Total diccionario: 26 palabras
+Juanagrama: VECES
+No implementado
+Alarga: POR
+No implementado
+ConsomÃ©: ACCIDENTE,
+No implementado
+Insertando: 43 palabras
+Total diccionario: 69 palabras
+ConsomÃ©: QUE
+No implementado
+Saco: DATA DEL
+No implementado
+Saco: AÃ‘O 45
+No implementado
+Partidas: ANT DEC HAC QUE ADQ MAS 200
+No implementado
+Alarga: AÃ‘OS
+No implementado
+Alarga: DE
+No implementado
+ConsomÃ©: ANTIGUEDAD.
+No implementado
+CÃ©sar: RICHARD
+No implementado
+Juanagrama: MCCLINTOCK,
+No implementado
+Saco: UN PROFESOR
+No implementado
+Alarga: DE
+No implementado
+Alocado: LATIN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: DE
+No implementado
+Saco: LA UNIVERSIDAD
+No implementado
+Alarga: DE
+No implementado
+CÃ©sar: HAMPDEN-SYDNEY
+No implementado
+ConsomÃ©: EN
+No implementado
+Alarga: VIRGINIA,
+No implementado
+ConsomÃ©: ENCONTRO
+No implementado
+Alocado: UNA
+No implementado
+Alocado: DE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 11 palabras
+Total diccionario: 11 palabras
+Alocado: UN
+No implementado
+Insertando: 12 palabras
+Total diccionario: 23 palabras
+Partidas: DES LAF IND LOR IPS VIE DEL SEC 1.1 Y1. DE" FIN
+No implementado
+Insertando: 15 palabras
+Total diccionario: 38 palabras
+Partidas: AÃ‘O ANT DEC EST LIB ESU TRA DET
+No implementado
+Partidas: DEE MUY DUR ELR LAP LIN DEL
+No implementado
+Saco: IPSUM, "LOREM
+No implementado
+Insertando: 14 palabras
+Total diccionario: 52 palabras
+Juanagrama: DE
+No implementado
+ConsomÃ©: TEXTO
+No implementado
+Juanagrama: ESTANDAR
+No implementado
+Insertando: 28 palabras
+Total diccionario: 80 palabras
+Partidas: TAM REP ENS FOR ORI EXA ACO POR ENI DEL TRA REA
+No implementado
+Juanagrama: EN
+No implementado
+Insertando: 48 palabras
+Total diccionario: 128 palabras
+Saco: DE LOREM
+No implementado
+ConsomÃ©: IPSUM,
+No implementado
+Partidas: NEC EST SEG DEQ NOH
+No implementado
+Alocado: NADA
+No implementado
+Partidas: AVE ESC ENE MED DEL TOD LOS DEL
+No implementado
+Insertando: 23 palabras
+Total diccionario: 151 palabras
+Juanagrama: LA
+No implementado
+Partidas: INT USA DIC DEM DE2
+No implementado
+Saco: PALABRAS PROVENIENTES
+No implementado
+Juanagrama: DEL
+No implementado
+Juanagrama: LATIN,
+No implementado
+Alocado: COMBINADAS
+No implementado
+Alarga: CON
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: EST MUY DES
+No implementado
+CÃ©sar: PARA
+No implementado
+Insertando: 25 palabras
+Total diccionario: 25 palabras
+Partidas: ETC 5PA PAL
+No implementado
+Insertando: 41 palabras
+Total diccionario: 66 palabras
+Alarga: SERIE
+No implementado
+Juanagrama: DE
+No implementado
+Juanagrama: BANNERS
+No implementado
+Insertando: 33 palabras
+Total diccionario: 99 palabras
+Insertando: 27 palabras
+Total diccionario: 126 palabras
+Insertando: 32 palabras
+Total diccionario: 158 palabras
+ConsomÃ©: UT
+No implementado
+CÃ©sar: LABORE
+No implementado
+CÃ©sar: ET
+No implementado
+Partidas: DOL MAG ALI UTE ADM VEN
+No implementado
+Alarga: QUIS
+No implementado
+Juanagrama: NOSTRUD
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: EXERCITATION ULLAMCO
+No implementado
+Alocado: LABORIS
+No implementado
+Saco: NISI UT
+No implementado
+Insertando: 46 palabras
+Total diccionario: 46 palabras
+Alarga: ESCRITO
+No implementado
+ConsomÃ©: POR
+No implementado
+Alocado: CICERO
+No implementado
+ConsomÃ©: EN
+No implementado
+Juanagrama: EL
+No implementado
+Saco: 45 ANTES
+No implementado
+Partidas: DEC "SE UTP UND OMN IST NAT ERR SIT ACC
+No implementado
+CÃ©sar: DOLOREMQUE
+No implementado
+CÃ©sar: LAUDANTIUM,
+No implementado
+Alocado: TOTAM
+No implementado
+Alocado: REM
+No implementado
+CÃ©sar: APERIAM,
+No implementado
+Alarga: EAQUE
+No implementado
+CÃ©sar: IPSA
+No implementado
+Alarga: QUAE
+No implementado
+Alarga: AB
+No implementado
+Alarga: ILLO
+No implementado
+Alarga: INVENTORE
+No implementado
+Juanagrama: VERITATIS
+No implementado
+Saco: ET QUASI
+No implementado
+CÃ©sar: ARCHITECTO
+No implementado
+ConsomÃ©: BEATAE
+No implementado
+Insertando: 21 palabras
+Total diccionario: 67 palabras
+Alocado: EOS
+No implementado
+Saco: QUI RATIONE
+No implementado
+ConsomÃ©: VOLUPTATEM
+No implementado
+Partidas: SEQ NES NEQ POR QUI EST QUI IPS QUI DOL SIT
+No implementado
+Saco: CONSECTETUR, ADIPISCI
+No implementado
+CÃ©sar: VELIT,
+No implementado
+Alarga: SED
+No implementado
+Partidas: QUI NON EIU MOD TEM INC UTL ETD MAG ALI QUA
+No implementado
+Saco: VOLUPTATEM. UT
+No implementado
+ConsomÃ©: ENIM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: AD
+No implementado
+ConsomÃ©: MINIMA
+No implementado
+Saco: VENIAM, QUIS
+No implementado
+Alarga: NOSTRUM
+No implementado
+Alocado: EXERCITATIONEM
+No implementado
+CÃ©sar: ULLAM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 43 palabras
+Total diccionario: 43 palabras
+Alocado: "BUT
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 16 palabras
+Total diccionario: 16 palabras
+ConsomÃ©: WAS
+No implementado
+CÃ©sar: BORN
+No implementado
+Alocado: AND
+No implementado
+ConsomÃ©: I
+No implementado
+Insertando: 7 palabras
+Total diccionario: 23 palabras
+Alarga: THE
+No implementado
+Insertando: 27 palabras
+Total diccionario: 50 palabras
+Insertando: 46 palabras
+Total diccionario: 96 palabras
+Alarga: IN
+No implementado
+Alarga: WHICH
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 5 palabras
+Total diccionario: 5 palabras
+CÃ©sar: HIM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: SOME
+No implementado
+Alocado: GREAT
+No implementado
+ConsomÃ©: PLEASURE.
+No implementado
+Saco: TO TAKE
+No implementado
+Insertando: 46 palabras
+Total diccionario: 46 palabras
+Alarga: THAT
+No implementado
+Alarga: PRODUCES
+No implementado
+Juanagrama: NO
+No implementado
+CÃ©sar: RESULTANT
+No implementado
+Partidas: PLE SEC 1.1 DE" FIN BON ETM ESC POR ENE
+No implementado
+ConsomÃ©: 45
+No implementado
+CÃ©sar: ANTES
+No implementado
+Partidas: DEC "AT EOS ACC ETI ODI DIG
+No implementado
+ConsomÃ©: DUCIMUS
+No implementado
+Alocado: QUI
+No implementado
+CÃ©sar: BLANDITIIS
+No implementado
+Alarga: PRAESENTIUM
+No implementado
+Alocado: VOLUPTATUM
+No implementado
+Alarga: DELENITI
+No implementado
+Alarga: ATQUE
+No implementado
+Partidas: COR QUO DOL ETQ
+No implementado
+Partidas: MOL EXC SIN OCC CUP NON SIM SUN INC
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: QUI
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: OFFICIA
+No implementado
+Alarga: DESERUNT
+No implementado
+Saco: MOLLITIA ANIMI,
+No implementado
+Saco: ID EST
+No implementado
+Insertando: 48 palabras
+Total diccionario: 48 palabras
+Saco: RERUM NECESSITATIBUS
+No implementado
+Alarga: SAEPE
+No implementado
+Insertando: 31 palabras
+Total diccionario: 79 palabras
+Saco: HECHA POR
+No implementado
+Alocado: H.
+No implementado
+Partidas: RAC EN1 "ON OTH HAN WED WIT RIG IND AND MEN
+No implementado
+Alarga: ARE
+No implementado
+Saco: SO BEGUILED
+No implementado
+Partidas: AND BYT
+No implementado
+Partidas: CHA OFP OFT MOM SOB BYD THA THE CAN FOR THE AND
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: THAT ARE
+No implementado
+Alarga: BOUND
+No implementado
+Alocado: TO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: ENSUE;
+No implementado
+ConsomÃ©: AND
+No implementado
+Insertando: 40 palabras
+Total diccionario: 40 palabras
+Alocado: OUR
+No implementado
+Partidas: POW OFC ISU AND NOT PRE
+No implementado
+Juanagrama: OUR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: BEI ABL TOD WHA WEL BES EVE PLE IST BEW
+No implementado
+ConsomÃ©: AND
+No implementado
+Alarga: EVERY
+No implementado
+Insertando: 19 palabras
+Total diccionario: 19 palabras
+Saco: WILL FREQUENTLY
+No implementado
+Saco: OCCUR THAT
+No implementado
+Saco: PLEASURES HAVE
+No implementado
+ConsomÃ©: TO
+No implementado
+Juanagrama: BE
+No implementado
+Insertando: 9 palabras
+Total diccionario: 28 palabras
+Insertando: 11 palabras
+Total diccionario: 39 palabras
+Alocado: PLEASURES
+No implementado
+Insertando: 26 palabras
+Total diccionario: 65 palabras
+Partidas: AME CON ADI VEL
+No implementado
+Insertando: 41 palabras
+Total diccionario: 106 palabras
+Juanagrama: IPSUM
+No implementado
+Insertando: 46 palabras
+Total diccionario: 152 palabras
+Alocado: ESPECIMEN.
+No implementado
+Alocado: NO
+No implementado
+Partidas: SOL
+No implementado
+ConsomÃ©: SOBREVIVIO
+No implementado
+CÃ©sar: 500
+No implementado
+Partidas: AÃ‘O SIN
+No implementado
+ConsomÃ©: QUE
+No implementado
+CÃ©sar: TAMBIEN
+No implementado
+Alarga: INGRESO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: COM
+No implementado
+Alarga: TEXTO
+No implementado
+Juanagrama: DE
+No implementado
+Juanagrama: RELLENO
+No implementado
+ConsomÃ©: EN
+No implementado
+Saco: DOCUMENTOS ELECTRONICOS,
+No implementado
+Saco: QUEDANDO ESENCIALMENTE
+No implementado
+Alocado: IGUAL
+No implementado
+Alocado: AL
+No implementado
+Insertando: 49 palabras
+Total diccionario: 49 palabras
+Saco: TIEMPO QUE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 38 palabras
+Total diccionario: 38 palabras
+Insertando: 2 palabras
+Total diccionario: 40 palabras
+CÃ©sar: COMO
+No implementado
+CÃ©sar: POR
+No implementado
+Alocado: EJEMPLO
+No implementado
+Insertando: 31 palabras
+Total diccionario: 71 palabras
+Saco: DEFECTO, Y
+No implementado
+Juanagrama: AL
+No implementado
+ConsomÃ©: HACER
+No implementado
+Saco: UNA BUSQUEDA
+No implementado
+CÃ©sar: DE
+No implementado
+CÃ©sar: "LOREM
+No implementado
+Insertando: 3 palabras
+Total diccionario: 74 palabras
+Insertando: 4 palabras
+Total diccionario: 78 palabras
+ConsomÃ©: SITIOS
+No implementado
+Saco: WEB QUE
+No implementado
+Saco: USAN ESTE
+No implementado
+Alocado: TEXTO
+No implementado
+Juanagrama: SI
+No implementado
+Juanagrama: SE
+No implementado
+ConsomÃ©: ENCUENTRAN
+No implementado
+Alarga: EN
+No implementado
+Juanagrama: ESTADO
+No implementado
+ConsomÃ©: DE
+No implementado
+Alarga: DESARROLLO.
+No implementado
+Insertando: 50 palabras
+Total diccionario: 128 palabras
+Saco: CLÂ´SICA DE
+No implementado
+Alarga: LA
+No implementado
+Insertando: 30 palabras
+Total diccionario: 158 palabras
+Juanagrama: DE
+No implementado
+Alocado: HAMPDEN-SYDNEY
+No implementado
+CÃ©sar: EN
+No implementado
+Partidas: VIR ENC UNA LAS MAS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: DEL LEN DEL "CO
+No implementado
+Insertando: 50 palabras
+Total diccionario: 50 palabras
+Partidas: EST LIB
+No implementado
+Insertando: 22 palabras
+Total diccionario: 72 palabras
+Partidas: AME VIE DEU LIN ENL SEC 1.1 ELT DET EST DEL
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: IPSUM USADO
+No implementado
+CÃ©sar: DESDE
+No implementado
+Insertando: 44 palabras
+Total diccionario: 44 palabras
+Saco: Â¿DONDE PUEDO
+No implementado
+Saco: CONSEGUIRLO? HAY
+No implementado
+Saco: MUCHAS VARIACIONES
+No implementado
+Insertando: 48 palabras
+Total diccionario: 92 palabras
+Saco: NADA AVERGONZANTE
+No implementado
+ConsomÃ©: ESCONDIDO
+No implementado
+Insertando: 43 palabras
+Total diccionario: 135 palabras
+Alocado: PROVENIENTES
+No implementado
+Saco: DEL LATIN,
+No implementado
+Partidas: COM CON
+No implementado
+ConsomÃ©: MUY
+No implementado
+Saco: UTILES DE
+No implementado
+Alocado: SENTENCIAS,
+No implementado
+CÃ©sar: PARA
+No implementado
+Alarga: GENERAR
+No implementado
+Alocado: TEXTO
+No implementado
+CÃ©sar: DE
+No implementado
+Alocado: LOREM
+No implementado
+CÃ©sar: IPSUM
+No implementado
+CÃ©sar: QUE
+No implementado
+ConsomÃ©: PAREZCA
+No implementado
+Insertando: 30 palabras
+Total diccionario: 165 palabras
+ConsomÃ©: AMET...'
+No implementado
+Saco: GENERAR LOREM
+No implementado
+Alarga: IPSUM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: TIME
+No implementado
+Insertando: 11 palabras
+Total diccionario: 11 palabras
+CÃ©sar: OTRO
+No implementado
+Alarga: LENGUAJE?
+No implementado
+Alarga: POR
+No implementado
+Partidas: FAV ENV
+No implementado
+ConsomÃ©: UN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: CORREO
+No implementado
+Alarga: ELECTRONICO
+No implementado
+Juanagrama: CON
+No implementado
+Juanagrama: LOS
+No implementado
+Partidas: DET SIP AYU AHO HAY SER DEB
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: DISPONIBLES
+No implementado
+Juanagrama: AQUI
+No implementado
+Saco: EN TRES
+No implementado
+CÃ©sar: COLORES
+No implementado
+ConsomÃ©: Y
+No implementado
+Alocado: EN
+No implementado
+ConsomÃ©: UN
+No implementado
+Alarga: RANGO
+No implementado
+Alocado: DE
+No implementado
+Saco: TAMAÃ‘OS ESTANDAR:
+No implementado
+Alocado: BANNERSBANNERSBANNERS
+No implementado
+Partidas: DON SIU
+No implementado
+Juanagrama: ESTE
+No implementado
+Alarga: SITIO
+No implementado
+Alarga: REGULARMENTE
+No implementado
+Insertando: 43 palabras
+Total diccionario: 43 palabras
+Vaciando
+Total diccionario: 0 palabras
+Alarga: GTK
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: LIP RAI .NE GRO ADO PLU
+No implementado
+CÃ©sar: EL
+No implementado
+Insertando: 28 palabras
+Total diccionario: 28 palabras
+Partidas: UTE ADM VEN QUI NOS EXE ULL LAB NIS UTA EXE
+No implementado
+Saco: COMMODO CONSEQUAT.
+No implementado
+ConsomÃ©: DUIS
+No implementado
+Alarga: AUTE
+No implementado
+Saco: IRURE DOLOR
+No implementado
+CÃ©sar: IN
+No implementado
+Insertando: 26 palabras
+Total diccionario: 54 palabras
+Saco: EST LABORUM."
+No implementado
+Alocado: SECCION
+No implementado
+Juanagrama: 1.10.32
+No implementado
+Alarga: DE
+No implementado
+Insertando: 33 palabras
+Total diccionario: 87 palabras
+CÃ©sar: AB
+No implementado
+Alocado: ILLO
+No implementado
+Juanagrama: INVENTORE
+No implementado
+Partidas: VER ETQ ARC BEA VIT DIC SUN EXP NEM ENI
+No implementado
+ConsomÃ©: IPSAM
+No implementado
+Partidas: VOL QUI VOL SIT AUT AUT SED CON
+No implementado
+ConsomÃ©: MAGNI
+No implementado
+CÃ©sar: DOLORES
+No implementado
+ConsomÃ©: EOS
+No implementado
+Juanagrama: QUI
+No implementado
+Insertando: 31 palabras
+Total diccionario: 118 palabras
+Juanagrama: ALIQUAM
+No implementado
+CÃ©sar: QUAERAT
+No implementado
+ConsomÃ©: VOLUPTATEM.
+No implementado
+CÃ©sar: UT
+No implementado
+Alocado: ENIM
+No implementado
+Saco: AD MINIMA
+No implementado
+Juanagrama: VENIAM,
+No implementado
+Partidas: QUI NOS EXE ULL COR SUS LAB NIS
+No implementado
+Juanagrama: UT
+No implementado
+Saco: ALIQUID EX
+No implementado
+Alocado: EA
+No implementado
+Partidas: COM CON QUI AUT VEL IUR REP QUI EAV
+No implementado
+CÃ©sar: VELIT
+No implementado
+Alocado: ESSE
+No implementado
+Partidas: QUA NIH MOL CON
+No implementado
+Insertando: 7 palabras
+Total diccionario: 125 palabras
+CÃ©sar: VOLUPTAS
+No implementado
+Saco: NULLA PARIATUR?"
+No implementado
+Insertando: 7 palabras
+Total diccionario: 132 palabras
+Alocado: "BUT
+No implementado
+Partidas: IMU EXP TOY HOW THI MIS IDE OFD PLE
+No implementado
+Alocado: AND
+No implementado
+Insertando: 40 palabras
+Total diccionario: 172 palabras
+Insertando: 43 palabras
+Total diccionario: 215 palabras
+Partidas: BEC OCC
+No implementado
+Partidas: CIR OCC INW TOI AND CAN HIM GRE PLE TOT ATR
+No implementado
+Insertando: 12 palabras
+Total diccionario: 227 palabras
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: SOME
+No implementado
+Insertando: 15 palabras
+Total diccionario: 15 palabras
+Alarga: CHOOSES
+No implementado
+Partidas: TOE
+No implementado
+Saco: A PLEASURE
+No implementado
+Saco: THAT HAS
+No implementado
+Partidas: NOA CON
+No implementado
+ConsomÃ©: OR
+No implementado
+Alocado: ONE
+No implementado
+Juanagrama: WHO
+No implementado
+Saco: AVOIDS A
+No implementado
+CÃ©sar: PAIN
+No implementado
+ConsomÃ©: THAT
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: PRODUCES
+No implementado
+CÃ©sar: NO
+No implementado
+Saco: RESULTANT PLEASURE?"
+No implementado
+Insertando: 25 palabras
+Total diccionario: 25 palabras
+ConsomÃ©: DIGNISSIMOS
+No implementado
+Saco: DUCIMUS QUI
+No implementado
+Saco: BLANDITIIS PRAESENTIUM
+No implementado
+Insertando: 19 palabras
+Total diccionario: 44 palabras
+Juanagrama: QUI
+No implementado
+Insertando: 31 palabras
+Total diccionario: 75 palabras
+Alarga: QUO
+No implementado
+CÃ©sar: MINUS
+No implementado
+CÃ©sar: ID
+No implementado
+Partidas: QUO MAX PLA FAC POS OMN VOL ASS EST OMN DOL
+No implementado
+Insertando: 22 palabras
+Total diccionario: 97 palabras
+Juanagrama: ITAQUE
+No implementado
+ConsomÃ©: EARUM
+No implementado
+Saco: RERUM HIC
+No implementado
+Saco: TENETUR A
+No implementado
+ConsomÃ©: SAPIENTE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: DELECTUS,
+No implementado
+Juanagrama: UT
+No implementado
+ConsomÃ©: AUT
+No implementado
+CÃ©sar: REICIENDIS
+No implementado
+Alarga: VOLUPTATIBUS
+No implementado
+Saco: MAIORES ALIAS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: CONSEQUATUR
+No implementado
+ConsomÃ©: AUT
+No implementado
+Juanagrama: PERFERENDIS
+No implementado
+Saco: DOLORIBUS ASPERIORES
+No implementado
+Saco: REPELLAT." TRADUCCION
+No implementado
+CÃ©sar: HECHA
+No implementado
+ConsomÃ©: POR
+No implementado
+ConsomÃ©: H.
+No implementado
+Alocado: RACKHAM
+No implementado
+Insertando: 43 palabras
+Total diccionario: 43 palabras
+CÃ©sar: TO
+No implementado
+Juanagrama: ENSUE;
+No implementado
+Alocado: AND
+No implementado
+Insertando: 31 palabras
+Total diccionario: 74 palabras
+Alocado: AND
+No implementado
+Alocado: EASY
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: TO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: DISTINGUISH.
+No implementado
+Alocado: IN
+No implementado
+CÃ©sar: A
+No implementado
+Juanagrama: FREE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: HOUR,
+No implementado
+Partidas: WHE OUR OFC ISU AND NOT
+No implementado
+Alocado: PREVENTS
+No implementado
+Juanagrama: OUR
+No implementado
+Partidas: BEI ABL TOD WHA WEL BES EVE
+No implementado
+Alocado: PLEASURE
+No implementado
+Partidas: IST BEW AND PAI AVO BUT
+No implementado
+Alarga: CERTAIN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: CIRCUMSTANCES
+No implementado
+Juanagrama: AND
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: OWING
+No implementado
+Partidas: TOT
+No implementado
+Insertando: 22 palabras
+Total diccionario: 22 palabras
+CÃ©sar: WISE
+No implementado
+Alocado: MAN
+No implementado
+ConsomÃ©: THEREFORE
+No implementado
+ConsomÃ©: ALWAYS
+No implementado
+Alarga: HOLDS
+No implementado
+ConsomÃ©: IN
+No implementado
+Alarga: THESE
+No implementado
+CÃ©sar: MATTERS
+No implementado
+ConsomÃ©: TO
+No implementado
+ConsomÃ©: THIS
+No implementado
+ConsomÃ©: PRINCIPLE
+No implementado
+CÃ©sar: OF
+No implementado
+Partidas: SEL HER PLE TOS OTH GRE
+No implementado
+Alarga: PLEASURES,
+No implementado
+Alarga: OR
+No implementado
+Saco: ELSE HE
+No implementado
+Juanagrama: ENDURES
+No implementado
+CÃ©sar: PAINS
+No implementado
+Alarga: TO
+No implementado
+Alarga: AVOID
+No implementado
+Saco: WORSE PAINS."
+No implementado
+Alocado: LOREM
+No implementado
+Juanagrama: IPSUM
+No implementado
+CÃ©sar: "NEQUE
+No implementado
+Saco: PORRO QUISQUAM
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: EST
+No implementado
+ConsomÃ©: QUI
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: DOL IPS QUI DOL SIT CON ADI VEL
+No implementado
+Saco: "NO HAY
+No implementado
+Partidas: NAD QUE ELD MIS QUE BUS LOE YLO
+No implementado
+Insertando: 33 palabras
+Total diccionario: 33 palabras
+Juanagrama: DE
+No implementado
+Juanagrama: LAS
+No implementado
+CÃ©sar: INDUSTRIAS
+No implementado
+Juanagrama: DESDE
+No implementado
+CÃ©sar: EL
+No implementado
+ConsomÃ©: AÃ‘O
+No implementado
+Alarga: 1500,
+No implementado
+Alarga: CUANDO
+No implementado
+Partidas: UNI (N. T.P QUE
+No implementado
+ConsomÃ©: DEDICA
+No implementado
+Alarga: A
+No implementado
+Saco: LA IMPRENTA)
+No implementado
+Alarga: DESCONOCIDO
+No implementado
+ConsomÃ©: USO
+No implementado
+Juanagrama: UNA
+No implementado
+Juanagrama: GALERIA
+No implementado
+Insertando: 22 palabras
+Total diccionario: 55 palabras
+CÃ©sar: QUE
+No implementado
+Partidas: TAM ING COM TEX DER END
+No implementado
+CÃ©sar: ELECTRONICOS,
+No implementado
+CÃ©sar: QUEDANDO
+No implementado
+Saco: ESENCIALMENTE IGUAL
+No implementado
+ConsomÃ©: AL
+No implementado
+Alocado: ORIGINAL.
+No implementado
+Alarga: FUE
+No implementado
+Saco: POPULARIZADO EN
+No implementado
+CÃ©sar: LOS
+No implementado
+Saco: 60S CON
+No implementado
+Juanagrama: LA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: CREACION
+No implementado
+Alocado: DE
+No implementado
+Insertando: 37 palabras
+Total diccionario: 37 palabras
+CÃ©sar: HACE
+No implementado
+Alarga: DEMASIADO
+No implementado
+Alarga: TIEMPO
+No implementado
+Saco: QUE UN
+No implementado
+Alarga: LECTOR
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: SE DISTRAERA
+No implementado
+Partidas: CON CON DEL DEU SIT MIE QUE
+No implementado
+CÃ©sar: SU
+No implementado
+Alarga: DISEÃ‘O.
+No implementado
+CÃ©sar: EL
+No implementado
+Insertando: 41 palabras
+Total diccionario: 41 palabras
+Insertando: 26 palabras
+Total diccionario: 67 palabras
+Partidas: DAR RES MUC SIT WEB USA EST TEX SIS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: ENCUENTRAN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: EN
+No implementado
+CÃ©sar: ESTADO
+No implementado
+Saco: DE DESARROLLO.
+No implementado
+Partidas: MUC VER HAN ATR DEL
+No implementado
+ConsomÃ©: AÃ‘OS,
+No implementado
+Saco: ALGUNAS VECES
+No implementado
+Saco: POR ACCIDENTE,
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: OTRAS
+No implementado
+Partidas: VEC APR (PO EJE INS HUM
+No implementado
+Juanagrama: Y
+No implementado
+Partidas: COS POR EST Â¿D DON VIE ALC DEL
+No implementado
+Insertando: 11 palabras
+Total diccionario: 11 palabras
+ConsomÃ©: TIENE
+No implementado
+CÃ©sar: SUS
+No implementado
+Saco: RAICES EN
+No implementado
+Alarga: UNA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: PIEZA
+No implementado
+ConsomÃ©: CLÂ´SICA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: DEL LIT DEL QUE DEL
+No implementado
+Insertando: 41 palabras
+Total diccionario: 41 palabras
+Alarga: UN
+No implementado
+Partidas: PAS DEL IPS YAL LEY
+No implementado
+Juanagrama: DISTINTOS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: TEXTOS
+No implementado
+Alarga: DEL
+No implementado
+Alocado: LATIN,
+No implementado
+CÃ©sar: DESCUBRIO
+No implementado
+Insertando: 44 palabras
+Total diccionario: 44 palabras
+Vaciando
+Total diccionario: 0 palabras
+Partidas: MUY DUR ELR LAP
+No implementado
+Insertando: 42 palabras
+Total diccionario: 42 palabras
+Saco: "DE FINIBUS
+No implementado
+Alarga: BONORUM
+No implementado
+Insertando: 46 palabras
+Total diccionario: 88 palabras
+Saco: MANERA, YA
+No implementado
+Saco: SEA PORQUE
+No implementado
+Insertando: 8 palabras
+Total diccionario: 96 palabras
+Saco: NO PARECEN
+No implementado
+ConsomÃ©: NI
+No implementado
+Alocado: UN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: POC CRE SIV AUT UNP DEL IPS
+No implementado
+Alarga: NECESITAS
+No implementado
+Alocado: ESTAR
+No implementado
+Saco: SEGURO DE
+No implementado
+Alocado: QUE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: NO
+No implementado
+ConsomÃ©: HAY
+No implementado
+Partidas: NAD AVE ESC ENE MED DEL TOD LOS DEL IPS
+No implementado
+ConsomÃ©: QUE
+No implementado
+Partidas: SEE ENI TIE ARE TRO PRE CUA SEA HAC
+No implementado
+ConsomÃ©: A
+No implementado
+Saco: ESTE EL
+No implementado
+Insertando: 17 palabras
+Total diccionario: 17 palabras
+Juanagrama: LATIN,
+No implementado
+Saco: COMBINADAS CON
+No implementado
+Alocado: ESTRUCTURAS
+No implementado
+Juanagrama: MUY
+No implementado
+Saco: UTILES DE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: SENTENCIAS,
+No implementado
+Saco: PARA GENERAR
+No implementado
+Alocado: TEXTO
+No implementado
+Alocado: DE
+No implementado
+Saco: LOREM IPSUM
+No implementado
+ConsomÃ©: QUE
+No implementado
+Saco: PAREZCA RAZONABLE.
+No implementado
+ConsomÃ©: ESTE
+No implementado
+Alocado: LOREM
+No implementado
+ConsomÃ©: IPSUM
+No implementado
+Juanagrama: GENERADO
+No implementado
+Alocado: SIEMPRE
+No implementado
+Alocado: ESTARA
+No implementado
+Insertando: 36 palabras
+Total diccionario: 36 palabras
+Juanagrama: ESTE
+No implementado
+Alocado: SITIO
+No implementado
+Alocado: EN
+No implementado
+CÃ©sar: OTRO
+No implementado
+ConsomÃ©: LENGUAJE?
+No implementado
+Alarga: POR
+No implementado
+Saco: FAVOR ENVIANOS
+No implementado
+Saco: UN CORREO
+No implementado
+Alarga: ELECTRONICO
+No implementado
+ConsomÃ©: CON
+No implementado
+CÃ©sar: LOS
+No implementado
+Alarga: DETALLES
+No implementado
+Juanagrama: SI
+No implementado
+Alocado: PODES
+No implementado
+ConsomÃ©: AYUDAR.
+No implementado
+Insertando: 10 palabras
+Total diccionario: 46 palabras
+Saco: COLORES Y
+No implementado
+Alocado: EN
+No implementado
+Juanagrama: UN
+No implementado
+Juanagrama: RANGO
+No implementado
+Alocado: DE
+No implementado
+CÃ©sar: TAMAÃ‘OS
+No implementado
+ConsomÃ©: ESTANDAR:
+No implementado
+Alarga: BANNERSBANNERSBANNERS
+No implementado
+Alocado: DONAR:
+No implementado
+Juanagrama: SI
+No implementado
+CÃ©sar: UTILIZAS
+No implementado
+Insertando: 41 palabras
+Total diccionario: 87 palabras
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: NODEJS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: TEX PACKAGE
+No implementado
+Alocado: PYTHON
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 22 palabras
+Total diccionario: 22 palabras
+Alarga: AMET,
+No implementado
+Alarga: CONSECTETUR
+No implementado
+CÃ©sar: ADIPISCING
+No implementado
+Saco: ELIT, SED
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: DOE TEM INC UTL ETD
+No implementado
+ConsomÃ©: MAGNA
+No implementado
+Alocado: ALIQUA.
+No implementado
+Alocado: UT
+No implementado
+Alarga: ENIM
+No implementado
+Alarga: AD
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: MINIM VENIAM,
+No implementado
+Juanagrama: QUIS
+No implementado
+Saco: NOSTRUD EXERCITATION
+No implementado
+Saco: ULLAMCO LABORIS
+No implementado
+Saco: NISI UT
+No implementado
+Alocado: ALIQUIP
+No implementado
+CÃ©sar: EX
+No implementado
+Partidas: EAC CON DUI AUT IRU DOL INR
+No implementado
+Partidas: INV VEL ESS CIL DOL EUF NUL PAR EXC SIN
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: OCCAECAT
+No implementado
+CÃ©sar: CUPIDATAT
+No implementado
+Saco: NON PROIDENT,
+No implementado
+Insertando: 31 palabras
+Total diccionario: 31 palabras
+ConsomÃ©: UNDE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: OMNIS
+No implementado
+ConsomÃ©: ISTE
+No implementado
+Alarga: NATUS
+No implementado
+Insertando: 20 palabras
+Total diccionario: 20 palabras
+CÃ©sar: VITAE
+No implementado
+Partidas: DIC SUN EXP NEM ENI IPS VOL QUI VOL SIT AUT AUT
+No implementado
+Alarga: SED
+No implementado
+Alocado: QUIA
+No implementado
+Insertando: 25 palabras
+Total diccionario: 45 palabras
+Partidas: NON EIU MOD TEM INC UTL ETD MAG ALI QUA
+No implementado
+Partidas: VOL UTE ADM
+No implementado
+CÃ©sar: VENIAM,
+No implementado
+Saco: QUIS NOSTRUM
+No implementado
+Saco: EXERCITATIONEM ULLAM
+No implementado
+Insertando: 20 palabras
+Total diccionario: 65 palabras
+ConsomÃ©: VELIT
+No implementado
+Saco: ESSE QUAM
+No implementado
+Juanagrama: NIHIL
+No implementado
+Insertando: 24 palabras
+Total diccionario: 89 palabras
+Alocado: YOU
+No implementado
+Alarga: HOW
+No implementado
+Insertando: 41 palabras
+Total diccionario: 130 palabras
+Partidas: ONE DIS ORA PLE ITS BEC ITI PLE BUT THO WHO
+No implementado
+Juanagrama: NOT
+No implementado
+CÃ©sar: KNOW
+No implementado
+ConsomÃ©: HOW
+No implementado
+Alarga: TO
+No implementado
+ConsomÃ©: PURSUE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 23 palabras
+Total diccionario: 23 palabras
+Saco: ITSELF, BECAUSE
+No implementado
+Alarga: IT
+No implementado
+Saco: IS PAIN,
+No implementado
+Alarga: BUT
+No implementado
+Saco: BECAUSE OCCASIONALLY
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: CIR OCC INW TOI AND CAN HIM
+No implementado
+Alarga: GREAT
+No implementado
+ConsomÃ©: PLEASURE.
+No implementado
+CÃ©sar: TO
+No implementado
+Alocado: TAKE
+No implementado
+Alocado: A
+No implementado
+Alocado: TRIVIAL
+No implementado
+ConsomÃ©: EXAMPLE,
+No implementado
+CÃ©sar: WHICH
+No implementado
+ConsomÃ©: OF
+No implementado
+Saco: US EVER
+No implementado
+Juanagrama: UNDERTAKES
+No implementado
+Insertando: 32 palabras
+Total diccionario: 32 palabras
+Alarga: OR
+No implementado
+ConsomÃ©: ONE
+No implementado
+Partidas: WHO APA THA PRO NOR PLE SEC 1.1 DE" FIN BON
+No implementado
+Saco: ET MALORUM",
+No implementado
+Alocado: ESCRITO
+No implementado
+Alarga: POR
+No implementado
+ConsomÃ©: CICERO
+No implementado
+CÃ©sar: EN
+No implementado
+CÃ©sar: EL
+No implementado
+Insertando: 39 palabras
+Total diccionario: 71 palabras
+Alocado: MOLLITIA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: ANIMI,
+No implementado
+Saco: ID EST
+No implementado
+Juanagrama: LABORUM
+No implementado
+ConsomÃ©: ET
+No implementado
+Insertando: 1 palabras
+Total diccionario: 1 palabras
+Saco: FUGA. ET
+No implementado
+CÃ©sar: HARUM
+No implementado
+CÃ©sar: QUIDEM
+No implementado
+Partidas: RER FAC EST EXP DIS NAM TEM CUM NOB EST OPT CUM
+No implementado
+Alarga: NIHIL
+No implementado
+Partidas: IMP QUO IDQ MAX PLA FAC POS OMN VOL ASS
+No implementado
+ConsomÃ©: EST,
+No implementado
+Alocado: OMNIS
+No implementado
+Partidas: DOL REP TEM
+No implementado
+Alocado: AUTEM
+No implementado
+Juanagrama: QUIBUSDAM
+No implementado
+Insertando: 21 palabras
+Total diccionario: 22 palabras
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: HIC
+No implementado
+CÃ©sar: TENETUR
+No implementado
+Saco: A SAPIENTE
+No implementado
+Saco: DELECTUS, UT
+No implementado
+Juanagrama: AUT
+No implementado
+CÃ©sar: REICIENDIS
+No implementado
+Alocado: VOLUPTATIBUS
+No implementado
+Insertando: 19 palabras
+Total diccionario: 19 palabras
+Partidas: WED WIT RIG IND AND MEN ARE BEG AND BYT
+No implementado
+CÃ©sar: CHARMS
+No implementado
+Alocado: OF
+No implementado
+Juanagrama: PLEASURE
+No implementado
+Alocado: OF
+No implementado
+Insertando: 21 palabras
+Total diccionario: 40 palabras
+ConsomÃ©: BLAME
+No implementado
+Insertando: 31 palabras
+Total diccionario: 71 palabras
+Partidas: TOD INA HOU WHE OUR OFC ISU AND NOT PRE
+No implementado
+CÃ©sar: OUR
+No implementado
+Saco: BEING ABLE
+No implementado
+Alarga: TO
+No implementado
+Juanagrama: DO
+No implementado
+Partidas: WHA WEL BES EVE PLE IST BEW AND PAI AVO BUT CER
+No implementado
+Saco: CIRCUMSTANCES AND
+No implementado
+Juanagrama: OWING
+No implementado
+ConsomÃ©: TO
+No implementado
+Alarga: THE
+No implementado
+Alocado: CLAIMS
+No implementado
+Alarga: OF
+No implementado
+Insertando: 13 palabras
+Total diccionario: 84 palabras
+Saco: TO BE
+No implementado
+Alocado: REPUDIATED
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: AND
+No implementado
+ConsomÃ©: ANNOYANCES
+No implementado
+Insertando: 43 palabras
+Total diccionario: 43 palabras
+Partidas: SIT CON ADI VEL "NO NAD QUE ELD MIS QUE BUS
+No implementado
+Partidas: LOE YLO SIM POR ESE DOL Â¿Q
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Partidas: ESL IPS LOR IPS ESS ELT DER DEL
+No implementado
+Saco: IMPRENTAS Y
+No implementado
+Juanagrama: ARCHIVOS
+No implementado
+Partidas: DET LOR IPS HAS ELT DER EST
+No implementado
+Juanagrama: DE
+No implementado
+CÃ©sar: LAS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: INDUSTRIAS
+No implementado
+Alocado: DESDE
+No implementado
+Alarga: EL
+No implementado
+ConsomÃ©: AÃ‘O
+No implementado
+Saco: 1500, CUANDO
+No implementado
+Partidas: UNI (N. T.P QUE DED ALA
+No implementado
+Insertando: 24 palabras
+Total diccionario: 24 palabras
+Juanagrama: AÃ‘OS,
+No implementado
+Saco: SINO QUE
+No implementado
+Insertando: 2 palabras
+Total diccionario: 26 palabras
+Insertando: 2 palabras
+Total diccionario: 28 palabras
+Alarga: DE
+No implementado
+ConsomÃ©: RELLENO
+No implementado
+Alocado: EN
+No implementado
+Insertando: 18 palabras
+Total diccionario: 46 palabras
+Insertando: 18 palabras
+Total diccionario: 64 palabras
+Juanagrama: ALDUS
+No implementado
+CÃ©sar: PAGEMAKER,
+No implementado
+ConsomÃ©: EL
+No implementado
+Alocado: CUAL
+No implementado
+Insertando: 40 palabras
+Total diccionario: 104 palabras
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: ES
+No implementado
+Insertando: 26 palabras
+Total diccionario: 26 palabras
+Alarga: PARECERLO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: UN
+No implementado
+Insertando: 34 palabras
+Total diccionario: 34 palabras
+ConsomÃ©: POR
+No implementado
+Insertando: 8 palabras
+Total diccionario: 42 palabras
+CÃ©sar: SI
+No implementado
+ConsomÃ©: SE
+No implementado
+Alarga: ENCUENTRAN
+No implementado
+CÃ©sar: EN
+No implementado
+Insertando: 12 palabras
+Total diccionario: 54 palabras
+Juanagrama: ALGUNAS
+No implementado
+ConsomÃ©: VECES
+No implementado
+CÃ©sar: POR
+No implementado
+Saco: ACCIDENTE, OTRAS
+No implementado
+Partidas: VEC APR (PO EJE INS HUM YCO POR EST
+No implementado
+Alarga: Â¿DE
+No implementado
+Insertando: 20 palabras
+Total diccionario: 74 palabras
+Alocado: EN
+No implementado
+CÃ©sar: UNA
+No implementado
+Partidas: PIE CL DEL LIT
+No implementado
+Insertando: 6 palabras
+Total diccionario: 80 palabras
+Partidas: 45A DEC HAC QUE ADQ MAS 200
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: AÃ‘OS
+No implementado
+Insertando: 21 palabras
+Total diccionario: 21 palabras
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 25 palabras
+Total diccionario: 25 palabras
+Alocado: LOREM
+No implementado
+CÃ©sar: IPSUM
+No implementado
+Partidas: VIE DEL SEC 1.1 Y1. DE" FIN BON ETM
+No implementado
+Partidas: (LO EXT DEL YEL POR ESC
+No implementado
+Saco: EN EL
+No implementado
+Alarga: AÃ‘O
+No implementado
+Alocado: 45
+No implementado
+CÃ©sar: ANTES
+No implementado
+Insertando: 43 palabras
+Total diccionario: 68 palabras
+Partidas: USA DES ELA
+No implementado
+ConsomÃ©: 1500
+No implementado
+Juanagrama: ES
+No implementado
+Juanagrama: REPRODUCIDO
+No implementado
+CÃ©sar: DEBAJO
+No implementado
+Alarga: PARA
+No implementado
+ConsomÃ©: AQUELLOS
+No implementado
+CÃ©sar: INTERESADOS.
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: LAS
+No implementado
+CÃ©sar: SECCIONES
+No implementado
+ConsomÃ©: 1.10.32
+No implementado
+ConsomÃ©: Y
+No implementado
+Insertando: 17 palabras
+Total diccionario: 17 palabras
+ConsomÃ©: ACOMPAÃ‘ADAS
+No implementado
+Alocado: POR
+No implementado
+Juanagrama: VERSIONES
+No implementado
+ConsomÃ©: EN
+No implementado
+Insertando: 25 palabras
+Total diccionario: 42 palabras
+Vaciando
+Total diccionario: 0 palabras
+Alocado: MAYORIA
+No implementado
+Partidas: SUF ALT ENA MAN YAS POR SEL
+No implementado
+ConsomÃ©: AGREGO
+No implementado
+Insertando: 28 palabras
+Total diccionario: 28 palabras
+Saco: AVERGONZANTE ESCONDIDO
+No implementado
+Partidas: ENE MED DEL TOD LOS DEL IPS QUE ENC ENI
+No implementado
+Juanagrama: TIENDEN
+No implementado
+Alarga: A
+No implementado
+Alocado: REPETIR
+No implementado
+Partidas: TRO PRE CUA SEA HAC
+No implementado
+Partidas: AES ELU
+No implementado
+CÃ©sar: GENERADOR
+No implementado
+Juanagrama: VERDADERO
+No implementado
+Partidas: (VA ENL INT USA
+No implementado
+Juanagrama: DICCIONARIO
+No implementado
+CÃ©sar: DE
+No implementado
+Partidas: MAS 200
+No implementado
+Saco: PROVENIENTES DEL
+No implementado
+Saco: LATIN, COMBINADAS
+No implementado
+Saco: CON ESTRUCTURAS
+No implementado
+Saco: MUY UTILES
+No implementado
+Saco: DE SENTENCIAS,
+No implementado
+Partidas: PAR GEN TEX
+No implementado
+Partidas: DEL IPS QUE RAZ EST LOR IPS GEN SIE EST
+No implementado
+Juanagrama: LIBRE
+No implementado
+Partidas: DER HUM AGR OPA NOC DEL ETC 5PA PAL BYT
+No implementado
+ConsomÃ©: LISTAS
+No implementado
+ConsomÃ©: COMENZAR
+No implementado
+Alarga: CON
+No implementado
+Insertando: 3 palabras
+Total diccionario: 31 palabras
+Vaciando
+Total diccionario: 0 palabras
+Alocado: SIT
+No implementado
+Alocado: AMET...'
+No implementado
+CÃ©sar: GENERAR
+No implementado
+Insertando: 32 palabras
+Total diccionario: 32 palabras
+Vaciando
+Total diccionario: 0 palabras
+Juanagrama: DE
+No implementado
+Insertando: 33 palabras
+Total diccionario: 33 palabras
+Alocado: PARA
+No implementado
+CÃ©sar: AYUDAR
+No implementado
+Insertando: 35 palabras
+Total diccionario: 68 palabras
+CÃ©sar: EL
+No implementado
+Saco: PASAJE ESTANDAR
+No implementado
+CÃ©sar: LOREM
+No implementado
+Alocado: IPSUM,
+No implementado
+Saco: USADO DESDE
+No implementado
+Insertando: 36 palabras
+Total diccionario: 104 palabras
+ConsomÃ©: EA
+No implementado
+Juanagrama: COMMODO
+No implementado
+Partidas: CON DUI AUT IRU DOL INR INV VEL ESS
+No implementado
+CÃ©sar: CILLUM
+No implementado
+Juanagrama: DOLORE
+No implementado
+Saco: EU FUGIAT
+No implementado
+Saco: NULLA PARIATUR.
+No implementado
+Juanagrama: EXCEPTEUR
+No implementado
+ConsomÃ©: SINT
+No implementado
+Alarga: OCCAECAT
+No implementado
+Partidas: CUP NON SUN INC QUI DES
+No implementado
+Saco: MOLLIT ANIM
+No implementado
+Partidas: IDE LAB
+No implementado
+ConsomÃ©: SECCION
+No implementado
+Alarga: 1.10.32
+No implementado
+Insertando: 46 palabras
+Total diccionario: 150 palabras
+Juanagrama: NEMO
+No implementado
+Juanagrama: ENIM
+No implementado
+Saco: IPSAM VOLUPTATEM
+No implementado
+Alocado: QUIA
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Saco: VOLUPTAS SIT
+No implementado
+Insertando: 42 palabras
+Total diccionario: 42 palabras
+Juanagrama: MAGNAM
+No implementado
+Insertando: 28 palabras
+Total diccionario: 70 palabras
+Insertando: 45 palabras
+Total diccionario: 115 palabras
+ConsomÃ©: BORN
+No implementado
+CÃ©sar: AND
+No implementado
+Alocado: I
+No implementado
+Juanagrama: WILL
+No implementado
+CÃ©sar: GIVE
+No implementado
+Partidas: YOU COM ACC OFT SYS AND THE
+No implementado
+CÃ©sar: TEACHINGS
+No implementado
+CÃ©sar: OF
+No implementado
+Saco: THE GREAT
+No implementado
+Insertando: 26 palabras
+Total diccionario: 141 palabras
+Vaciando
+Total diccionario: 0 palabras
+Alarga: NOT
+No implementado
+Juanagrama: KNOW
+No implementado
+Alocado: HOW
+No implementado
+ConsomÃ©: TO
+No implementado
+CÃ©sar: PURSUE
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+ConsomÃ©: PLEASURE
+No implementado
+CÃ©sar: RATIONALLY
+No implementado
+Juanagrama: ENCOUNTER
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: CONSEQUENCES
+No implementado
+Saco: THAT ARE
+No implementado
+Alarga: EXTREMELY
+No implementado
+Alarga: PAINFUL.
+No implementado
+ConsomÃ©: NOR
+No implementado
+CÃ©sar: AGAIN
+No implementado
+Alarga: IS
+No implementado
+Saco: THERE ANYONE
+No implementado
+CÃ©sar: WHO
+No implementado
+Saco: LOVES OR
+No implementado
+Partidas: PUR ORD TOO PAI OFI
+No implementado
+Alocado: BECAUSE
+No implementado
+Juanagrama: IT
+No implementado
+ConsomÃ©: IS
+No implementado
+Alarga: PAIN,
+No implementado
+Partidas: BUT OCC CIR OCC INW TOI AND CAN HIM GRE PLE
+No implementado
+Alarga: TO
+No implementado
+Saco: TAKE A
+No implementado
+Alarga: TRIVIAL
+No implementado
+Partidas: EXA WHI OFU EVE UND LAB PHY EXE
+No implementado
+Juanagrama: EXCEPT
+No implementado
+CÃ©sar: TO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Insertando: 30 palabras
+Total diccionario: 30 palabras
+Saco: AVOIDS A
+No implementado
+Saco: PAIN THAT
+No implementado
+Saco: PRODUCES NO
+No implementado
+Partidas: RES PLE SEC 1.1 DE" FIN BON ETM ESC POR
+No implementado
+Insertando: 32 palabras
+Total diccionario: 62 palabras
+CÃ©sar: NON
+No implementado
+Juanagrama: PROVIDENT,
+No implementado
+Saco: SIMILIQUE SUNT
+No implementado
+Alocado: IN
+No implementado
+Partidas: CUL QUI DES MOL ANI IDE LAB ETD FUG ETH
+No implementado
+Saco: QUIDEM RERUM
+No implementado
+Juanagrama: FACILIS
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: EST
+No implementado
+Juanagrama: ET
+No implementado
+Alocado: EXPEDITA
+No implementado
+Insertando: 33 palabras
+Total diccionario: 33 palabras
+CÃ©sar: OFFICIIS
+No implementado
+Saco: DEBITIS AUT
+No implementado
+Saco: RERUM NECESSITATIBUS
+No implementado
+Insertando: 30 palabras
+Total diccionario: 63 palabras
+CÃ©sar: REPELLAT."
+No implementado
+CÃ©sar: TRADUCCION
+No implementado
+Saco: HECHA POR
+No implementado
+Juanagrama: H.
+No implementado
+ConsomÃ©: RACKHAM
+No implementado
+Saco: EN 1914
+No implementado
+CÃ©sar: "ON
+No implementado
+Alarga: THE
+No implementado
+ConsomÃ©: OTHER
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: HAND,
+No implementado
+Saco: WE DENOUNCE
+No implementado
+Insertando: 46 palabras
+Total diccionario: 46 palabras
+Juanagrama: THEIR
+No implementado
+Alocado: DUTY
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alocado: THROUGH
+No implementado
+Alocado: WEAKNESS
+No implementado
+Alarga: OF
+No implementado
+Saco: WILL, WHICH
+No implementado
+Alarga: IS
+No implementado
+Saco: THE SAME
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: AS
+No implementado
+Alocado: SAYING
+No implementado
+Insertando: 7 palabras
+Total diccionario: 7 palabras
+Partidas: CAS ARE
+No implementado
+Juanagrama: SIMPLE
+No implementado
+Insertando: 38 palabras
+Total diccionario: 45 palabras
+CÃ©sar: BUT
+No implementado
+Juanagrama: IN
+No implementado
+ConsomÃ©: CERTAIN
+No implementado
+Alocado: CIRCUMSTANCES
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+Alarga: AND
+No implementado
+Juanagrama: OWING
+No implementado
+CÃ©sar: TO
+No implementado
+Vaciando
+Total diccionario: 0 palabras
+CÃ©sar: THE
+No implementado
+Juanagrama: CLAIMS
+No implementado
+ConsomÃ©: OF
+No implementado
+Partidas: DUT ORT OBL OFB
+No implementado
+Alocado: IT
+No implementado
+Saco: WILL FREQUENTLY
+No implementado
+Juanagrama: OCCUR
+No implementado
+CÃ©sar: THAT
+No implementado
+Juanagrama: PLEASURES
+No implementado
+Saco: HAVE TO
+No implementado
+CÃ©sar: BE
+No implementado
+Insertando: 6 palabras
+Total diccionario: 6 palabras
+Alarga: MAN
+No implementado
+Alarga: THEREFORE
+No implementado
+ConsomÃ©: ALWAYS
+No implementado
+Alocado: HOLDS
+No implementado
+Alarga: IN
+No implementado
+ConsomÃ©: THESE
+No implementado
+CÃ©sar: MATTERS
+No implementado
+ConsomÃ©: TO
+No implementado
+Alocado: THIS
+No implementado
+Partidas: PRI OFS HER PLE TOS OTH GRE PLE ORE HEE PAI TOA
+No implementado
+Insertando: 36 palabras
+Total diccionario: 42 palabras
+Alarga: ES
+No implementado
